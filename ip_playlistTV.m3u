@@ -700,7 +700,7 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 http://live.trkmillet.ru/millet/index.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://xn--b1ats.xn--80asehdb/img/logo.png",Муниципальное (Волгоград)
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://xn--b1ats.xn--80asehdb/img/logo.png",МТВ (Волгоград)
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 
 
@@ -833,3 +833,35 @@ http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_DAGESTAN/variant.m3u8
 
+
+#EXTINF:-1 tvg-name="Евразия (Орск)" group-title="Развлекательные" tvg-logo="https://eurasia.orsk.ru/images/logo.svg",Евразия (Орск)
+#EXTGRP:Развлекательные
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+
+
+#EXTINF:-1 tvg-name="Север HD" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/север.png",Север
+#EXTGRP:Развлекательные
+https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/волга.png",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/волга.png" tvg-id="volga",Волга
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/4канал.png",4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://zhar-ptica.tv/sites/default/files/logo.png",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/трк555.png",ТРК 555 HD
+http://trk555.tv:8888/live
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/радость_моя.png",Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
