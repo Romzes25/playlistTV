@@ -880,3 +880,7 @@ http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png",Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/наш_дом.png",Наш Дом
+http://85.234.33.63/stream/c11.m3u8
