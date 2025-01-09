@@ -436,7 +436,7 @@ https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/varian
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="Аист" tvg-logo="https://aisttv.ru/static/aist/img/logo/AIST_Logo.svg",АИСТ
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="Аист" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/аисттв.png",АИСТ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
 
