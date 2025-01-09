@@ -603,7 +603,7 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 
-#EXTINF:-1 tvg-name="Байкал Универ ТВ" group-title="Кино" tvg-logo="https://bgu-tv.ru/assets/svg/logo/tv.svg",Байкал Универ ТВ
+#EXTINF:-1 tvg-name="Байкал Универ ТВ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/байкал_универ.png",Байкал Универ ТВ
 https://stream01.bgu.ru/1/1/playlist.m3u8
 
 
@@ -650,7 +650,6 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360.png",360°
-http://video1.in-news.ru/360/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 https://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 tvg-name="360 Новости" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360новости.png",360° Новости
 #EXTGRP:Новости
@@ -808,7 +807,7 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Енисей HD" group-title="Развлекательные" tvg-logo="https://www.enisey.tv/static/i/logo.svg",Енисей HD
+#EXTINF:-1 tvg-name="Енисей HD" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/енисей.png",Енисей HD
 #EXTGRP:Развлекательные
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
