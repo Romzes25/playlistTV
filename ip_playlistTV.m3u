@@ -570,6 +570,12 @@ http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_TV1000.png",Viju TV1000
+http://91.205.199.3/tv1000/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_TV1000_ru.png",Viju TV1000 Русское кино
+http://91.205.199.3/tv1000ruskoekino/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_V1000_n.png",viju TV1000 новелла
+http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_nature.png",viju Nature
 http://91.205.199.3/viasatnature/index.m3u8
 
@@ -884,3 +890,15 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/наш_дом.png",Наш Дом
 http://85.234.33.63/stream/c11.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://samaragis.ru/wp-includes/images/logo.png",ГИС Самара
+https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/неизвестная_россия.png",Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvr.susu.ru/wp-content/uploads/2023/01/susu-tvлоготип-medium-300x104.png",ЮУрГУ-ТВ
+https://tvrlive.susu.ru/1800k/playlist.m3u8
