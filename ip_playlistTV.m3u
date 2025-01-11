@@ -584,6 +584,8 @@ http://91.205.199.3/viasatnature/index.m3u8
 http://91.205.199.3/vipcomedi/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Viju+" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju+megahit.png",viju+ megahit
 http://91.205.199.3/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="Viju+" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Viju+serial.png",viju+ serial
+http://91.205.199.3/vipserialhd/index.m3u8
 
 
 #EXTINF:-1 group-title="Хобби" tvg-logo="http://avto24tv.ru/images/logo2.png",Авто 24
