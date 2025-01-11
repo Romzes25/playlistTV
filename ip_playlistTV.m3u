@@ -1104,5 +1104,12 @@ http://mp3128.new.streamr.ru/
 #EXTGRP:Радио
 http://mp3128.residance.streamr.ru/
 
+#EXTINF:-1 group-title="Музыкальные",Europa Plus TV
+http://rr3.vipshara-iptv.com/~109dda52c692840728b0297863aa7594d6b/86/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные",EuropaPlus HD
+http://rr3.vipshara-iptv.com/~109dda52c692840728b0297863aa7594d6b/48127/hls/pl.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Europa Plus TV
+#EXTGRP:Музыкальные
+http://myott.top/stream/UA8NHRKJA1/184.m3u8
 
 
