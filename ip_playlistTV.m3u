@@ -681,8 +681,11 @@ http://hls.atvmedia.ru/atv800.m3u8
 http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://a24.press/attachments/f2a99da2f9bf75b1ac98d0da816343cf3f11af6d/store/8a468f545f52cc51af0d6142a551367c88bbb64f124b1bbf144d256aa933/A24_LOGO_400x390_alfa+3.png",Астрахань 24
+#EXTINF:-1 group-title="Региональные" tvg-id="Астрахань 24" tvg-logo="https://a24.press/attachments/f2a99da2f9bf75b1ac98d0da816343cf3f11af6d/store/8a468f545f52cc51af0d6142a551367c88bbb64f124b1bbf144d256aa933/A24_LOGO_400x390_alfa+3.png",Астрахань 24
 http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="Астрахань 24 HD" tvg-logo="https://a24.press/attachments/f2a99da2f9bf75b1ac98d0da816343cf3f11af6d/store/8a468f545f52cc51af0d6142a551367c88bbb64f124b1bbf144d256aa933/A24_LOGO_400x390_alfa+3.png",Астрахань 24 HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="bashkortostan24" tvg-logo="https://gtrk.tv/sites/default/files/bashkortostan24.png",Башкортостан 24
@@ -976,4 +979,9 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-name="Томское время" tvg-logo="https://tomsk-time.ru/img/logo.svg" tvg-id="tomskoe-vremia",Томское время
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TOMSKVREMIA/variant.m3u8
+
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://41-tv.ru/wp-content/uploads/2023/10/cropped-logo_long_big.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ВТК41.png",ВТК «Аргус»
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 
