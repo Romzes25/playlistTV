@@ -1091,5 +1091,18 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlus.png",Europa Plus
 #EXTGRP:Радио
 https://hls-01-regions.emgsound.ru/11_msk/96/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlusTop40.png",Europa Plus Top40
+#EXTGRP:Радио
+http://eptop128.streamr.ru/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlusLight.png",Europa Plus Light
+#EXTGRP:Радио
+http://mp3128.light.streamr.ru/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlusNew.png",Europa Plus New
+#EXTGRP:Радио
+http://mp3128.new.streamr.ru/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlusResiDANCE.png",Europa Plus ResiDANCE
+#EXTGRP:Радио
+http://mp3128.residance.streamr.ru/
+
 
 
