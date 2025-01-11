@@ -910,3 +910,21 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvr.susu.ru/wp-content/uploads/2023/01/susu-tvлоготип-medium-300x104.png",ЮУрГУ-ТВ
 https://tvrlive.susu.ru/1800k/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-id="Мужское Кино" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Мужское_Кино.png",Мужское Кино
+http://stream01.vnet.am/MujskoeKino/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="Кинохит" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинохит.png",Кинохит
+http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="Кинопремьера" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопремьера.png",Кинопремьера
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносвидание.png",Киносвидание
+http://91.205.199.3/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья HD
+http://91.205.199.3:80/kinosemyahd/index.m3u8
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-id="Amedia Hit HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_Hit_HD.png",Amedia Hit HD
+#EXTGRP:Фильмы
+http://stream01.vnet.am/Nauka/mono.m3u8
+
