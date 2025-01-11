@@ -345,7 +345,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="2na2" tvg-logo="https://2x2tv.ru/local/templates/2x2/images/site_180x81_1.gif",2х2
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="Канал 2x2" tvg-logo="https://2x2tv.ru/local/templates/2x2/images/site_180x81_1.gif",2х2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2na2-pl2" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/2x2+2.gif",2x2 (+2)
@@ -824,6 +824,9 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-name="Енисей HD" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/енисей.png",Енисей HD
 #EXTGRP:Развлекательные
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="Енисей" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/енисей.png",Енисей
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 
 
 #EXTINF:-1 tvg-name="Москва Доверие" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/москва_доверие.png",Москва Доверие
@@ -960,4 +963,17 @@ http://158.101.194.132:8080/channel/489a40cb/index.m3u8?q=4965b2524bbd5b7c9cadb3
 #EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/ny2019/logo.png",ДОМ КИНО
 https://stream01.vnet.am/DomKino/mono.m3u8
 
+
+#EXTINF:-1 group-title="Фильмы" tvg-id="HORROR" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HORROR.png",HORROR
+http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ОТС" group-title="Региональные" tvg-logo="https://otstv.ru/local/templates/ots/images/logo_top.png" tvg-id="ots",ОТС
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-name="Томское время" tvg-logo="https://tomsk-time.ru/img/logo.svg" tvg-id="tomskoe-vremia",Томское время
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TOMSKVREMIA/variant.m3u8
 
