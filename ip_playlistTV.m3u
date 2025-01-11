@@ -995,3 +995,13 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_MAYKOP/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
 
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Волгоград24.png" tvg-id="Волгоград 24",Волгоград 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://iryston.tv/wp-content/themes/ir/images/logo.png" tvg-logo="https://iryston.tv/wp-content/themes/ir/images/preloader.gif" tvg-id="Осетия Ирыстон",Осетия Ирыстон
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
+
