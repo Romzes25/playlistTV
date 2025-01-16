@@ -1107,8 +1107,16 @@ http://mp3128.residance.streamr.ru/
 
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Europa_Plus_TV.gif",Europa Plus TV
 http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
-
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Europa_Plus_TV_HD.gif",Europa Plus TV HD
 http://live.admuspeh.my/8033/index.m3u8?token=TestuspehTva
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino1_in.png",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/myzika1_in.png",Музыка 1 International
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/myzika2_in.png",Музыка 2 International
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/myzika_kino_in.png",Музыка Кино International
+http://kino-1.catcast.tv/content/37739/index.m3u8
 
 
