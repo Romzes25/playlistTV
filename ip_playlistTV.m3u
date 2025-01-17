@@ -1125,7 +1125,7 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 http://kino-1.catcast.tv/content/37739/index.m3u8
 
 
-#EXTINF:-1  group-title="Радио" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Новое_Радио_ТВ.png",Новое Радио ТВ
+#EXTINF:-1  group-title="Радио" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Новое_Радио_ТВ.gif",Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Радио" tvg-logo="https://strana.fm/wp-content/uploads/2017/11/logo_171130.png",Страна FM
