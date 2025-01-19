@@ -1,39 +1,39 @@
 #EXTM3U url-tvg=https://iptvx.one/epg/epg.xml.gz deinterlace=1 aspect-ratio=None
-#EXTINF:-1,Playboy UK
+#EXTINF:-1 tvg-logo="https://mypmates.club/images/logo/logo-50x50.png",Playboy UK
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1,AdultIPTV.net Anal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/18+.png",AdultIPTV.net Anal
 https://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1,AdultIPTV.net Woman
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/18+.png",AdultIPTV.net Woman
 https://live.redtraffic.net/woman.m3u8
-#EXTINF:-1,MyCamTV Anal
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV Anal
 https://live.mycamtv.com/anal.m3u8
-#EXTINF:-1,MyCamTV Asian
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV Asian
 https://live.mycamtv.com/asian.m3u8
-#EXTINF:-1,MyCamTV Big Tits
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV Big Tits
 https://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1,MyCamTV Blonde
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV Blonde
 https://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1,MyCamTV Brunette
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV Brunette
 https://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1,MyCamTV Ebony
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV Ebony
 https://live.mycamtv.com/medium.m3u8
-#EXTINF:-1,MyCamTV Latina
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV Latina
 https://live.mycamtv.com/latina.m3u8
-#EXTINF:-1,MyCamTV Skinny
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV Skinny
 https://live.mycamtv.com/arab.m3u8
-#EXTINF:-1,MyCamTV Squirt
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV Squirt
 https://live.mycamtv.com/squirt.m3u8
-#EXTINF:-1,MyCamTV White
+#EXTINF:-1 tvg-logo="https://assets.strpst.com/assets/icons/appicon_mycamtv.com.png",MyCamTV White
 https://live.mycamtv.com/white.m3u8
-#EXTINF:-1,Latina HD 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/18+.png",Latina HD 720
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1,Lesbian HD
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/18+.png",Lesbian HD
 http://live.redtraffic.xyz/lesbian.m3u8
 #EXTINF:-1,18+
 http://cdn.adultiptv.net/gangbang.m3u8#DESCRIPTION ХХХ
-#EXTINF:-1,Miami TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/18+.png",Miami TV
 http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB/chuklist.m3u8
-#EXTINF:-1,Big Tits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/18+.png",Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1,Bigass HD
 http://live.redtraffic.xyz/bigass.m3u8

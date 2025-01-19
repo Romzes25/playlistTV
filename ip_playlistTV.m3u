@@ -664,12 +664,12 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360.png",360°
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360.png",360
 https://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 tvg-name="360 Новости" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360новости.png",360° Новости
+#EXTINF:-1 tvg-name="360 Новости" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360новости.png",360 Новости
 #EXTGRP:Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
-#EXTINF:-1 tvg-name="360 Новости HD" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360новостиHD.png",360° Новости HD
+#EXTINF:-1 tvg-name="360 Новости HD" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360новостиHD.png",360 Новости HD
 #EXTGRP:Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 
@@ -756,7 +756,7 @@ http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="Univer TV" group-title="Детские" tvg-logo="https://universmotri.ru/images/Univer-HD.png",Univer TV
 #EXTGRP:Детские
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+http://cdn.universmotri.ru/live/univer.sdp_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Sochi Live HD" group-title="Познавательные" tvg-logo="https://sochilive.tv/wp-content/uploads/2022/09/frame-1.png",Sochi Live HD
@@ -1056,6 +1056,10 @@ https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://channel11.ru/images/pechQZrJ1nk.jpg",11 канал Полевской
+http://hjplb2qzsf8.a.trbcdn.net/livemaster/qm9inc7byc_stream1/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/МузТВ.png",Муз ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
@@ -1075,6 +1079,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/RU.TV.png" tvg-id="RU.TV",RU.TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/RU.TV.png" tvg-id="RU.TV",RU.TV 720p
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/RU.TV.png" tvg-id="RU.TV",RU.TV HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://1mus.com/images/LOGORUS.png",1MUS
@@ -1130,8 +1138,11 @@ http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Радио" tvg-logo="https://strana.fm/wp-content/uploads/2017/11/logo_171130.png",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Страна FM HD" group-title="Радио" tvg-logo="https://strana.fm/wp-content/uploads/2017/11/logo_171130.png", Страна FM HD
+#EXTINF:-1 tvg-name="Страна FM HD" group-title="Радио" tvg-logo="https://strana.fm/wp-content/uploads/2017/11/logo_171130.png",Страна FM HD
 #EXTGRP:Радио
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Kronehit.png",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 
