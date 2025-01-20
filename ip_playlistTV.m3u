@@ -224,7 +224,6 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvzvezda.ru/static-v2/assets-v2/icons/footer/logo.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/звезда.gif",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="zvezda-pl2" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/звезда+2.gif",Звезда (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
@@ -434,12 +433,12 @@ https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/varian
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://katun24.ru/files/24_new_logo_ny.png" group-title="Региональные",Катунь 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+https://live.katun24.ru:8082/katun/katun/index.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="Аист" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/аисттв.png",АИСТ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://kuzbass1.ru/wp-content/uploads/2023/04/kuzbass_first_logo.png" group-title="Региональные",Кузбасс 1 HD
@@ -534,8 +533,8 @@ https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="kolyma-plus" tvg-logo="https://kolymaplus.ru/static/images/logo/logo-full.ec0d5b9c4c3e.svg",ТВ-Колыма-Плюс
-https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="kolyma-plus" tvg-logo="https://kolymaplus.ru/static/images/logo/logo-full.ec0d5b9c4c3e.svg",Колыма Плюс
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://yk24.ru/wp-content/uploads/2024/06/logo2.png" tvg-id="yakutia24",Якутия 24
@@ -680,13 +679,21 @@ http://hls.atvmedia.ru/atv800.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://arkhyz24.ru/bitrix/templates/arhiz_new/images/logo.png",Архыз 24
 http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://arkhyz24.ru/bitrix/templates/arhiz_new/images/logo.png",Архыз 24 HD
+http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 
 
 #EXTINF:-1 group-title="Региональные" tvg-id="Астрахань 24" tvg-logo="https://a24.press/attachments/f2a99da2f9bf75b1ac98d0da816343cf3f11af6d/store/8a468f545f52cc51af0d6142a551367c88bbb64f124b1bbf144d256aa933/A24_LOGO_400x390_alfa+3.png",Астрахань 24
 http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="Астрахань 24 HD" tvg-logo="https://a24.press/attachments/f2a99da2f9bf75b1ac98d0da816343cf3f11af6d/store/8a468f545f52cc51af0d6142a551367c88bbb64f124b1bbf144d256aa933/A24_LOGO_400x390_alfa+3.png",Астрахань 24 HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="Астрахань 24" tvg-logo="https://a24.press/attachments/f2a99da2f9bf75b1ac98d0da816343cf3f11af6d/store/8a468f545f52cc51af0d6142a551367c88bbb64f124b1bbf144d256aa933/A24_LOGO_400x390_alfa+3.png",Астрахань 24 HD
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdlow.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sport.astrakhan.ru/image/logo-astrakhan-sport.png",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.astrakhan.ru/images/logo.png",Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="bashkortostan24" tvg-logo="https://gtrk.tv/sites/default/files/bashkortostan24.png",Башкортостан 24
@@ -704,7 +711,7 @@ https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/к16.png",К16 (Саров)
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/к16.png",Канал 16 (Саров)
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 
 
@@ -1058,6 +1065,22 @@ http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://channel11.ru/images/pechQZrJ1nk.jpg",11 канал Полевской
 http://hjplb2qzsf8.a.trbcdn.net/livemaster/qm9inc7byc_stream1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dzertv.ru/wp-content/uploads/2023/09/logo25.png",Дзержинск ТВ
+https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://magas.tv/wp-content/uploads/2025/01/photo_2024-05-23_15-40-47-4-160x120.jpg",Ингушетия ТВ
+http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s55424.cdn.ngenix.net/static/i/logo.png",Красная линия ТВ
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvkrasnodar.ru/local/templates/.default/img/logo-mtrk.svg",Краснодар ТВ
+http://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist_sdhigh.m3u8
 
 
 
