@@ -635,11 +635,10 @@ http://hls-igi.cdnvideo.ru/igi/igi1_hq/playlist.m3u8
 http://video.govoritmoskva.ru:8080/rufm/index.m3u8
 
 
-#EXTINF:-1 tvg-name="РБК" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Известия.png",РБК
+#EXTINF:-1 tvg-name="РБК" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рбк.png",РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 tvg-name="РБК" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Известия.png", РБК HD
+#EXTINF:-1 tvg-name="РБК" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рбк.png",РБК HD
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-https://e2-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 
 
 #EXTINF:-1 group-title="Религия" tvg-logo="https://static.tildacdn.com/tild6538-3532-4131-b630-376536636664/HOPE_LOGO.svg",Надежда
@@ -1084,6 +1083,14 @@ http://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist_sdhigh.m3u8
 http://185.46.48.18:8080/media15/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://nvk-online.ru/new/wp-content/uploads/2025/01/logo25.png",НВК Саха HD
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://nntv.tv/_data/objects/0005/4417/icon.png",ННТВ
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/МузТВ.png",Муз ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
@@ -1099,6 +1106,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Часовые пояса" tvg-id="Муз ТВ" tvg-shift="+7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/МузТВ+7.png",Муз ТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://muz.tv-soyuz.ru/images/logo.png",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/RU.TV.png" tvg-id="RU.TV",RU.TV
