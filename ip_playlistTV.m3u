@@ -256,17 +256,15 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Часовые пояса" tvg-id="mir-pl2" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мир+2.png",Мир (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мир+3.png",Мир +3(Казахстан)
-http://sc.id-tv.kz/Mir_36_37.m3u8
 http://sc.id-tv.kz/Mir.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Часовые пояса" tvg-id="mir-pl4" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мир+4.png",Мир (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Часовые пояса" tvg-id="mir-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мир+7.png",Мир (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Мир 24 HD" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мир24.png",Мир 24 HD
@@ -441,9 +439,9 @@ https://live.katun24.ru:8082/katun/katun/index.m3u8
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://kuzbass1.ru/wp-content/uploads/2023/04/kuzbass_first_logo.png" group-title="Региональные",Кузбасс 1 HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://kuzbass1.ru/wp-content/uploads/2023/04/kuzbass_first_logo.png" group-title="Региональные",Кузбасс Первый
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
+http://rmhkuzbass.ru:8082/10kanal/k24_720/playlist.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="mir-belogoria" tvg-logo="https://mirbelogorya.ru/templates/bootstrap/images/logo-color.svg",Мир Белогорья
@@ -469,7 +467,6 @@ https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KALUGA_NIKA/variant
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="lipeckoe-vremia" tvg-logo="https://lipetsk.rosstv.ru/site/files/channels/FfgGzeqw4HHMe0n29REvg7f2BZT8kG.png",Липецкое время
 #EXTGRP:Новости
-https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 
 
@@ -1081,6 +1078,10 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 
 #EXTINF:-1 tvg-logo="https://tvkrasnodar.ru/local/templates/.default/img/logo-mtrk.svg",Краснодар ТВ
 http://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist_sdhigh.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://media15.ru/images/logo.gif",Медиа 15
+http://185.46.48.18:8080/media15/index.m3u8
 
 
 
