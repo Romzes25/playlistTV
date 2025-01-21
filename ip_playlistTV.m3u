@@ -199,9 +199,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv" tvg-logo="https://static2.ntv.ru/static/images/logo.png",НТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static2.ntv.ru/static/images/logo.png",НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+https://cdn.ntv.ru/ntv7_sd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 tvg-logo="https://static2.ntv.ru/static/images/logo.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/нтв+1.png",НТВ +1
@@ -413,6 +411,12 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_OTV/variant.m3u8
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://sakh.online/attachments/29ca25e65ac4053f07f2dd5f0578f4b5b73663c3/store/9c1dcb1048f948246433392471c95454490aabdaa0923cc4ae895af93bc4/Ресурс+1otv_on_2025.svg" tvg-id="otv-saxalin",ОТВ Сахалин
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+#EXTINF:-1 tvg-logo="https://otv-media.ru/local/templates/otv/img/logo.png",ОТВ (Серпухов)
+http://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://obkomtv.omsk-kprf.ru/sites/all/themes/obkom/logo.png",Обком ТВ
+http://www.omsk-kprf.ru/hls/stream.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="gubernia" tvg-logo="https://gubernia.com/wp-content/themes/gubernia/static/img/logo170bold.svg",Губерния
@@ -461,8 +465,6 @@ https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u
 
 #EXTINF:-1 tvg-name="Ника ТВ" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="nika-tv" tvg-logo="https://nikatv.ru/public/img/logo.svg",Ника ТВ
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Ника ТВ" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="nika-tv" tvg-logo="https://nikatv.ru/public/img/logo.svg",Ника ТВ (Калуга)
-https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KALUGA_NIKA/variant.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="lipeckoe-vremia" tvg-logo="https://lipetsk.rosstv.ru/site/files/channels/FfgGzeqw4HHMe0n29REvg7f2BZT8kG.png",Липецкое время
@@ -472,7 +474,7 @@ http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый_областной.png" tvg-id="pervy-oblastnoy-orel",Первый областной
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_ORL_PERVOBL/variant.m3u8
+http://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/65_97993691/720p/c3ee180611bde15cd97252345bc860ac/4738299574.m3u8?live=15&ref=https://obl1.ru
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://tkr-info.ru/tpl/img/logo.svg" tvg-id="trk-ryazan",ТКР Рязань
@@ -482,7 +484,6 @@ https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="novy-vek-tambov" tvg-logo="https://tvtambov.ru/wp-content/uploads/2024/09/logo_sajt.png",Новый век (Тамбов)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 
 
@@ -503,9 +504,6 @@ https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/vari
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png" tvg-id="pervy-yaroslavsky",Первый Ярославский
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1 tvg-name="Первый Ярославский HD" group-title="Новости" tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png",Первый Ярославский HD
-#EXTGRP:Новости
 http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdlow.m3u8
 
 
@@ -1007,7 +1005,7 @@ https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://iryston.tv/wp-content/themes/ir/images/logo.png" tvg-logo="https://iryston.tv/wp-content/themes/ir/images/preloader.gif" tvg-id="Осетия Ирыстон",Осетия Ирыстон
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
+http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://info24tv.ru/img/logo_modul_info24.png" group-title="Региональные",Инфо 24
