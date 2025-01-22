@@ -400,7 +400,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия и магазины" tvg-logo="https://spastv.ru/wp-content/themes/spastv/images/spas_logo.svg" tvg-id="spas",Спас
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://otvprim.tv/uploads/logo/logo_62b179aeefe975-23810311-95022019.png" tvg-id="otv-primorie",ОТВ Владивосток
@@ -443,6 +443,10 @@ https://live.katun24.ru:8082/katun/katun/index.m3u8
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ТВ7.png",ТВ7 (Абакан)
+https://ctv7.ru/live/2.m3u8
+
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://kuzbass1.ru/wp-content/uploads/2023/04/kuzbass_first_logo.png" group-title="Региональные",Кузбасс Первый
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://rmhkuzbass.ru:8082/10kanal/k24_720/playlist.m3u8
@@ -479,7 +483,7 @@ http://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://tkr-info.ru/tpl/img/logo.svg" tvg-id="trk-ryazan",ТКР Рязань
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="novy-vek-tambov" tvg-logo="https://tvtambov.ru/wp-content/uploads/2024/09/logo_sajt.png",Новый век (Тамбов)
@@ -717,7 +721,7 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://stv24.tv/wp-content/themes/stv24tv2019/img/logo.svg",Свое ТВ (Ставрополь)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Своё_ТВ.png",Своё ТВ (Ставрополь)
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 
 
@@ -749,6 +753,10 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://sitv.ru/img/tvprogram/2024/s1.jpg",С1(Сургут)
 https://sitv.ru/hls/stv1024.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sitv.ru/img/tvprogram/2024/86.jpg",Сургут 86 HD
+http://sitv.ru/hls/s86.m3u8
 
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://tv41.ru/static/img/logo.55d8164524cd.png",Щелковское ТВ
