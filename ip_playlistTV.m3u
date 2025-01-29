@@ -1146,6 +1146,10 @@ http://178.57.121.38:8080/idxtra/index.m3u8?token=test
 http://31.210.208.171:8080/malysh/index.m3u8?token=+W2MSER
 
 
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://optim.tildacdn.com/tild3032-3563-4361-b130-393766626562/-/resize/120x/-/format/webp/logo_galaxy_invert.png",Тайны галактики
+http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
+
+
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/МузТВ.png",Муз ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
