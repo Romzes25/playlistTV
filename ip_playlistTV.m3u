@@ -57,7 +57,6 @@ https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 
 
-
 #EXTINF:-1 tvg-name="Россия 24 HD" group-title="Новости" tvg-logo="https://vgtrk.ru/i/logo-russia-24.svg",Россия 24 HD
 #EXTGRP:Новости
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
@@ -785,9 +784,11 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Univer TV" group-title="Детские" tvg-logo="https://universmotri.ru/images/Univer-HD.png",Univer TV
-#EXTGRP:Детские
+#EXTINF:-1 tvg-name="Univer TV" group-title="Региональные" tvg-logo="https://universmotri.ru/images/Univer-HD.png",Univer TV
+#EXTGRP:Региональные
 http://cdn.universmotri.ru/live/univer.sdp_720p/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://universmotri.ru/images/Univer-HD.png",UNIVER HD (Казань)
+http://dmi3y-tv.ru/hls/region/CH_UNIVERHD_KZN.m3u8
 
 
 #EXTINF:-1 tvg-name="Sochi Live HD" group-title="Познавательные" tvg-logo="https://sochilive.tv/wp-content/uploads/2022/09/frame-1.png",Sochi Live HD
@@ -1150,7 +1151,40 @@ http://31.210.208.171:8080/malysh/index.m3u8?token=+W2MSER
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
 
 
+#EXTINF:-1 group-title="Каналы от Dmitry-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/D-TV6.png",D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://zapad-24.ru/img/logo.png",Запад 24 (Калининград)
+https://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Нижний_Новгород_24.png",Нижний Новгород 24
+http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24_NN.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Нижний_Новгород_24_HD.png",Нижний Новгород 24 HD
+http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
+
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://nsk49.ru/wp-content/themes/nsk49/i/logo.svg",НСК 49 канал (Новосибирск)
+http://dmi3y-tv.ru/hls/region/CH_NSK49CHANNEL_NSK.m3u8
+
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://lentv24.ru/media/assets/logo.svg",Лен ТВ 24 (Санкт-Петербург)
+http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
+
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvspb.ru/images/logo/logo-80.svg",Санкт-Петербург HD (Санкт-Петербург) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8.m3u8
+
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://static.wixstatic.com/media/cca25c_8d1af75e9def40c89f0d8e532c1da6b8~mv2.png/v1/fill/w_235,h_49,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%D0%A2%D0%B5%D0%BB%D0%B5%D0%94%D0%BE%D0%BC%20%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82.png",Теледом HD720 (Санкт-Петербург)
+http://dmi3y-tv.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Dmitry-tv_HD.png",Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/МузТВ.png",Муз ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="Муз ТВ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/МузТВ.png",Муз ТВ
