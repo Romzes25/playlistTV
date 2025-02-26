@@ -416,7 +416,7 @@ https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 http://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://obkomtv.omsk-kprf.ru/sites/all/themes/obkom/logo.png",Обком ТВ
+#EXTINF:-1 tvg-logo="https://obkomtv.omsk-kprf.ru/sites/all/themes/obkom/logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Обком_ТВ_logo.png",Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
 
 
@@ -611,7 +611,7 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Общественные" tvg-logo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/TV_BRICS_logo.png",TV BRICS
 #EXTGRP:Познавательные
 http://185.23.80.29:8080/TVBRICS/index.m3u8?token=test
-#EXTINF:-1 tvg-name="TV BRICS HD" group-title="Познавательные" tvg-logo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg",TV BRICS HD
+#EXTINF:-1 tvg-name="TV BRICS HD" group-title="Познавательные" tvg-logo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/TV_BRICS_logo.png",TV BRICS HD
 #EXTGRP:Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 
