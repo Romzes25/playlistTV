@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 #EXTINF:-1 group-title="Общие" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первыйHD.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал HD
-http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDI1IDg6MDA6MTkgUE0maGFzaF92YWx1ZT1IdHVGZDlCamxHVUFqa3VNSERhVWF3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал
 http://31.210.208.171:8080/1kanal/index.m3u8?token=+W2MSER
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Первый канал" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+2.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (Орбита 4 +2)
@@ -123,11 +123,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts-pl7" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/стс+7.gif",СТС (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.prima-tv.ru/img/logo.png",Прима
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x10804504/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://www.prima-tv.ru/img/logo.png",Прима (Красноярск)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
@@ -437,7 +437,7 @@ https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/varian
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://katun24.ru/files/k24_new_logo.png" group-title="Региональные" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Катунь_logo.png",Катунь 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://live.katun24.ru:8082/katun/katun/index.m3u8
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="Аист" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/аисттв.png",АИСТ
@@ -527,7 +527,7 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="kaskad24" tvg-logo="https://kaskad.tv/images/kaskad2022/logo_2022.png",Каскад
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="novgorodskoe-obl-tv" tvg-logo="https://novgorod-tv.ru/wp-content/themes/ix/images/logo.svg",Новгородское областное телевидение
@@ -535,7 +535,7 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://sampotv360.ru/wp-content/uploads/2021/11/Logo-300x300-1-150x150.jpeg" group-title="Региональные" tvg-logo="https://sampotv360.ru/wp-content/uploads/2021/11/BannersFIN-01-1024x256.png",Сампо ТВ 360°
-http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
+https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/rusever.png" tvg-id="russky-sever",Русский Север
@@ -708,10 +708,10 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="bashkortostan24" tvg-logo="https://gtrk.tv/sites/default/files/bashkortostan24.png",Башкортостан 24
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="bashkortostan24" tvg-logo="https://gtrk.tv/sites/default/files/bashkortostan24.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Башкортостан_24_logo.png",Башкортостан 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="bashkortostan24" tvg-logo="https://gtrk.tv/sites/default/files/bashkortostan24.png",Башкортостан 24 HD
+#EXTINF:-1 group-title="Региональные" tvg-id="bashkortostan24" tvg-logo="https://gtrk.tv/sites/default/files/bashkortostan24.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Башкортостан_24_logo.png",Башкортостан 24 HD
 http://live.gtrk.tv/720/b24-720.m3u8
 
 
@@ -830,7 +830,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Москва 24" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/м24.png",Москва 24
 #EXTGRP:Новости
-http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_2.m3u8
+http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
 
 
 #EXTINF:-1 tvg-name="Русский иллюзион" group-title="Кино" tvg-logo="https://www.russkiyillusion.ru/img/logo.svg",Русский иллюзион
