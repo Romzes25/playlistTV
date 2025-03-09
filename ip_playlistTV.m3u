@@ -840,6 +840,11 @@ http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
 http://195.26.83.96:7006/play/a00y/index.m3u8
 
 
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+
+http://176.113.48.221:8986/73
+
+
+
 #EXTINF:-1 tvg-name="Radio Van 103.0 FM Yerevan" group-title="Радио" tvg-logo="https://www.radiovan.fm/css/images/radiovan.svg",Radio Van 103.0 FM Yerevan
 #EXTGRP:Радио
 http://stream.radiovan.fm/stream/index.m3u8
@@ -964,10 +969,16 @@ http://stream01.vnet.am/MujskoeKino/index.m3u8
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Кинопремьера" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопремьера.png",Кинопремьера
 http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/lgvOVxm.png",Кинопремьера HD
+http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киносвидание.png",Киносвидание
 http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья HD
 http://91.205.199.3:80/kinosemyahd/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
+http://176.113.48.221:8986/85
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/OGUMa1A.png",Киномикс HD
+http://176.113.48.221:8986/67
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="Amedia Hit HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_Hit_HD.png",Amedia Hit HD
@@ -1003,8 +1014,10 @@ http://31.148.48.15:80/MGM_HD/index.m3u8?token=test
 http://158.101.194.132:8080/channel/489a40cb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/ny2019/logo.png",ДОМ КИНО
+#EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/ny2019/logo.png",Дом кино
 https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/7N6giYx.png",Дом кино Премиум
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="HORROR" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HORROR.png",HORROR
@@ -1226,8 +1239,32 @@ http://de.kineskop.club/site2/1189/1009756_8d4ce93dffb25f78_0_0_fs2.m3u8
 http://194.158.222.36:6086
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.png",Видеокассета
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",Видеокассета
 https://playlist.nuum.ru/abr/4968/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/ZH5LuXU.png",Дорама
+http://178.212.236.3:8802/play/a015
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/xDVcDOc.png",Индия
+http://stream01.vnet.am/ZeeTV/mono.m3u8
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/UU4SGuk.png",Камеди HD
+http://ott.server-iptv.live/676/video.m3u8?token=M4f082ab4c
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/Otfvlmf.png",Кинеко
+http://176.113.48.221:8986/115
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/L01RjKe.png",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/vBR6oX6.png",Любимое кино
+http://176.113.48.221:8986/129
 
 
 
