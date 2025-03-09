@@ -485,7 +485,7 @@ http://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://tkr-info.ru/tpl/img/logo.svg" tvg-id="trk-ryazan",ТКР Рязань
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Толк_ТВ.png",Толк ТВ
@@ -1186,6 +1186,23 @@ http://dmi3y-tv.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
 http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino1_in.png",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black
+http://91.205.199.3/black/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red
+http://91.205.199.3/red/index.m3u8
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi
+http://stream01.vnet.am/Kinoseriya/mono.m3u8
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
+http://91.205.199.3/amedia2/index.m3u8
+
 
 
 
