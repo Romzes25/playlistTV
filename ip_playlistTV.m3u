@@ -47,8 +47,7 @@ http://%64m%693%79-%74%76.ru/hls/T2/CH_RUSSIA1_4.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://34572b64.cbilant.com/iptv/WM7RRQVNPC642F/6038/index.m3u8
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=2 tvg-id="rossia1-pl7" group-title="Информационный;Развлекательные;Новостные" tvg-logo="https://vgtrk.ru/i/logo-russia-one.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россия1.png",Россия 1 (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://54170383.amazzin.pw/iptv/2K98FD8RFXR7RX/15334/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia1-sd/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1-pl8" group-title="Информационный;Развлекательные;Новостные" tvg-logo="https://vgtrk.ru/i/logo-russia-one.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россия1.png",Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://54170383.amazzin.pw/iptv/2K98FD8RFXR7RX/6051/index.m3u8
@@ -121,7 +120,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL_2/variant.m3u8?source:iptvmate.net
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://%64m%693%79-%74%76.ru/hls/T2/CH_KARUSEL_4.m3u8
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=8 tvg-id="karusel-pl7" group-title="Детские" tvg-logo="https://www.karusel-tv.ru/images/logo/2022-winter/logo.png",Карусель (+7) [Wink]
-http://54170383.amazzin.pw/iptv/2K98FD8RFXR7RX/15340/index.m3u8
+http://5.137.214.211:1234/udp/225.54.223.160:5000
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/отр.png",ОТР
@@ -147,7 +146,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=10 tvg-id="tvcentr-pl7" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/твц+7.png",ТВ Центр (+7)
-http://54170383.amazzin.pw/iptv/2K98FD8RFXR7RX/6041/index.m3u8
+http://5.137.214.211:1234/udp/225.54.223.184:5000
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rentv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/РЕНТВ.png",РЕН ТВ
@@ -262,7 +261,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="tnt" tvg-shift="0" tvg-logo="https://static.tnt-online.ru/images/2023/logo_tnt.png",ТНТ (Саратов) [Wink]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_TNT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt" tvg-logo="https://static.tnt-online.ru/images/2023/logo_tnt.png",ТНТ
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="tnt" tvg-logo="https://static.tnt-online.ru/images/2023/logo_tnt.png",ТНТ [Wink]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://92.53.64.197:5050/TNT/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt-pl2" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тнт+2.gif",ТНТ (+2)
