@@ -43,7 +43,7 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_7_sd
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=12 tvg-logo="https://spastv.ru/wp-content/themes/spastv/images/spas_logo.svg",Спас (+7)
 #EXTGRP:Религия и магазины
-http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy8xNTM0NC9pbmRleC5tM3U4IiwiaWQiOjE5MzR9/fast
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/15344/index.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=13 tvg-id="sts-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/стс+7.gif",СТС (+7)
 #EXTGRP:Часовые пояса
@@ -74,13 +74,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/стсlove.gif",СТС Love
 http://dmi3y-tv.ru/hls/CH_STSLOVE.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="sts-love" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/стсlove.gif",СТС Love (+7) [НЕ исправен!]
-https://as01.sh365.org/4356/mpegts?token=6tLyYuQqvqskrp
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt4-pl7" group-title="Часовые пояса" tvg-logo="https://tnt4.ru/images/2023/logo_tnt4.png",ТНТ4 (+7)
 http://ott2.server-iptv.live/154/video.m3u8?token=S89FA532AB
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Часовые пояса" tvg-id="che-pl7" tvg-logo="https://chetv.ru/build/img/logo-che.svg",Че! (+7)
-https://mhd116.iptv2022.com/p/OvDkeDpeJihdpbku_V9v_A,1752994557/streaming/cheplus7/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/hFDAuks6h4I9FkQej3X9aw,1753080943/streaming/cheplus7/324/1/index.m3u8
 
 
 
