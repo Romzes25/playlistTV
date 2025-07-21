@@ -18,7 +18,7 @@ https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=5 tvg-id="5kanal-ru-pl7" group-title="Часовые пояса" tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятый_канал.png" url-scrlogo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg",Пятый канал (+7)
 #EXTGRP:Информационный
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_7
+https://mhd116.iptv2022.com/p/-Rz0Tdw4uLvNJSIK1iYQQA,1753167428/streaming/5kanalplus7/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=6 tvg-id="kultura-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россияК_logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россияК_logo.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-k.svg",Россия К (+7)
 #EXTGRP:Просветительский;Федеральный
@@ -988,22 +988,22 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/vBR6oX6.png",Любимое кино
-http://130.193.73.10:8937/play/a037
+http://213.91.178.133:8000/play/a0af
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/95Y8jb6.png",Мосфильм.Золотая коллекция [НЕ исправен!]
-http://87.76.32.36:9106/udp/238.1.1.100:1234
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/95Y8jb6.png",Мосфильм.Золотая коллекция
+http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy82MzkyL2luZGV4Lm0zdTgiLCJpZCI6Mjc5fQ%3D%3D/fast
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/8ey32hB.png",Русский бестселлер
-http://178.212.236.3:8802/play/421
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/kaRKp2u.png",Русский детектив
 http://95.156.76.230:33001/udp/230.4.34.71:1234
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский роман
 http://95.156.76.230:33001/udp/230.4.34.69:1234
 
 
-#EXTINF:-1 group-title="Фильмы плюс" tvg-logo="https://i.imgur.com/lidNHkH.png",Kinoman HD [НЕ исправен!]
+#EXTINF:-1 group-title="Фильмы плюс" tvg-logo="https://i.imgur.com/lidNHkH.png",Kinoman HD [Wink]
 http://stream02.vnet.am/Kinoman/mono.m3u8
 
 
@@ -1018,20 +1018,20 @@ https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/9.m3u8
 
 
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт
-http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
+http://31.148.48.15:80/Mult/index.m3u8?token=test
 
-#EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/kIE6Ehu.png",Ani HD
+#EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/kIE6Ehu.png",Ani HD [НЕ исправен!]
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/kIE6Ehu.png",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+http://31.148.48.15:80/Ani/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/QCOUJ30.png",TiJi
 http://31.210.208.171:8080/tiji/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/jNJkLHl.png",В гостях у сказки
-http://178.212.236.3:8802/play/425
+http://178.163.13.187:4022/udp/234.0.0.248:2000
 
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/bBVEP0S.png",Детский Мир
 http://178.124.152.238:8088/detmir
