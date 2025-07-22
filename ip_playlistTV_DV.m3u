@@ -18,7 +18,7 @@ https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=5 tvg-id="5kanal-ru-pl7" group-title="Часовые пояса" tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятый_канал.png" url-scrlogo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg",Пятый канал (+7)
 #EXTGRP:Информационный
-https://mhd116.iptv2022.com/p/-Rz0Tdw4uLvNJSIK1iYQQA,1753167428/streaming/5kanalplus7/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/yjbygTXAhRz_TeiIr4h5_A,1753253964/streaming/5kanalplus7/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=6 tvg-id="kultura-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россияК_logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россияК_logo.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-k.svg",Россия К (+7)
 #EXTGRP:Просветительский;Федеральный
@@ -39,7 +39,7 @@ http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/15341/index.m3u8
 http://ott2.server-iptv.live/155/video.m3u8?token=S89FA532AB
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=11 tvg-id="rentv-pl7" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/РЕНТВ+7.png",РЕН ТВ (+7)
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_7_sd
+https://mhd116.iptv2022.com/p/Gac1jT-LOi7ZPoM5AGGr0w,1753253964/streaming/rentvplus7/324/1/index.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=12 tvg-logo="https://spastv.ru/wp-content/themes/spastv/images/spas_logo.svg",Спас (+7)
 #EXTGRP:Религия и магазины
@@ -47,13 +47,13 @@ http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/15344/index.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=13 tvg-id="sts-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/стс+7.gif",СТС (+7)
 #EXTGRP:Часовые пояса
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_7_sd
+https://mhd116.iptv2022.com/p/0iH1oxz4DtR3e7y2Q5pyrA,1753253964/streaming/stsplus7/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=14 tvg-id="domashny-pl7" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/домашний+7.png",Домашний (+7)
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_7
+https://mhd116.iptv2022.com/p/VPB30wCzwNGC_-OuLTEnog,1753253964/streaming/homeplus7/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=15 tvg-id="tv3-ru-pl7" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тв3+7.png",ТВ 3 (+7)
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_7
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/6045/index.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=16 tvg-id="piatnica-pl7" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятница+7.png",Пятница! (+7)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_7_hd
@@ -369,7 +369,7 @@ http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi1_hq/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Радио" tvg-logo="https://govoritmoskva.ru/static/images/new-logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Говорит_Москва_logo.png",Говорит Москва
+#EXTINF:-1 group-title="Радио ТВ" tvg-logo="https://govoritmoskva.ru/static/images/new-logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Говорит_Москва_logo.png",Говорит Москва
 http://video.govoritmoskva.ru:8080/rufm/index.m3u8
 
 
@@ -566,8 +566,8 @@ http://178.163.13.187:4022/udp/234.0.0.175:2000
 
 
 
-#EXTINF:-1 tvg-name="Radio Van 103.0 FM Yerevan" group-title="Радио" tvg-logo="https://www.radiovan.fm/css/images/radiovan.svg",Radio Van 103.0 FM Yerevan
-#EXTGRP:Радио
+#EXTINF:-1 tvg-name="Radio Van 103.0 FM Yerevan" tvg-logo="https://www.radiovan.fm/css/images/radiovan.svg",Radio Van 103.0 FM Yerevan
+#EXTGRP:Радио ТВ
 http://stream.radiovan.fm/stream/index.m3u8
 
 
