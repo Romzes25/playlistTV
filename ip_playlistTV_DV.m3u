@@ -302,11 +302,11 @@ http://54170383.amazzin.pw/iptv/2K98FD8RFXR7RX/14000/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_TV1000.png",Viju TV1000
-http://109.171.45.109:81/udp/239.54.5.91:1234
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_TV1000.png",Viju TV1000 HD
 http://54170383.amazzin.pw/iptv/2K98FD8RFXR7RX/6387/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_TV1000_ru.png",Viju TV1000 Русское
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/101/index.m3u8
+http://95.156.76.230:33001/udp/230.4.34.96:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_V1000_n.png",viju TV1000 новелла
 http://rr3.tvdosug.net/~20197578c58a8027c24ee952ff568e8fad3/38629/hlsx/pl.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_nature.png",viju Nature
@@ -368,7 +368,7 @@ http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi1_hq/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Радио ТВ" tvg-logo="https://govoritmoskva.ru/static/images/new-logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Говорит_Москва_logo.png",Говорит Москва
+#EXTINF:-1 group-title="Радио ТВ" tvg-logo="https://govoritmoskva.ru/static/images/new-logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Говорит_Москва_logo.png",Говорит Москва [НЕ исправен!]
 http://video.govoritmoskva.ru:8080/rufm/index.m3u8
 
 
@@ -951,7 +951,7 @@ http://195.245.99.242/FOX/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/QAdDARF.png",Kino24 Russia
-http://109.171.45.109:81/udp/239.54.5.91:1234
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/6HQFM4m.png",KinoJam 1 HD [НЕ исправен!]
