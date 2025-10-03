@@ -18,7 +18,7 @@ https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=5 tvg-id="5kanal-ru-pl7" group-title="Часовые пояса" tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятый_канал.png" url-scrlogo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg",Пятый канал (+7)
 #EXTGRP:Информационный
-https://mhd128.iptv2022.com/p/97co7d7VOuDwbWkKiIyuRw,1759474089/streaming/5kanalplus7/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/lwpcWxYFJYlN0jHFrmK46Q,1759560440/streaming/5kanalplus7/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=6 tvg-id="kultura-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россияК_logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россияК_logo.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-k.svg",Россия К (+7)
 #EXTGRP:Просветительский;Федеральный
@@ -50,11 +50,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=13 tvg-id="sts-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/стс+7.gif",СТС (+7)
 #EXTGRP:Федеральный;Развлекательные
-https://mhd128.iptv2022.com/p/B6irIVcnyUeKfzuCLpbyXQ,1759474089/streaming/stsplus7/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/r0HstYwlvbQeD9N8xdZ19A,1759560440/streaming/stsplus7/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=14 tvg-id="domashny-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/домашний+7.png",Домашний (+7)
 #EXTGRP:Федеральный;Развлекательные
-https://mhd128.iptv2022.com/p/JtMvr8XMme0M6NaQygwE-g,1759474089/streaming/homeplus7/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/cePTG5gs0mYBh1j-0t8EZQ,1759560440/streaming/homeplus7/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=15 tvg-id="tv3-ru-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тв3+7.png",ТВ 3 (+7)
 #EXTGRP:Федеральный;Развлекательные
