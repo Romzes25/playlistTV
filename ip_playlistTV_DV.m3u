@@ -401,7 +401,7 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 
 
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Nicktoons.png",Nicktoons HD
-http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy84NDkvaW5kZXgubTN1OCIsImlkIjoxMzU4fQ%3D%3D/fast
+http://ce97dd7a.amazzin.pw/iptv/4NDXR85ZWUWFP87QTZKGY7S8/849/index.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Animal_Planet_HD.png",Animal Planet HD
@@ -672,7 +672,7 @@ http://91.194.191.241:8081/chid48/tracks-v1a1/mono.m3u8
 http://93.125.121.61:8383/play/a02t
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+ [НЕ исправен!]
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+
 http://93.125.121.61:8383/play/a01p
 
 
@@ -747,7 +747,7 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 
 
 #EXTINF:-1 tvg-logo="https://zhar-ptica.tv/sites/default/files/logo.png",Жар Птица
-https://mhd128.iptv2022.com/p/sJ-LeUMN4KCsHzgpNRMfDA,1759387916/streaming/jarptica/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/8rqCI3X5KIhwplU48CxfvA,1759560444/streaming/jarptica/324/1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/трк555.png",ТРК 555 HD
@@ -818,7 +818,7 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 http://93.125.121.61:8383/play/Intelsat85k1410
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="Хит HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD
-https://mhd128.iptv2022.com/p/JC1LYyB6DMAzEoZsz71IdA,1759344704/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/HxxrnPWPIu_YvBUpwfmA_Q,1759560441/streaming/hit/324/1/tracks-v5a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="Кинопоказ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопоказ.png",Кинопоказ
@@ -848,12 +848,12 @@ http://195.9.195.3:8080/hls/204717.m3u8?bw9412677559592
 http://194.32.242.245/hollywoodhd/index.m3u8
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню [НЕ исправен!]
-https://mhd128.iptv2022.com/p/H9VLZ78wB95PhaHO0S-ErA,1759258286/streaming/kinomenu/324/1/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню
+https://mhd128.iptv2022.com/p/RGQrM0P8OYjg8G0AMLkgEg,1759560441/streaming/kinomenu/324/1/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/logo240x32.png",Дом кино
-https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://93.125.121.61:8383/play/a02l
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://www.domkino-premium.tv/im/logo.png",Дом кино Премиум
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 
@@ -1003,8 +1003,8 @@ http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_NSK49CHANNELHD.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://lentv24.ru/media/assets/logo.svg",Лен ТВ 24 [Санкт-Петербург] [НЕ исправен!]
-http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://lentv24.ru/media/assets/logo.svg",Лен ТВ 24 [Санкт-Петербург]
+http://185.78.112.17/lot/index.m3u8
 
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://tvspb.ru/images/logo/logo-80.svg",Санкт-Петербург HD (Санкт-Петербург) (auto)
