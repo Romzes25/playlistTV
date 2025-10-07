@@ -1009,7 +1009,7 @@ http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="HORROR" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HORROR.png",HORROR [НЕ исправен!]
-http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vaXloNW1seHcua2xhaXBlZGFsdC5vcmcvaXB0di9ERUhXVEw3REU3WjNVRldQTVU4VTZNWVkvMzE3MDgvaW5kZXgubTN1OCIsImlkIjo0MjUyfQ%3D%3D/fast
+http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ОТС" group-title="Региональные" tvg-logo="https://otstv.ru/local/templates/ots/images/logo_top.png" tvg-id="ots",ОТС
@@ -1221,18 +1221,18 @@ http://194.32.242.245/tv1000/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/6HQFM4m.png",KinoJam 1 HD
-http://ce97dd7a.amazzin.pw/iptv/4NDXR85ZWUWFP87QTZKGY7S8/7260/index.m3u8
+http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDE3MjI1OSwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTY3NDU5LCJzZXNzaW9uX2lkIjoiNWY1OTdkMjI2OWVkMTY3NzNkNjg4MjczOGJjNWI0NzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JM_ZWU0L4wGq1NypZ-QSxFC5DOdRPkfYJZ1KvZAB9zA
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/s3Sqd4L.png",Timeless Dizi Channel
-https://mhd128.iptv2022.com/p/UsYnO7FcyJjXrA2G15BqfQ,1759776382/streaming/dizitv/324/1/tracks-v5a1/mono.m3u8
+http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk5MDc3ODAsImlhdCI6MTc1OTgyMTM4MCwiY2lkIjo2LCJ1aWQiOjk1MTQ5MDk5NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XCpIOtXtoBh6Kf95xDiBF4rF0qLlF-Zr8NgyiutPtA0&offset=3
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",Видеокассета [НЕ исправен!]
 https://132544.edgevideo.ru/streams/132544_962018/1325441080/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",FILM best TV
-http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vaXloNW1seHcua2xhaXBlZGFsdC5vcmcvaXB0di9ERUhXVEw3REU3WjNVRldQTVU4VTZNWVkvMzE3MDgvaW5kZXgubTN1OCIsImlkIjo0MjUyfQ%3D%3D/fast
+http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vhs-ка.png",VHS-ка
@@ -1276,7 +1276,7 @@ http://188.190.222.53/Russkiy_roman/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы плюс" tvg-logo="https://i.imgur.com/lidNHkH.png",Kinoman
-http://ce97dd7a.amazzin.pw/iptv/4NDXR85ZWUWFP87QTZKGY7S8/2121/index.m3u8
+http://95.85.109.219:7000/play/a06a
 
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://sunset-media.org/assets/img/sunsetspaceicon.png",Sunset Space [НЕ исправен!]
@@ -1374,9 +1374,9 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 group-title="Музыка" tvg-id="1mus.ru" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1mus_ru.png"",1mus.ru
 #EXTGRP:Музыка
-http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy8xNDE0NC9pbmRleC5tM3U4IiwiaWQiOjE1MzN9/fast
+http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="Первый музыкальный HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ПервыйМузыкальныйHD.png",Первый Музыкальный HD
-http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy8xNDE0NC9pbmRleC5tM3U4IiwiaWQiOjE1MzN9/fast
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://shanson.tv/i/logo_191112.png",Шансон ТВ
