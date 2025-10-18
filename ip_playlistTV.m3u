@@ -181,7 +181,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний HD
-https://mhd128.iptv2022.com/p/B5jHIGtHyhAzB89wYJQW8A,1760770250/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/HEPw-h68yaaY7joskX1Tog,1760856475/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="domashny" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://188.190.222.53/Domashniy/index.m3u8
@@ -210,7 +210,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="piatnica" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятница.png",Пятница!
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://87.246.54.249:8085/piatnica/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl2" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятница+2.png",Пятница! (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
@@ -296,7 +296,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT4_7/variant.m3u8?source:iptvmate.net
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="che" tvg-logo="https://chetv.ru/build/img/logo-che.svg",Че!
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://31.148.48.15:80/Che/index.m3u8?token=test
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Часовые пояса" tvg-id="che-pl4" tvg-logo="https://chetv.ru/build/img/logo-che.svg",Че! (+4)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Часовые пояса" tvg-id="che-pl4" tvg-logo="https://chetv.ru/build/img/logo-che.svg",Че! (+4) [НЕ исправен!]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Часовые пояса" tvg-id="che-pl7" tvg-logo="https://chetv.ru/build/img/logo-che.svg",Че! (+7)
