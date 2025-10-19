@@ -1239,6 +1239,11 @@ http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
 http://95.66.188.74/VHS/index.m3u8
 
 
+#EXTINF:-1 tvg-name="Revolyo Pulse" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Revolyo_pulse.png",Revolyo Pulse
+#EXTGRP:Фильмы
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
+
+
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/ZH5LuXU.png",Дорама
 https://jekalich.github.io/smtk/channels/dorama.m3u8
 
@@ -1288,6 +1293,9 @@ https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sunset-media.org/assets/img/serial.png",Sunset Serial [НЕ исправен!]
 https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/9.m3u8
 
+#EXTINF:-1 tvg-name="Kizug Тв" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Kizug_Тв.png",Kizug Тв
+#EXTGRP:Развлекательные;Хобби
+https://132544.edgevideo.ru/streams/132544_970181/1325441080/index.m3u8
 
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
