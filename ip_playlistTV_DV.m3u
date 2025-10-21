@@ -18,7 +18,7 @@ https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=5 tvg-id="5kanal-ru-pl7" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятый_канал.png" url-scrlogo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg",Пятый канал (+7)
 #EXTGRP:Информационный
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_5TV_7/variant.m3u8?source:iptvmate.net
+http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/6040/index.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=6 tvg-id="kultura-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россияК_logo.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-k.svg",Россия К (+7)
 #EXTGRP:Просветительский;Федеральный
@@ -34,11 +34,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=9 tvg-id="otr-pl7" tvg-logo="https://cdn.otr-online.ru/public/icons/logo_new.svg",ОТР (+7)
 #EXTGRP:Новостные;Просветительские;Фильмы
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTR/variant.m3u8?version=2
+http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/15341/index.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=10 tvg-id="tvcentr-pl7" tvg-logo="https://www.tvc.ru/build/assets/logo-mobile-CW6O-EuZ.svg",ТВ Центр (+7)
 #EXTGRP:Федеральный
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/6041/index.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=11 tvg-id="rentv-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/РЕНТВ+7.png",РЕН ТВ (+7)
 #EXTGRP:Федеральный
@@ -50,9 +50,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=13 tvg-id="sts-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/стс+7.gif",СТС (+7)
 #EXTGRP:Федеральный;Развлекательные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_STS_7/variant.m3u8?source:iptvmate.net
+http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/6043/index.m3u8
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=14 tvg-id="domashny-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/домашний+7.png",Домашний (+7)
+#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=14 tvg-id="domashny-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/домашний+7.png",Домашний (+7) [НЕ исправен!]
 #EXTGRP:Федеральный;Развлекательные
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNY_7/variant.m3u8?source:iptvmate.net
 
@@ -256,7 +256,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cca25c_8d1af75e9def40c89f0d8e532c1da6b8~mv2.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/теледом.png",Теледом
+#EXTINF:-1 url-scrlogo="https://static.wixstatic.com/media/cca25c_8d1af75e9def40c89f0d8e532c1da6b8~mv2.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/теледом.png",Теледом
 #EXTGRP:Региональные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
@@ -531,7 +531,7 @@ http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Религия" tvg-logo="http://kab.tv/static/images/kab_tv_rus.gif",Каббала ТВ
+#EXTINF:-1 group-title="Религия" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/каббала.png" url-scrlogo="https://www.kabbalah.info/rus/wp-content/uploads/2021/12/logo.svg",Каббала ТВ
 https://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8?source:iptvmate.net
 
 
