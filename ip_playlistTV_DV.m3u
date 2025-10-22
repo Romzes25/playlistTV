@@ -252,6 +252,14 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTGRP:Фильмы
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВхит.png",НТВ Хит
+#EXTGRP:Фильмы
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+
+
+
+
+
 
 
 
@@ -260,44 +268,44 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTGRP:Региональные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
-
-
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.postimg.cc/902dpFH9/9bbd17280355de2606b33e4e19a5f287.png" logo="https://i.postimg.cc/K8p522tX/924aab2c15cf61affada712099913bfa.png" channelId="450" tvg-name="НТВ-Мир" tvg-id="ntv-mir",НТВ Мир
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/902dpFH9/9bbd17280355de2606b33e4e19a5f287.png" channelId="450" tvg-name="НТВ-Мир" tvg-id="ntv-mir",НТВ Мир
+#EXTGRP:Информационный;Развлекательные
 http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy8xNDAzNS9pbmRleC5tM3U4IiwiaWQiOjI3fQ%3D%3D/fast
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВхит.png",НТВ Хит
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/5RFslxi.png",НТВ Хит HD
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВправо.png",НТВ Право
+#EXTGRP:Документально-познавательный
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВстиль.png",НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВстиль.png",НТВ Стиль HD
-http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/20037/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВстиль.png",НТВ Стиль
+#EXTGRP:Познавательные
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Мир 24 HD" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мир24.png",Мир 24 HD
 #EXTGRP:Новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="Развлекательные" tvg-logo="https://tvoetv.com.ru/local/templates/tv/img/logo.png",Твое ТВ
+#EXTINF:-1 tvg-logo="https://tvoetv.com.ru/local/templates/tv/img/logo.png",Твое ТВ
+#EXTGRP:Развлекательные
 http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy8xNDIyOS9pbmRleC5tM3U4IiwiaWQiOjEzMTN9/fast
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://tv7.kz/wp-content/uploads/2023/02/LogoSeven.png",Седьмой канал
+#EXTGRP:Развлекательные;Познавательные
 http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy8yMjEzL2luZGV4Lm0zdTgiLCJpZCI6MjA1MX0%3D/fast
 
-
-#EXTINF:-1 tvg-logo="https://obkomtv.omsk-kprf.ru/sites/all/themes/obkom/logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Обком_ТВ_logo.png",Обком ТВ
+#EXTINF:-1 url-scrlogo="https://obkomtv.omsk-kprf.ru/sites/all/themes/obkom/logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Обком_ТВ_logo.png",Обком ТВ
+#EXTGRP:Региональные
 http://www.omsk-kprf.ru/hls/stream.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://gubernia.com/wp-content/themes/gubernia/static/img/logo170bold.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Губерния_logo.png",Губерния (Хабаровск)
+
+
+
+
+
+
+
+#EXTINF:-1 url-scrlogo="https://gubernia.com/wp-content/themes/gubernia/static/img/logo170bold.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Губерния_logo.png",Губерния (Хабаровск)
+#EXTGRP:Региональные;Информационный;Развлекательные
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
 
 
