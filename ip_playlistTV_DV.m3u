@@ -332,17 +332,17 @@ https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u
 #EXTGRP:Региональные
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="lipeckoe-vremia" tvg-logo="https://lipetsk.rosstv.ru/site/files/channels/FfgGzeqw4HHMe0n29REvg7f2BZT8kG.png",Липецкое время
-#EXTGRP:Новости
+#EXTINF:-1 catchup-days="7" tvg-id="lipeckoe-vremia" tvg-logo="https://lipetsk.rosstv.ru/site/files/channels/FfgGzeqw4HHMe0n29REvg7f2BZT8kG.png",Липецкое время
+#EXTGRP:Региональные;Новости
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый_областной.png" tvg-id="pervy-oblastnoy-orel",Первый областной
