@@ -38,11 +38,11 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTR/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=10 tvg-id="tvcentr-pl7" tvg-logo="https://www.tvc.ru/build/assets/logo-mobile-CW6O-EuZ.svg",ТВ Центр (+7)
 #EXTGRP:Федеральный
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/6041/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=11 tvg-id="rentv-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/РЕНТВ+7.png",РЕН ТВ (+7)
 #EXTGRP:Федеральный
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/6042/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=12 tvg-logo="https://spastv.ru/wp-content/themes/spastv/images/spas_logo.svg",Спас (+7)
 #EXTGRP:Религия;Федеральный
@@ -50,11 +50,11 @@ http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=13 tvg-id="sts-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/стс+7.gif",СТС (+7)
 #EXTGRP:Федеральный;Развлекательные
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/6043/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=14 tvg-id="domashny-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/домашний+7.png",Домашний (+7)
 #EXTGRP:Федеральный;Развлекательные
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/6044/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=15 tvg-id="tv3-ru-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тв3+7.png",ТВ 3 (+7)
 #EXTGRP:Федеральный;Развлекательные
@@ -62,7 +62,7 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/6045/index.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=16 tvg-id="piatnica-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятница+7.png",Пятница! (+7)
 #EXTGRP:Федеральный;Развлекательные
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/6046/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=17 channelId="17" tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/звезда+7.gif",Звезда (+7)
 #EXTGRP:Федеральный;Патриотические
@@ -127,7 +127,7 @@ https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",Видеокассета
 #EXTGRP:Фильмы
-https://s.catcast.tv/content/37925/index.m3u8?token=b76cf5adb2c8fcd80cf346fe66e9c682
+https://s.catcast.tv/content/37925/index.m3u8?token=8575ac747bb98ef5164ac1a277774593
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film_best_tv.gif",FILM best TV
 #EXTGRP:Фильмы
@@ -336,18 +336,18 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTGRP:Региональные;Новости
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый_областной.png" tvg-id="pervy-oblastnoy-orel",Первый областной
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTINF:-1 catchup-days="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый_областной.png" tvg-id="pervy-oblastnoy-orel",Первый областной
+#EXTGRP:Региональные
 http://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/65_97993691/720p/c3ee180611bde15cd97252345bc860ac/4738299574.m3u8?live=15&ref=https://obl1.ru
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://tkr-info.ru/tpl/img/logo.svg" tvg-id="trk-ryazan",ТКР Рязань
