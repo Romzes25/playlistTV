@@ -575,6 +575,9 @@ http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 http://95.85.109.219:7000/play/a08x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_V1000_n.png",viju TV1000 новелла
 http://192.162.64.99:5100/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_action_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_action.png",Viju TV1000 Action HD
+#EXTGRP:Фильмы
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_nature.png",viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 
@@ -1227,6 +1230,9 @@ http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/s3Sqd4L.png",Timeless Dizi Channel
 http://192.162.64.99:5100/play/a00g/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://s.glaz.tv/images/logos/tv/big/moya-planeta.jpg" channelId="53" tvg-id="moya-planeta",Моя Планета
+#EXTGRP:Познавательные
+http://37.193.89.200:81/udp/239.1.5.17:1234
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",Видеокассета
 https://s.catcast.tv/content/37925/index.m3u8?token=3ed4dbe81ebfe59f0e30e542d61a43b2
@@ -1336,6 +1342,38 @@ http://31.148.48.15:80/Multilandiya/index.m3u8?token=test
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/o9kLpAL.png",CTC KIDS INTERNATIONAL [НЕ исправен!]
 http://stream02.vnet.am/DisneyChannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/c6c8b884708cf33e850d86140187e810.jpg" channelId="646" tvg-id="bobior",Бобёр
+#EXTGRP:Хобби;Увлечения
+http://37.193.89.200:81/udp/239.1.2.19:1234
+
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png" channelId="223" tvg-id="oruzhie",Оружие
+#EXTGRP:Хобби;Увлечения
+http://37.193.89.200:81/udp/239.1.2.7:1234
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/multimaniya_logo.png",Мультимания LV
+#EXTGRP:Мультфильмы
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/большая_азия.png",Большая Азия HD
+#EXTGRP:Познавательные
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/наука.png",Наука 2.0
+#EXTGRP:Познавательные
+http://vod.tuva.ru/nauka2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/открытый_мир.png",Открытый мир
+#EXTGRP:Познавательные
+http://v4.proofix.ru/0mir/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/светлое_тв.png",Светлое ТВ
+#EXTGRP:Познавательные
+http://176.107.219.20:9000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/конный_мир.png",Конный мир
+#EXTGRP:Хобби
+http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://sunset-media.org/assets/img/sunsetmusicicon.png",Sunset Music [НЕ исправен!]
@@ -1356,6 +1394,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=20 channelId="20" group-title="Часовые пояса" tvg-id="Муз ТВ" tvg-shift="+7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/МузТВ+7.png",Муз ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тнт_music.png",ТНТ Music HD
+#EXTGRP:Музыка
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/3dae8f6039195d2450462b3d890fb74c.jpg" channelId="282" tvg-id="mezzo-live-hd",Mezzo Live HD
+#EXTGRP:Музыка;Классика
+http://37.193.89.200:81/udp/239.1.10.1:1234
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://muz.tv-soyuz.ru/images/logo.png",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
