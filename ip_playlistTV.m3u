@@ -181,7 +181,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний HD
-https://mhd128.iptv2022.com/p/GvMKAJt365pHQxVBmkggVA,1761245176/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
+http://178.217.72.72/Domashniy/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="domashny" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://188.190.222.53/Domashniy/index.m3u8
@@ -510,7 +510,7 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://sochinskayatrk.ru/images/stories/STRK.gif",СТРК HD
+#EXTINF:-1 tvg-logo="http://sochinskayatrk.ru/images/stories/STRK.gif",СТРК HD [НЕ исправен!]
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 
 
@@ -625,7 +625,7 @@ http://stream01.bgu.ru:8081/1/1/playlist.m3u8
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Истоки ТВ" group-title="Общественные" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png",Истоки ТВ
+#EXTINF:-1 tvg-name="Истоки ТВ" group-title="Общественные" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png",Истоки ТВ [НЕ исправен!]
 http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
 
 
@@ -758,7 +758,7 @@ http://sitv.ru/hls/s86.m3u8
 
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://tv41.ru/static/img/logo.55d8164524cd.png",Щелковское ТВ
-http://stream0.tv41.ru/live.m3u8
+https://stream1.tv41.ru/hls/1080/live.m3u8
 
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://exotv.ru/wp-content/uploads/2024/04/logoG.png",Эхо ТВ
@@ -806,7 +806,7 @@ http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 
-#EXTINF:-1 tvg-name="43 канал HD" group-title="Новости" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD
+#EXTINF:-1 tvg-name="43 канал HD" group-title="Новости" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD [НЕ исправен!]
 #EXTGRP:Новости
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 
@@ -823,7 +823,7 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 
 #EXTINF:-1 tvg-name="Русский иллюзион" group-title="Кино" tvg-logo="https://www.russkiyillusion.ru/img/logo.svg",Русский иллюзион
 #EXTGRP:Кино
-http://195.26.83.96:7006/play/a00y/index.m3u8
+http://178.212.71.253:8000/play/49/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+
@@ -999,7 +999,7 @@ http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню
-https://mhd128.iptv2022.com/p/vUsFkekyfERG1wTdel7Ndw,1761245177/streaming/kinomenu/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/lFusszVxnJFZ_nu3Nk-BVg,1761417632/streaming/kinomenu/324/1/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/logo240x32.png",Дом кино
@@ -1008,7 +1008,7 @@ http://46.8.46.14/domkino/index.m3u8
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="HORROR" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HORROR.png",HORROR
+#EXTINF:-1 group-title="Фильмы" tvg-id="HORROR" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HORROR.png",HORROR [НЕ исправен!]
 http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
 
 
@@ -1200,8 +1200,8 @@ http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub
 http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy8yMDYyL2luZGV4Lm0zdTgiLCJpZCI6MjM5fQ%3D%3D/fast
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi [НЕ исправен!]
-http://rr3.tvdosug.net/~20197578c58a8027c24ee952ff568e8fad3/111/hlsx/pl.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi
+https://tv.tvcdnpotok.com/145/index.m3u8?wmsAuthSign=a89c32837b4c5c4037288d56b6842912-1761377538-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
@@ -1228,10 +1228,10 @@ http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub
 http://192.162.64.99:5100/play/a00g/index.m3u8
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",Видеокассета [НЕ исправен!]
-https://s.catcast.tv/content/37925/index.m3u8?token=2e5786cd18d50776ab6b55f149eb8646
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",Видеокассета
+https://s.catcast.tv/content/37925/index.m3u8?token=3ed4dbe81ebfe59f0e30e542d61a43b2
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",FILM best TV
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",FILM best TV [НЕ исправен!]
 http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
 
 
@@ -1293,7 +1293,7 @@ https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sunset-media.org/assets/img/serial.png",Sunset Serial [НЕ исправен!]
 https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/9.m3u8
 
-#EXTINF:-1 tvg-name="Kizug Тв" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Kizug_Тв.png",Kizug Тв
+#EXTINF:-1 tvg-name="Kizug Тв" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Kizug_Тв.png",Kizug Тв [НЕ исправен!]
 #EXTGRP:Развлекательные;Хобби
 https://132544.edgevideo.ru/streams/132544_970181/1325441080/index.m3u8
 
@@ -1375,10 +1375,10 @@ https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://1mus.com/images/LOGORUS.png",1MUS
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://1mus.com/images/LOGORUS.png",1MUS [НЕ исправен!]
 #EXTGRP:Музыка
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка" tvg-id="Первый музыкальный HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ПервыйМузыкальныйHD.png",Первый музыкальный HD (Россия)
+#EXTINF:-1 group-title="Музыка" tvg-id="Первый музыкальный HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ПервыйМузыкальныйHD.png",Первый музыкальный HD (Россия) [НЕ исправен!]
 http://rtmp.one.by:2300
 #EXTINF:-1 group-title="Музыка" tvg-id="1mus.ru" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1mus_ru.png"",1mus.ru
 #EXTGRP:Музыка
