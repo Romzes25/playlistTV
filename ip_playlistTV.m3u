@@ -480,17 +480,17 @@ http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8?source:iptvmate.net
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="novy-vek-tambov" tvg-logo="https://tvtambov.ru/wp-content/uploads/2024/09/logo_sajt.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Новый_век_logo.png",Новый век (Тамбов)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="novy-vek-tambov" tvg-logo="https://tvtambov.ru/wp-content/uploads/2024/09/logo_sajt.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Новый_век_logo.png",Новый век (Тамбов) [НЕ исправен!]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://1tulatv.ru/img/tulatv2.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Первый_Тульский_logo.png" tvg-id="pervy-tulsky",Первый Тульский
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://1tulatv.ru/img/tulatv2.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Первый_Тульский_logo.png" tvg-id="pervy-tulsky",Первый Тульский [НЕ исправен!]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="gubernia-33" tvg-logo="https://trc33.ru/assets/images/logo.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Губерния_33_logo.png",Губерния 33 HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="gubernia-33" tvg-logo="https://trc33.ru/assets/images/logo.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Губерния_33_logo.png",Губерния 33 HD [НЕ исправен!]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 
@@ -655,11 +655,11 @@ https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Союз" group-title="Религия" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союз.png",Союз
+#EXTINF:-1 tvg-name="Союз" group-title="Религия" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союз.png",Союз [НЕ исправен!]
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Религия" tvg-logo="https://www.3angels.ru/assets/logo-b4c.svg",Три Ангела
+#EXTINF:-1 group-title="Религия" tvg-logo="https://www.3angels.ru/assets/logo-b4c.svg",Три Ангела [НЕ исправен!]
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="Религия" tvg-logo="https://www.3angels.ru/assets/logo-b4c.svg",Три Ангела HD
 http://hls.tv.3angels.ru/stream/HQ.m3u8
@@ -790,7 +790,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 #EXTINF:-1 tvg-name="RTД" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ртд.png",RTД
 #EXTGRP:Познавательные
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RTD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-name="RTД HD" group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ртдHD.png",RTД HD
 #EXTGRP:Познавательные
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
@@ -975,7 +975,7 @@ https://jekalich.github.io/smtk/channels/rodnoe-kino.m3u8
 http://217.25.80.16/Amedia_Hit_HD/mono.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="Хит HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
+http://217.25.80.16/hit_hd/mono.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="Кинопоказ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопоказ.png",Кинопоказ
@@ -985,9 +985,9 @@ http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/20021/index.m3u8
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX [НЕ исправен!]
+#EXTINF:-1 group-title="Фильмы" tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX
 #EXTGRP:Фильмы
-http://195.9.195.3:8080/hls/204708_720.m3u8
+https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=026df1f8530e6a6c9b07f7dad805fbcc-1761553965-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="2FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/2FILMAX.png",2FILMAX [НЕ исправен!]
@@ -1001,8 +1001,8 @@ http://fs2.persik.by/Rekomenduem/index.m3u8
 http://217.25.80.16/Hollywood_HD/mono.m3u8
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню [НЕ исправен!]
-https://mhd128.iptv2022.com/p/lFusszVxnJFZ_nu3Nk-BVg,1761417632/streaming/kinomenu/324/1/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню
+https://mhd128.iptv2022.com/p/RhrWeamWTXXCtMR_EnbTAg,1761594817/streaming/kinomenu/324/1/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/logo240x32.png",Дом кино

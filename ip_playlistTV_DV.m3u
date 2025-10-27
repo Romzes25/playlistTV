@@ -189,19 +189,19 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/7260/index.m3u8
 #EXTGRP:Фильмы
 http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/14006/index.m3u8
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black [НЕ исправен!]
 #EXTGRP:Фильмы
 http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy83MDgvaW5kZXgubTN1OCIsImlkIjoyNDN9/fast
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red [НЕ исправен!]
 #EXTGRP:Фильмы
 http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy8yMDYyL2luZGV4Lm0zdTgiLCJpZCI6MjM5fQ%3D%3D/fast
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi [НЕ исправен!]
 #EXTGRP:Фильмы
 https://tv.tvcdnpotok.com/145/index.m3u8?wmsAuthSign=01a81fcd8e3df03458ecbb558d12a7c0-1761075279-201i401i341i5
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
 #EXTGRP:Фильмы
 http://31.148.48.15:80/A2/index.m3u8?token=test
 
