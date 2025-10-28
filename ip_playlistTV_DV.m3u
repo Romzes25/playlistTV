@@ -191,15 +191,15 @@ http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/14006/index.m3u
 
 #EXTINF:-1 tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=47f50ad8dd1da812ed05e3fe13f615a0-1761637304-201i401i341i5
+https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=73757687b4eeb1e75adc827df82fbb06-1761691122-201i401i341i5
 
-#EXTINF:-1 tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red
 #EXTGRP:Фильмы
-http://iptv.tvzatak.uk/V8FcYNmnz7n/8Zh2qpLfcQ/ceyJ1cmwiOiJodHRwOi8vcHg2cm9hOHYub3R0Y2x1Yi54eXovaXB0di9FUzlXN1pYTVBGVlpGNy8yMDYyL2luZGV4Lm0zdTgiLCJpZCI6MjM5fQ%3D%3D/fast
+https://tv.tvcdnpotok.com/576/index.m3u8?wmsAuthSign=a32316499b29d92a9ac3dc36e50e0179-1761692108-201i401i341i5
 
 #EXTINF:-1 tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=7a026292942e513fbeb9c346c0138c8d-1761639062-201i401i341i5
+https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=85492f7c151bcf0a72b99d6081c26737-1761693028-201i401i341i5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
 #EXTGRP:Фильмы
@@ -219,7 +219,7 @@ https://cityeden.catcast.tv/content/34185/index.m3u8
 https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноМистика_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноМистика.png",Сити Эдем - КиноМистика
 #EXTGRP:Фильмы
-https://autopilot.catcast.tv/content/40783/index.m3u8
+https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_ТелеНовелла_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_ТелеНовелла.png",Сити Эдем - ТелеНовелла
 #EXTGRP:Фильмы
 https://cityeden.catcast.tv/content/46209/index.m3u8
@@ -271,7 +271,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья HD
 #EXTGRP:Фильмы
-http://iptv46.mcx-ix.ru:8077/kinosemya/index.m3u8
+http://87.246.54.249:8085/kinosemia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
 #EXTGRP:Фильмы
 http://188.113.190.12/329/index.m3u8
@@ -534,7 +534,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTGRP:Региональные
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
-#EXTINF:-1 tvg-logo="http://sochinskayatrk.ru/images/stories/STRK.gif",СТРК HD [НЕ исправен!]
+#EXTINF:-1 tvg-logo="http://sochinskayatrk.ru/images/stories/STRK.gif",СТРК HD
 #EXTGRP:Региональные
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 
@@ -584,7 +584,7 @@ https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ru" url-scrlogo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/National_Geographic_logo.png" tvg-name="National Geographic" ,National Geographic
 #EXTGRP:Познавательные
-http://95.142.88.250:80/National_Geographic_Channel_HD/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/nationalgeographic/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://avto24tv.ru/images/logo2.png",Авто 24
 #EXTGRP:Хобби
@@ -717,7 +717,7 @@ http://sitv.ru/hls/s86.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv41.ru/static/img/logo.55d8164524cd.png",Щелковское ТВ
 #EXTGRP:Региональные
-https://stream1.tv41.ru/hls/540/live.m3u8
+https://stream1.tv41.ru/hls/1080/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://exotv.ru/wp-content/uploads/2024/04/logoG.png",Эхо ТВ
 #EXTGRP:Региональные
@@ -751,7 +751,7 @@ http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
 #EXTGRP:Новости
 http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-name="43 канал HD" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD [НЕ исправен!]
+#EXTINF:-1 tvg-name="43 канал HD" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD
 #EXTGRP:Новости
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 
@@ -759,7 +759,7 @@ http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTGRP:Новости
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
-#EXTINF:-1 tvg-name="Kizug Тв" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Kizug_Тв.png",Kizug Тв [НЕ исправен!]
+#EXTINF:-1 tvg-name="Kizug Тв" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Kizug_Тв.png",Kizug Тв
 #EXTGRP:Развлекательные;Хобби
 https://132544.edgevideo.ru/streams/132544_970181/1325441080/index.m3u8
 
@@ -966,7 +966,7 @@ http://194.143.148.28:8080/Nauka20/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/c6c8b884708cf33e850d86140187e810.jpg" channelId="646" tvg-id="bobior",Бобёр
 #EXTGRP:Хобби;Увлечения
-http://37.193.89.200:81/udp/239.1.2.19:1234
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bober
 
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png" channelId="223" tvg-id="oruzhie",Оружие
 #EXTGRP:Хобби;Увлечения
