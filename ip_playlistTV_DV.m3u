@@ -18,11 +18,11 @@ https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=5 tvg-id="5kanal-ru-pl7" group-title="Часовые пояса" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятый_канал.png" url-scrlogo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg",Пятый канал (+7)
 #EXTGRP:Информационный
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/6040/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=6 tvg-id="kultura-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россияК_logo.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-k.svg",Россия К (+7)
 #EXTGRP:Просветительский;Федеральный
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/15338/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=7 tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россия24_logo.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-24.svg",Россия 24 (+7)
 #EXTGRP:Информационный;Новостные
