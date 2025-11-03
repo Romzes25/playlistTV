@@ -1374,6 +1374,13 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTGRP:Хобби
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://312tv.kg/pic/thumb.png",312
+#EXTGRP:Развлекательные
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://312tv.kg/pic/thumb.png",312 Kino
+#EXTGRP:Фильмы
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://sunset-media.org/assets/img/sunsetmusicicon.png",Sunset Music [НЕ исправен!]
@@ -1397,6 +1404,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тнт_music.png",ТНТ Music HD
 #EXTGRP:Музыка
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-logo="https://1hd.ru/img/logo.svg",1HD Music TV
+#EXTGRP:Музыка
+http://91.247.68.229:8000/play/eee/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/3dae8f6039195d2450462b3d890fb74c.jpg" channelId="282" tvg-id="mezzo-live-hd",Mezzo Live HD
 #EXTGRP:Музыка;Классика
