@@ -651,7 +651,7 @@ http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Религия" tvg-logo="http://kab.tv/static/images/kab_tv_rus.gif",Каббала ТВ
+#EXTINF:-1 group-title="Религия" tvg-logo="http://kab.tv/static/images/kab_tv_rus.gif",Каббала ТВ [НЕ исправен!]
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 
 
@@ -834,7 +834,7 @@ https://jekalich.github.io/smtk/channels/illuzion-plus.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Radio Van 103.0 FM Yerevan" group-title="Радио" tvg-logo="https://www.radiovan.fm/css/images/radiovan.svg",Radio Van 103.0 FM Yerevan
+#EXTINF:-1 tvg-name="Radio Van 103.0 FM Yerevan" group-title="Радио" tvg-logo="https://www.radiovan.fm/css/images/radiovan.svg",Radio Van 103.0 FM Yerevan [НЕ исправен!]
 #EXTGRP:Радио ТВ
 http://stream.radiovan.fm/stream/index.m3u8
 
@@ -916,7 +916,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ
-https://salam-vld-rtk-62.rtbcdn.ru/dive/river-5-535.rtbcdn.ru/gQsHdo451hSaUDqJ3womEQ/stream/genetta-511.ost.rutube.ru/7NCAUj9YoVUuDm7_wXjpdA/1762049324/13b0320238d7938a2deffb4065068986/360p_stream.m3u8
+https://salam-vld-rtk-62.rtbcdn.ru/dive/river-5-535.rtbcdn.ru/ycufDYRZZ1UFgBpN0tyZtw/stream/genetta-511.ost.rutube.ru/C4VYmBq6aR4mVtUfS_-P5w/1762736347/13b0320238d7938a2deffb4065068986/360p_stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tbn-tv.com/wp-content/uploads/2024/12/tbn_logo_130x51-1.png",ТБН
@@ -961,7 +961,7 @@ http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киносвидание.png",Киносвидание
 http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья HD
-http://87.246.54.249:8085/kinosemia/index.m3u8
+http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/9228/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
 https://jekalich.github.io/smtk/channels/indiyskoe-kino.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/OGUMa1A.png",Киномикс HD
