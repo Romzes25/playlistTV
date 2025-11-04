@@ -964,8 +964,8 @@ http://178.212.71.253:8000/play/122/index.m3u8
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/9228/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
 https://jekalich.github.io/smtk/channels/indiyskoe-kino.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/OGUMa1A.png",Киномикс HD [НЕ исправен!]
-http://87.246.54.249:8085/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/OGUMa1A.png",Киномикс HD
+http://217.25.80.16/Kinomiks_HD/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/H70LxoZ.png",Родное кино
 https://jekalich.github.io/smtk/channels/rodnoe-kino.m3u8
 
