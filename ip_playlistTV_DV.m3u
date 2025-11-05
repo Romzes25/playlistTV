@@ -189,17 +189,17 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/7260/index.m3u8
 #EXTGRP:Фильмы
 http://193.25.8.59:8000/tlc
 
-#EXTINF:-1 tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black
+#EXTINF:-1 tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black [НЕ исправен!]
 #EXTGRP:Фильмы
 https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=90c964c95ef73d5056a7c1c827fd4d69-1762285853-201i401i341i5
 
-#EXTINF:-1 tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/set/index.m3u8?wmsAuthSign=0fde906e604b8975bb62d2726bb73866-1762238785-201i401i341i5
+https://tv.tvcdnpotok.com/set/index.m3u8?wmsAuthSign=eb8a799b4f39201c4d387264a702af67-1762380783-201i401i341i5
 
-#EXTINF:-1 tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=49624a8be69171858d56b999237e8134-1762239496-201i401i341i5
+https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=2d9c34fff704a810cdb7e8ea1dfd3cc4-1762381527-201i401i341i5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
 #EXTGRP:Фильмы
@@ -208,7 +208,7 @@ http://31.148.48.15:80/A2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДетектив_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДетектив.png",Сити Эдем - КиноДетектив
 #EXTGRP:Фильмы
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДрама_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДрама.png",Сити Эдем - КиноДрама [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДрама_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДрама.png",Сити Эдем - КиноДрама
 #EXTGRP:Фильмы
 https://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКлассика_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКлассика.png",Сити Эдем - КиноКлассика
@@ -310,7 +310,7 @@ https://tv.tvcdnpotok.com/22AK7xu1P3zeI0mrWo3ptg/141/1759119193/index.m3u8
 #EXTGRP:Фильмы
 http://146.120.14.239:3001/play/a06t
 
-#EXTINF:-1 tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню
+#EXTINF:-1 tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню [НЕ исправен!]
 #EXTGRP:Фильмы
 https://mhd128.iptv2022.com/p/fsHTN9gkwkc0zX0JCs0FBQ,1762329203/streaming/kinomenu/324/1/index.m3u8
 
@@ -406,7 +406,7 @@ http://178.212.71.253:8000/play/52/index.m3u8
 #EXTGRP:Детские
 http://v2.catcast.tv/content/38720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnlngRZ.png",Карусель International
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnlngRZ.png",Карусель International [НЕ исправен!]
 #EXTGRP:Мультфильмы
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 
@@ -977,7 +977,7 @@ http://178.212.71.253:8000/play/77/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png" channelId="223" tvg-id="oruzhie",Оружие
 #EXTGRP:Хобби;Увлечения
-http://37.193.89.200:81/udp/239.1.2.7:1234
+http://37.194.166.59:81/udp/239.1.2.7:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/большая_азия.png",Большая Азия HD
 #EXTGRP:Познавательные
@@ -1055,7 +1055,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/3dae8f6039195d2450462b3d890fb74c.jpg" channelId="282" tvg-id="mezzo-live-hd",Mezzo Live HD
 #EXTGRP:Музыка;Классика
-http://37.193.89.200:81/udp/239.1.10.1:1234
+http://37.194.166.59:81/udp/239.1.10.1:1234
 
 
 #EXTINF:-1 url-scrlogo="https://govoritmoskva.ru/static/images/new-logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Говорит_Москва_logo.png",Говорит Москва
