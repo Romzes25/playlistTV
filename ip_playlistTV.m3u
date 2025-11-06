@@ -628,7 +628,7 @@ http://stream01.bgu.ru:8081/1/1/playlist.m3u8
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Истоки ТВ" group-title="Общественные" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png",Истоки ТВ [НЕ исправен!]
+#EXTINF:-1 tvg-name="Истоки ТВ" group-title="Общественные" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png",Истоки ТВ
 http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
 
 
@@ -867,7 +867,7 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8?source:iptvmate.n
 http://178.212.71.253:8000/play/53/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Ники ТВ" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/никитв.png",Ники ТВ
+#EXTINF:-1 tvg-name="Ники ТВ" group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/никитв.png",Ники ТВ [НЕ исправен!]
 #EXTGRP:Развлекательные
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 
@@ -982,12 +982,12 @@ http://217.25.80.16/hit_hd/mono.m3u8
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="Scream" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Scream.png",Scream
-http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/20021/index.m3u8
+http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/20021/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=cfd5919c7011def3f2b41e2cbc7d533e-1762317966-201i401i341i5
+https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=d1b652ecc33f957d22a7abb173adf93b-1762414067-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="2FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/2FILMAX.png",2FILMAX [НЕ исправен!]
@@ -1002,7 +1002,7 @@ http://217.25.80.16/Hollywood_HD/mono.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню
-https://mhd128.iptv2022.com/p/fsHTN9gkwkc0zX0JCs0FBQ,1762329203/streaming/kinomenu/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/0IWvl6YLo2lL8TF8vuF-qA,1762458592/streaming/kinomenu/324/1/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/logo240x32.png",Дом кино
@@ -1196,15 +1196,15 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black
-https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=8eb19c5c7a3ef150230acce70892679b-1762323468-201i401i341i5
+https://tv.tvcdnpotok.com/577/index.m3u8?wmsAuthSign=6a29e96f7ddccce1c6bb428ee5790cbf-1762420265-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red
-https://tv.tvcdnpotok.com/set/index.m3u8?wmsAuthSign=bbe3d9563526a50277daced76d2d0adc-1762324370-201i401i341i5
+https://tv.tvcdnpotok.com/set/index.m3u8?wmsAuthSign=757b214a3677a6f0128602d4632e09af-1762421033-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi
-https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=8f53ea845b28583f7a9ff7730f4946e2-1762325095-201i401i341i5
+https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=16ee2c9f1502abbf217f1690900412b3-1762421756-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
@@ -1283,7 +1283,7 @@ http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/kaRKp2u.png",Русский детектив
 http://178.212.71.253:8000/play/45/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский роман
-http://188.190.222.53/Russkiy_roman/index.m3u8
+http://178.212.71.253:8000/play/42/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы плюс" tvg-logo="https://i.imgur.com/lidNHkH.png",Kinoman
@@ -1344,11 +1344,11 @@ http://stream02.vnet.am/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/c6c8b884708cf33e850d86140187e810.jpg" channelId="646" tvg-id="bobior",Бобёр
 #EXTGRP:Хобби;Увлечения
-http://37.193.89.200:81/udp/239.1.2.19:1234
+http://178.212.71.253:8000/play/77/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png" channelId="223" tvg-id="oruzhie",Оружие
 #EXTGRP:Хобби;Увлечения
-http://37.193.89.200:81/udp/239.1.2.7:1234
+http://178.49.236.206:4022/udp/239.1.2.7:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/multimaniya_logo.png",Мультимания LV
 #EXTGRP:Мультфильмы
@@ -1436,7 +1436,7 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Музыка" tvg-id="Первый музыкальный HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ПервыйМузыкальныйHD.png",Первый музыкальный HD (Россия) [НЕ исправен!]
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="Музыка" tvg-id="1mus.ru" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1mus_ru.png"",1mus.ru [НЕ исправен!]
+#EXTINF:-1 group-title="Музыка" tvg-id="1mus.ru" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1mus_ru.png"",1mus.ru
 #EXTGRP:Музыка
 http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/14142/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="Первый музыкальный HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ПервыйМузыкальныйHD.png",Первый Музыкальный HD
