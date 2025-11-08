@@ -510,7 +510,7 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://sochinskayatrk.ru/images/stories/STRK.gif",СТРК HD
+#EXTINF:-1 tvg-logo="http://sochinskayatrk.ru/images/stories/STRK.gif",СТРК HD [НЕ исправен!]
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 
 
@@ -809,7 +809,7 @@ http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 
-#EXTINF:-1 tvg-name="43 канал HD" group-title="Новости" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD
+#EXTINF:-1 tvg-name="43 канал HD" group-title="Новости" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD [НЕ исправен!]
 #EXTGRP:Новости
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 
@@ -987,7 +987,7 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/20021/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=faf2cac3f31fecd17f043edfc55413c2-1762497417-201i401i341i5
+https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=08d019e34ff4312d6b200b5666e39eb3-1762580815-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="2FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/2FILMAX.png",2FILMAX [НЕ исправен!]
@@ -1001,8 +1001,8 @@ http://fs2.persik.by/Rekomenduem/index.m3u8
 http://217.25.80.16/Hollywood_HD/mono.m3u8
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню [НЕ исправен!]
-https://mhd128.iptv2022.com/p/0IWvl6YLo2lL8TF8vuF-qA,1762458592/streaming/kinomenu/324/1/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню
+https://mhd128.iptv2022.com/p/VSNc_PgxHv-X9s3dk9orPw,1762631577/streaming/kinomenu/324/1/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/logo240x32.png",Дом кино
@@ -1196,15 +1196,15 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black
-https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=c891799a8ac1264df3ea1ad1aa15b90e-1762502800-201i401i341i5
+https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=abf391706e1dd01c0bb4f55ee0f62aa3-1762586331-201i401i341i5
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red [НЕ исправен!]
-https://tv.tvcdnpotok.com/set/index.m3u8?wmsAuthSign=757b214a3677a6f0128602d4632e09af-1762421033-201i401i341i5
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red
+https://tv.tvcdnpotok.com/set/index.m3u8?wmsAuthSign=42ed15754d38a0b5ec156c52e82ca71a-1762587256-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi
-https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=83edee73582bc670a13f919d8d833b11-1762504532-201i401i341i5
+https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=a03fe5e56a5e2a991f367dd3b3eba4fa-1762587968-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
@@ -1228,7 +1228,7 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/7260/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/s3Sqd4L.png",Timeless Dizi Channel
-http://95.142.88.250:80/Timeless_Dizi_Channel/index.m3u8
+http://95.142.88.250/Timeless_Dizi_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.glaz.tv/images/logos/tv/big/moya-planeta.jpg" channelId="53" tvg-id="moya-planeta",Моя Планета
 #EXTGRP:Познавательные
