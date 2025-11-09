@@ -142,10 +142,6 @@ https://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
 #EXTGRP:Фильмы
 http://95.66.188.74/VHS/index.m3u8
 
-#EXTINF:-1 tvg-name="Revolyo Pulse" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Revolyo_pulse.png",Revolyo Pulse [НЕ исправен!]
-#EXTGRP:Фильмы
-https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
-
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/QAdDARF.png",Kino24 Russia
 #EXTGRP:Фильмы
 http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
@@ -310,14 +306,6 @@ http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Scream" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Scream.png",Scream
 #EXTGRP:Фильмы
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/20021/index.m3u8
-
-#EXTINF:-1 tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX Фантастика [НЕ исправен!]
-#EXTGRP:Фильмы
-http://195.9.195.3:8080/hls/204708_720.m3u8
-
-#EXTINF:-1 group-title="Фильмы" tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX Комедия [НЕ исправен!]
-#EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/22AK7xu1P3zeI0mrWo3ptg/141/1759119193/index.m3u8
 
 #EXTINF:-1 tvg-id="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HollywoodHD.png",Hollywood HD
 #EXTGRP:Фильмы
@@ -797,17 +785,13 @@ http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
 #EXTGRP:Новости
 http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-name="43 канал HD" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD [НЕ исправен!]
+#EXTINF:-1 tvg-name="43 канал HD" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал [НЕ исправен!]
 #EXTGRP:Новости
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-name="БелРос" tvg-logo="https://belros.tv/local/templates/2024/i/header/logo.svg",БелРос
 #EXTGRP:Новости
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-
-#EXTINF:-1 tvg-name="Kizug Тв" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Kizug_Тв.png",Kizug Тв [НЕ исправен!]
-#EXTGRP:Развлекательные;Хобби
-https://132544.edgevideo.ru/streams/132544_970181/1325441080/index.m3u8
 
 #EXTINF:-1 tvg-name="Москва 24" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/м24.png",Москва 24
 #EXTGRP:Новости
@@ -994,7 +978,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTGRP:Региональные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://nsk49.ru/wp-content/themes/nsk49/i/logo.svg",НСК 49 канал [Новосибирск] [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://nsk49.ru/wp-content/themes/nsk49/i/logo.svg",НСК 49 [Новосибирск] [НЕ исправен!]
 #EXTGRP:Региональные
 http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_NSK49CHANNELHD.m3u8
 
@@ -1078,7 +1062,7 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTGRP:Музыка
 http://rtmp.one.by:1300
 
-#EXTINF:-1 tvg-id="Первый музыкальный HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ПервыйМузыкальныйHD.png",Первый музыкальный HD (Россия) [НЕ исправен!]
+#EXTINF:-1 tvg-id="Первый музыкальный HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ПервыйМузыкальныйHD.png",Первый музыкальный [НЕ исправен!]
 #EXTGRP:Музыка
 http://rtmp.one.by:2300
 
