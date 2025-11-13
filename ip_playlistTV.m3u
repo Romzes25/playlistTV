@@ -987,8 +987,12 @@ http://146.120.14.239:3001/play/a07p
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/7249/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/H70LxoZ.png",Родное кино
 https://jekalich.github.io/smtk/channels/rodnoe-kino.m3u8
-
-
+#EXTINF:-1 tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин
+#EXTGRP:Детские;Мультфильмы
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png",E
+#EXTGRP:Развлекательные;Видео игры
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Amedia Hit HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_Hit_HD.png",Amedia Hit HD
 #EXTGRP:Фильмы
 http://178.217.72.72/Amedia_Hit/index.m3u8
