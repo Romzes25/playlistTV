@@ -194,9 +194,9 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/7260/index.m3u8
 #EXTGRP:Фильмы
 http://193.25.8.59:8000/tlc
 
-#EXTINF:-1 tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=f29bad3441e5f6c4089a41af67816378-1763066693-201i401i341i5
+https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=33899f32937c1f0c11dbb0c3d1e53bcd-1763160996-201i401i341i5
 
 #EXTINF:-1 tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red
 #EXTGRP:Фильмы
@@ -315,9 +315,9 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/20021/index.m3u8
 #EXTGRP:Фильмы
 http://146.120.14.239:3001/play/a06t
 
-#EXTINF:-1 tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню [НЕ исправен!]
+#EXTINF:-1 tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню
 #EXTGRP:Фильмы
-https://mhd128.iptv2022.com/p/D_m2N-iG3ACS0SEZ6CzTaw,1763020281/streaming/kinomenu/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/rMw6h48J0iYNEFMYm2oDZw,1763193294/streaming/kinomenu/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="ДОМ КИНО" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дом_кино_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дом_кино.png",Дом кино
 #EXTGRP:Фильмы
@@ -694,7 +694,7 @@ https://video1.in-news.ru/360/index.m3u8
 
 #EXTINF:-1 tvg-name="360 Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360новости.png",360 Новости
 #EXTGRP:Региональные;Новостные
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/атв.png",АТВ (Ставрополь)
 #EXTGRP:Региональные
@@ -874,7 +874,7 @@ http://trk555.tv:8888/live
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ
-https://salam-vld-rtk-62.rtbcdn.ru/dive/river-5-535.rtbcdn.ru/RdW8P5FTG26UD0TGV-J_lQ/stream/genetta-511.ost.rutube.ru/4BNKEBdB3q0MNYf5rdu-UA/1763441905/13b0320238d7938a2deffb4065068986/360p_stream.m3u8
+https://salam-vld-rtk-62.rtbcdn.ru/dive/river-5-535.rtbcdn.ru/jQu2ULPml9Z4HrsmDSHOHQ/stream/genetta-512.ost.rutube.ru/tK3hvp21GvTe8EHFdAU0PQ/1763759634/13b0320238d7938a2deffb4065068986/360p_stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tbn-tv.com/wp-content/uploads/2024/12/tbn_logo_130x51-1.png",ТБН
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
@@ -979,8 +979,8 @@ http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nntv.tv/_data/objects/0005/4417/icon.png",ННТВ
 http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Соловьев_Life.png",Соловьев Life [НЕ исправен!]
-https://132544.edgevideo.ru/streams/132544_973535/1325441080/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/соловьёв_live.png",Соловьёв Live
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
 #EXTINF:-1 tvg-logo="https://optim.tildacdn.com/tild3032-3563-4361-b130-393766626562/-/resize/120x/-/format/webp/logo_galaxy_invert.png",Тайны галактики
 #EXTGRP:Познавательные
