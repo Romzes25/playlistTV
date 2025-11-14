@@ -572,7 +572,7 @@ http://95.85.109.219:7000/play/a08v
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_TV1000.png",Viju TV1000 HD
 http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_TV1000_ru.png",Viju TV1000 Русское
-http://95.85.109.219:7000/play/a08x
+https://jekalich.github.io/smtk/channels/tv1000-russkoe-kino.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_V1000_n.png",viju TV1000 новелла
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/2002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_action_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_action.png",Viju TV1000 Action HD
@@ -828,7 +828,7 @@ http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 
-#EXTINF:-1 tvg-name="43 канал HD" group-title="Новости" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD [НЕ исправен!]
+#EXTINF:-1 tvg-name="43 канал HD" group-title="Новости" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD
 #EXTGRP:Новости
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 
@@ -1024,7 +1024,7 @@ http://fs2.persik.by/Rekomenduem/index.m3u8
 http://146.120.14.239:3001/play/a06t
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню
+#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню [НЕ исправен!]
 https://mhd128.iptv2022.com/p/Z3eXXFCCT77Wq-CTfCF1nQ,1763063859/streaming/kinomenu/324/1/index.m3u8
 
 
@@ -1219,15 +1219,15 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black
-https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=1fb90fd7d0227038e7781279a830e225-1763011214-201i401i341i5
+https://tv.tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=bfb839489799d6b871131271ff73761a-1763104322-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red
-https://tv.tvcdnpotok.com/set/index.m3u8?wmsAuthSign=00a195747a73f3f4f8f8dc7a2c708f6b-1763012106-201i401i341i5
+https://tv.tvcdnpotok.com/set/index.m3u8?wmsAuthSign=d3b86659ee2c8952170fbada9700bd9a-1763105194-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi
-https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=9e94befe9ddce07586266adc308a98e8-1763012878-201i401i341i5
+https://tv.tvcdnpotok.com/sony_sci_fi/index.m3u8?wmsAuthSign=d92a8b264a86adffff9d271ec4bddd6a-1763105907-201i401i341i5
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
@@ -1527,7 +1527,7 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Музыка" tvg-id="Первый музыкальный HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ПервыйМузыкальныйHD.png",Первый музыкальный HD (Россия) [НЕ исправен!]
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="Музыка" tvg-id="1mus.ru" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1mus_ru.png"",1mus.ru [НЕ исправен!]
+#EXTINF:-1 group-title="Музыка" tvg-id="1mus.ru" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1mus_ru.png"",1mus.ru
 #EXTGRP:Музыка
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/14142/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="Первый музыкальный HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ПервыйМузыкальныйHD.png",Первый Музыкальный HD
@@ -1563,7 +1563,7 @@ http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/myzika1_in.png",Музыка 1 International [НЕ исправен!]
 http://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/myzika2_in.png",Музыка 2 International
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/myzika2_in.png",Музыка 2 International [НЕ исправен!]
 http://kino-1.catcast.tv/content/37742/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/redcom_tv.png",Redcom TV (Хабаровск)
