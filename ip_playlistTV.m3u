@@ -1236,7 +1236,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/ind
 http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://nsk49.ru/wp-content/themes/nsk49/i/logo.svg",НСК 49 канал [Новосибирск] [НЕ исправен!]
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://nsk49.ru/wp-content/themes/nsk49/i/logo.svg",НСК 49 [Новосибирск] [НЕ исправен!]
 http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_NSK49CHANNELHD.m3u8
 
 
@@ -1246,7 +1246,17 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://tvspb.ru/images/logo/logo-80.svg",Санкт-Петербург HD (Санкт-Петербург) (auto)
 http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Movies
+#EXTGRP:Фильмы
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Кинопанорама
+#EXTGRP:Фильмы
+https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision
+#EXTGRP:Фильмы
+https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://static.wixstatic.com/media/cca25c_8d1af75e9def40c89f0d8e532c1da6b8~mv2.png",Теледом [Санкт-Петербург]
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
