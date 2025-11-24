@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
 #EXTGRP:Федеральный;Информационный
-http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/15333/index.m3u8
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=2 tvg-id="rossia1-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россия1.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-one.svg",Россия 1 (+7)
 #EXTGRP:Информационный;Развлекательные;Новостные
@@ -299,7 +299,7 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 
 #EXTINF:-1 tvg-id="Хит HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD
 #EXTGRP:Фильмы
-https://mhd128.iptv2022.com/p/BTdQgI0-8sIsDE7FONCdKg,1763668632/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/vfPECgXeSpWmnvyB7dtRfg,1764057201/streaming/hit/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Кинопоказ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопоказ.png",Кинопоказ
 #EXTGRP:Фильмы
@@ -345,7 +345,7 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Русский иллюзион" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион.png",Русский иллюзион
 #EXTGRP:Фильмы
-http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/49/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+
 #EXTGRP:Фильмы
@@ -355,7 +355,7 @@ http://217.21.34.160:38003/illuzionplus/index.m3u8
 #EXTGRP:Фильмы
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://312tv.kg/pic/thumb.png",312 Kino
+#EXTINF:-1 tvg-logo="http://312tv.kg/pic/thumb.png",312 Kino [НЕ исправен!]
 #EXTGRP:Фильмы
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
@@ -458,7 +458,7 @@ http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCOUJ30.png",TiJi
 #EXTGRP:Мультфильмы
-http://91.194.191.241:8081/chid41/tracks-v1a1/mono.m3u8
+http://193.27.209.122/tiji/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNJkLHl.png",В гостях у сказки
 #EXTGRP:Мультфильмы
