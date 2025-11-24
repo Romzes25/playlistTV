@@ -329,7 +329,7 @@ http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 http://178.212.71.253:8000/play/45/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский роман
 #EXTGRP:Фильмы
-http://188.190.222.53/Russkiy_roman/index.m3u8
+http://178.212.71.253:8000/play/42/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95Y8jb6.png",Мосфильм
 #EXTGRP:Фильмы
@@ -363,7 +363,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTGRP:Фильмы
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film_box.png",Film Box
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film_box.png",Film Box [НЕ исправен!]
 #EXTGRP:Фильмы
 http://188.190.222.53/FilmBOX/index.m3u8
 
@@ -377,7 +377,7 @@ http://178.212.71.253:8000/play/118/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/еврокино.png",Еврокино
 #EXTGRP:Фильмы
-http://188.190.222.53/Evrokino/index.m3u8
+http://87.120.142.11:18000/STSLove
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX Фантастика
 #EXTGRP:Фильмы
@@ -429,7 +429,7 @@ https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L171KT3/9d8f609c2c25654723ed63403310b6b8.png" logo="https://i.ibb.co/j3f7rGs/5e2021c4e358903e655b189b18ee3847.png" tvg-id="mir-seriala",Мир Сериала
 #EXTGRP:Фильмы;Сериалы
-http://188.190.222.53/Mir_seriala/index.m3u8
+https://jekalich.github.io/smtk/channels/mir-seriala.m3u8
 
 
 
@@ -462,7 +462,7 @@ http://193.27.209.122/tiji/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNJkLHl.png",В гостях у сказки
 #EXTGRP:Мультфильмы
-http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
+http://178.49.212.40:81/udp/239.1.1.68:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/детский_мир.png",Детский Мир
 #EXTGRP:Мультфильмы
@@ -525,7 +525,7 @@ https://jekalich.github.io/smtk/channels/drive.m3u8
 
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png",Глазами туриста
 #EXTGRP:Познавательные;Хобби
-https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
+http://146.120.14.239:3001/play/a0bs
 
 #EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png",Мужской
 #EXTGRP:Познавательные;Хобби
@@ -541,13 +541,13 @@ http://178.212.71.253:8000/play/93/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дикий.png",Дикий
 #EXTGRP:Охота и Рыбалка;Хобби
-http://188.190.222.53/Dikiy/index.m3u8
+https://jekalich.github.io/smtk/channels/dikiy.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/конный_мир.png",Конный мир
 #EXTGRP:Хобби
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fight_box.png",Fight Box
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fight_box.png",Fight Box [НЕ исправен!]
 #EXTGRP:Спорт
 http://188.190.222.53/FightBOX/index.m3u8
 
@@ -575,7 +575,7 @@ http://194.143.148.28:8080/MatchArena/mpegts
 #EXTGRP:Спорт
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
 
-#EXTINF:-1 tvg-logo="http://312tv.kg/pic/thumb.png",312
+#EXTINF:-1 tvg-logo="http://312tv.kg/pic/thumb.png",312 [НЕ исправен!]
 #EXTGRP:Развлекательные
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 
@@ -989,7 +989,7 @@ http://trk555.tv:8888/live
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ
-https://salam-vld-rtk-62.rtbcdn.ru/dive/river-5-535.rtbcdn.ru/jQu2ULPml9Z4HrsmDSHOHQ/stream/genetta-512.ost.rutube.ru/tK3hvp21GvTe8EHFdAU0PQ/1763759634/13b0320238d7938a2deffb4065068986/360p_stream.m3u8
+https://salam-vld-rtk-62.rtbcdn.ru/dive/river-5-535.rtbcdn.ru/jJEUv8Z8e31MS3o3OEPAFQ/stream/genetta-512.ost.rutube.ru/JqZ4JoH9M9DzlZT_iJg-yw/1764614589/13b0320238d7938a2deffb4065068986/360p_stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tbn-tv.com/wp-content/uploads/2024/12/tbn_logo_130x51-1.png",ТБН
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
@@ -1134,7 +1134,7 @@ http://178.212.71.253:8000/play/77/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png" channelId="223" tvg-id="oruzhie",Оружие
 #EXTGRP:Хобби;Увлечения
-http://37.193.161.13:4022/udp/239.1.2.7:1234
+http://178.49.212.40:81/udp/239.1.2.7:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/большая_азия.png",Большая Азия HD
 #EXTGRP:Познавательные
