@@ -1433,7 +1433,9 @@ http://178.212.71.253:8000/play/77/index.m3u8
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png" channelId="223" tvg-id="oruzhie",Оружие
 #EXTGRP:Хобби;Увлечения
 http://146.120.14.239:3001/play/a09a
-
+#EXTINF:-1 tvg-id="o2tv" tvg-logo="https://iptvx.one/picons/o2tv.png",О!2
+#EXTGRP:Музыка
+http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/multimaniya_logo.png",Мультимания LV
 #EXTGRP:Мультфильмы
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
