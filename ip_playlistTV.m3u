@@ -181,7 +181,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний HD
-https://mhd128.iptv2022.com/p/jeupvUs87SwTJyJX-OjGvw,1764446074/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/D9OZNyUIhlDuOd7P8aPWuA,1764618964/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="domashny" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -343,7 +343,7 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=perec
 
 
-#EXTINF:-1 tvg-logo="https://tv7.kz/wp-content/uploads/2023/02/LogoSeven.png",Седьмой канал
+#EXTINF:-1 tvg-logo="https://tv7.kz/wp-content/uploads/2023/02/LogoSeven.png",Седьмой канал [НЕ исправен!]
 http://sc.id-tv.kz/7_kanal_34_35.m3u8
 
 
@@ -566,12 +566,12 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/849/index.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Animal_Planet_HD.png",Animal Planet HD
-http://91.207.115.228:5000/c147
+http://bigteisti6.cdn.lifeyosso.fun:56371/AnimalPlanet/video.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/National_Geographic_logo.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://94.232.127.28:8080/natgeo/index.m3u8
+http://bigteisti2.cdn.lifeyosso.fun:32144/NATIONALGEOGRAPHIC/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_TV1000.png",Viju TV1000
@@ -591,7 +591,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatnat
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="Viju+" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Viju+Comedy.png",Viju+ Comedy
 https://jekalich.github.io/smtk/channels/vip-comedy.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-id="Viju+" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju+megahit.png",viju+ megahit
+#EXTINF:-1 group-title="Фильмы" tvg-id="Viju+" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju+megahit.png",viju+ megahit [НЕ исправен!]
 http://91.207.115.228:5000/c144
 #EXTINF:-1 group-title="Фильмы" tvg-id="Viju+" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju+serial.png",viju+ serial [НЕ исправен!]
 http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/2443/index.m3u8
@@ -600,7 +600,7 @@ http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/2443/index.m3u8
 
 
 #EXTINF:-1 group-title="Хобби" tvg-logo="http://avto24tv.ru/images/logo2.png",Авто 24
-http://87.76.32.36:8001/avto24
+http://45.145.32.13:20440/avto24/index.m3u8?token=test
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал.png",KINO зал
@@ -635,7 +635,7 @@ http://stream01.bgu.ru:8081/1/1/playlist.m3u8
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Истоки ТВ" group-title="Общественные" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png",Истоки ТВ
+#EXTINF:-1 tvg-name="Истоки ТВ" group-title="Общественные" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png",Истоки ТВ [НЕ исправен!]
 http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
 
 
@@ -644,7 +644,7 @@ http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi1_hq/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Радио" tvg-logo="https://govoritmoskva.ru/static/images/new-logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Говорит_Москва_logo.png",Говорит Москва
+#EXTINF:-1 group-title="Радио" tvg-logo="https://govoritmoskva.ru/static/images/new-logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Говорит_Москва_logo.png",Говорит Москва [НЕ исправен!]
 https://raw.githubusercontent.com/Romzes25/playlistTV/master/channels/govoritmoskva.m3u8
 
 
