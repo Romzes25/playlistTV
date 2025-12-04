@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="3600"
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
+#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7) [НЕ исправен!]
 #EXTGRP:Федеральный;Информационный
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 
@@ -184,6 +184,10 @@ http://bigteisti2.cdn.lifeyosso.fun:56364/FOXHD/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы
 http://188.237.47.212:6008
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj6dfqhZ/2d828bbe25b714ff8d8b7289102f571e.png" logo="https://i.postimg.cc/cJsxrnpp/00861fd27571ab6dcc180a483ed25ac9.png" channelId="4517" tvg-id="flixsnip" shift="3",Flix Snip
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sP15Oc9.png" url-scrlogo="https://ct-bank.digitalrussia.tv/files/2023/05/cinetv_3_.svg",Cinema
 #EXTGRP:Фильмы
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
@@ -191,6 +195,14 @@ http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6HQFM4m.png",KinoJam 1 HD
 #EXTGRP:Фильмы
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/7260/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RVtHQC/07c7a4d2ed7a937688420bdb48efd626.png" logo="http://overlay.iptvin.online/epg/PIC/%D0%9A%D0%B8%D0%BD%D0%BE%D0%B4%D0%B6%D0%B5%D0%BC%202%20HD.png" channelId="2494" tvg-id="kinojam2",KinoJam 2
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTjMX386/0b501774e767b386173b7f26c9e6b72d.png" logo="https://i.postimg.cc/SRm3G6r4/71e48a06feb9a8c31a70160a662e2eb3.png" channelId="5194" tvg-id="detectivejam",DetectiveJam
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3Sqd4L.png",Timeless Dizi Channel
 #EXTGRP:Фильмы
@@ -427,6 +439,10 @@ https://fl1001.bozztv.com/ushba-films-s/index.m3u8
 #EXTGRP:Фильмы
 https://fl1001.bozztv.com/ushba-films-w/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/1115.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/комедия_logo.png" channelId="71" tvg-id="russkaya-komedia",Комедия
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Movies
 #EXTGRP:Фильмы
 https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
@@ -443,7 +459,13 @@ https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы;Сериалы
 https://jekalich.github.io/smtk/channels/mir-seriala.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jp2fdn/b781b52ad6757cc1d92a3f6b9b1e7dde.png" logo="http://overlay.iptvin.online/epg/PIC/Bollywood.png" channelId="2802" tvg-id="bollywood-hd",Bollywood
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/0107.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/душевное_logo.png" channelId="1636" tvg-name="Наш Кинороман" tvg-id="dushevnoe" shift="3",Душевное
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
 
 
 
@@ -1191,6 +1213,10 @@ http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/победа.png",Победа
 #EXTGRP:Познавательные
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/poznay.png",Poznay
+#EXTGRP:Познавательные
+http://185.57.68.33/237/mpegts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/релакс.png",Релакс
 #EXTGRP:Релакс

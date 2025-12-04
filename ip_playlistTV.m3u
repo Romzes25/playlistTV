@@ -786,6 +786,30 @@ http://tvshops.bonus-tv.ru:80/cdn/shop24/playlist.m3u8
 #EXTGRP:Фильмы
 http://87.120.142.11:18000/STSLove
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jp2fdn/b781b52ad6757cc1d92a3f6b9b1e7dde.png" logo="http://overlay.iptvin.online/epg/PIC/Bollywood.png" channelId="2802" tvg-id="bollywood-hd",Bollywood
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTjMX386/0b501774e767b386173b7f26c9e6b72d.png" logo="https://i.postimg.cc/SRm3G6r4/71e48a06feb9a8c31a70160a662e2eb3.png" channelId="5194" tvg-id="detectivejam",DetectiveJam
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj6dfqhZ/2d828bbe25b714ff8d8b7289102f571e.png" logo="https://i.postimg.cc/cJsxrnpp/00861fd27571ab6dcc180a483ed25ac9.png" channelId="4517" tvg-id="flixsnip" shift="3",Flix Snip
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RVtHQC/07c7a4d2ed7a937688420bdb48efd626.png" logo="http://overlay.iptvin.online/epg/PIC/%D0%9A%D0%B8%D0%BD%D0%BE%D0%B4%D0%B6%D0%B5%D0%BC%202%20HD.png" channelId="2494" tvg-id="kinojam2",KinoJam 2
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
+
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/0107.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/душевное_logo.png" channelId="1636" tvg-name="Наш Кинороман" tvg-id="dushevnoe" shift="3",Душевное
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
+
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/1115.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/комедия_logo.png" channelId="71" tvg-id="russkaya-komedia",Комедия
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
+
 
 
 #EXTINF:-1 tvg-name="Univer TV" group-title="Региональные" tvg-logo="https://universmotri.ru/images/Univer-HD.png",Univer TV
@@ -820,6 +844,9 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTGRP:Познавательные
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/poznay.png",Poznay
+#EXTGRP:Познавательные
+http://185.57.68.33/237/mpegts
 
 #EXTINF:-1 tvg-name="12 Канал" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/12канал.png",12 Канал
 #EXTGRP:Новости
