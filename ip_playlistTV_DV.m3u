@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="3600"
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7) [НЕ исправен!]
+#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
 #EXTGRP:Федеральный;Информационный
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 
@@ -182,7 +182,7 @@ http://bigteisti2.cdn.lifeyosso.fun:56364/FOXHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6622DcSj/58b4442a64428411b86caa3a01a35ab0.png" logo="https://i.postimg.cc/PJwj2PSy/336aff5412117510b0a0ed6e19d2d5cf.png" channelId="178" tvg-id="foxlife",FX Life
 #EXTGRP:Фильмы
-http://188.237.47.212:6008
+http://195.191.208.11:8087/udp/238.2.48.179:1234
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj6dfqhZ/2d828bbe25b714ff8d8b7289102f571e.png" logo="https://i.postimg.cc/cJsxrnpp/00861fd27571ab6dcc180a483ed25ac9.png" channelId="4517" tvg-id="flixsnip" shift="3",Flix Snip
 #EXTGRP:Фильмы
@@ -272,7 +272,7 @@ http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_русское_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_русское.png",Viju TV1000 Русское
 #EXTGRP:Фильмы
 https://jekalich.github.io/smtk/channels/tv1000-russkoe-kino.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_новелла_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_новелла.png",viju TV1000 новелла
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_новелла_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_новелла.png",viju TV1000 новелла [НЕ исправен!]
 #EXTGRP:Фильмы
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/2002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_action_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_action.png",Viju TV1000 Action HD
@@ -393,7 +393,7 @@ http://188.190.222.53/FilmBOX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/pro100_tv.png",Pro100 TV
 #EXTGRP:Фильмы
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/sd_rex.png",SD REX
 #EXTGRP:Фильмы
@@ -476,7 +476,7 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/849/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png",Смайл ТВ
 #EXTGRP:Мультфильмы;Детские
-http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/2157/index.m3u8
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://supergeroi-tv.ru/wp-content/uploads/2022/03/logoAnimatedAlpha10sec.gif",Супергерои
 #EXTGRP:Детские;Мультфильмы
@@ -496,7 +496,7 @@ http://193.27.209.122/tiji/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNJkLHl.png",В гостях у сказки
 #EXTGRP:Мультфильмы
-https://mhd128.iptv2022.com/p/fp2SLu3X9DBVRMAuctSiOw,1764749479/streaming/skazka/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/reDEYSfs5l_2ysBcR0Im6g,1764934793/streaming/skazka/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/детский_мир.png",Детский Мир
 #EXTGRP:Мультфильмы
@@ -560,7 +560,7 @@ https://jekalich.github.io/smtk/channels/drive.m3u8
 
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png",Глазами туриста
 #EXTGRP:Познавательные;Хобби
-http://217.21.34.160:38007/glazami_turista/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 
 #EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png",Мужской
 #EXTGRP:Познавательные;Хобби
@@ -873,7 +873,7 @@ https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/varia
 #EXTGRP:Региональные
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.sarov24.ru/dev/templates/img/sarov_24.png",Саров 24
+#EXTINF:-1 tvg-logo="https://static.sarov24.ru/dev/templates/img/sarov_24.png",Саров 24 [НЕ исправен!]
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Своё_ТВ.png",Своё ТВ (Ставрополь)
@@ -1194,7 +1194,7 @@ http://vod.tuva.ru/nauka2/index.m3u8
 #EXTGRP:Познавательные
 http://v4.proofix.ru/0mir/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/светлое_тв.png",Светлое ТВ [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/светлое_тв.png",Светлое ТВ
 #EXTGRP:Познавательные
 http://176.107.219.20:9000/play/a009/index.m3u8
 
