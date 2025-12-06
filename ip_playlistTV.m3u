@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первыйHD.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал HD
 #EXTGRP:Федеральный;Часовые пояса
 http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
-#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал
+#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал [НЕ исправен!]
 #EXTGRP:Федеральный;Часовые пояса
 http://178.212.71.253:8000/play/1/index.m3u8
-#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+2.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (Орбита 4 +2)
+#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+2.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (Орбита 4 +2) [НЕ исправен!]
 #EXTGRP:Федеральный;Часовые пояса
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_CHEL/variant.m3u8
 #EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+3.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+3)
@@ -18,13 +18,13 @@ https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
 #EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+6.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (Орбита 2 +6)
 #EXTGRP:Федеральный;Часовые пояса
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_1TV/variant.m3u8
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+7.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
+#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+7.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7) [НЕ исправен!]
 #EXTGRP:Федеральный;Часовые пояса
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+8.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (Орбита 1 +8)
+#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+8.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (Орбита 1 +8) [НЕ исправен!]
 #EXTGRP:Федеральный;Часовые пояса
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+9.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+9)
+#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+9.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+9) [НЕ исправен!]
 #EXTGRP:Федеральный;Часовые пояса
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 
