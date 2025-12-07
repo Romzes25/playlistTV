@@ -612,10 +612,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTGRP:Спорт
 https://tv.a21network.ru/content/37909/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/боец.png",Боец
-#EXTGRP:Спорт
-http://87.120.142.11:18000/Match!
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_арена.png",Матч Арена
 #EXTGRP:Спорт
 http://194.143.148.28:8080/MatchArena/mpegts
@@ -630,6 +626,49 @@ http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт_триумф.png",Старт Триумф
 #EXTGRP:Спорт
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт_баскет.png" tvg-id="start",Старт Баскет
+#EXTGRP:Спорт
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч!_арена.png",Матч! Арена
+#EXTGRP:Спорт
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/боец.png",Матч! Боец
+#EXTGRP:Спорт
+http://87.120.142.11:18000/Match!
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч!_планета.png",Матч! Планета
+#EXTGRP:Спорт
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_1.png",Eurosport 1
+#EXTGRP:Спорт
+http://178.134.1.158:8081/eurosport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_2.png",Eurosport 2
+#EXTGRP:Спорт
+http://iptv46.mcx-ix.ru:8077/Eurosport2HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/extreme_sports.png",Extreme Sports
+#EXTGRP:Спорт
+http://45.11.139.43:8555/extsport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/khl_prime.png" tvg-id="kxl-hd",KHL Prime
+#EXTGRP:Спорт
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/okko_спорт.jpg",Okko Прайм Спорт
+#EXTGRP:Спорт
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports_logo.png",Setanta Sports 1
+#EXTGRP:Спорт
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports_logo.png",Setanta Sports 2
+#EXTGRP:Спорт
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_funny.png" tvg-id="no_epg_cinema",Alpha Funny
 #EXTGRP:Развлекательные

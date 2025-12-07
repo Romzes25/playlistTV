@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/джонни_инглиш.jpg",Агент Джонни Инглиш [США/2003]
+#EXTGRP:Фильмы;Приключения;Комедия;Боевик
+http://a0925677.xsph.ru/hls/film/AGENT_DZHONNI_INGLISH.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/джонни_инглиш_2.jpg",Агент Джонни Инглиш: Перезагрузка [США/2011]
+#EXTGRP:Фильмы;Приключения;Комедия;Боевик
+http://a0925677.xsph.ru/hls/film/AGENT_DZHONNI_INGLISH_PEREZAGRUZKA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/альфа.jpg",Альфа [США/2018]
+#EXTGRP:Фильмы;Приключения;Блокбастер;Семейный;Зарубежный;Драма
+http://a0925677.xsph.ru/hls/film/ALFA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/tomb_raider.jpg",Tomb Raider. Лара Крофт [США/2018]
+#EXTGRP:Фильмы;Боевик;Приключения;Триллер;Фэнтези
+http://a0925677.xsph.ru/hls/film/TOMB_RAIDER_LARA_KROFT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/doom.jpg",Doom [США/2005]
+#EXTGRP:Фильмы;Приключения;Ужасы;Фантастика;Боевик;Триллер
+http://a0925677.xsph.ru/hls/film/DOOM.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/2012.jpg",2012 [США/2009]
+#EXTGRP:Фильмы;Приключения;Фантастика;Боевик
+http://a0925677.xsph.ru/hls/film/2012.m3u8
