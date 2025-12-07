@@ -1333,7 +1333,9 @@ http://31.47.199.45:1401/black/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-24.userapi.com/impg/S2DwX-QZ30XVXokQ5pesOH-v0wqs6nwTu1PtGA/GFu3bnnq7PE.jpg?size=856x856&quality=95&sign=cd6293a31fbc961ef581e41256de8bf5&type=album",.Red
 http://31.47.199.45:1401/red/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7j2mvZ4/f6bf7642445dae32c547f3694692ad41.jpg" logo="http://overlay.iptvin.online/epg/PIC/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B5%20%D0%A0%D0%A4.png" channelId="1386" tvg-id="vmeste-rf",Вместе-РФ
+#EXTGRP:Информационный
+http://178.212.71.253:8000/play/84/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://sun9-78.userapi.com/impg/dGg6K2StpsZ1Ykyc9aMjuu2FKztjFM4lyO1kkw/nHuvTpKnLhU.jpg?size=856x856&quality=95&sign=f88df9de40b28dbec8b1037a695ac7a7&type=album",.Sci-fi
 http://193.25.8.59:8000/axn
