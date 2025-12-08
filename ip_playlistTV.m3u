@@ -112,7 +112,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="karusel" tvg-logo="https://www.karusel-tv.ru/images/logo/2022-winter/logo.png?bd57416da8",Карусель
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://streaming.goodstream.cyou/live/232.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl2" group-title="Детские" tvg-logo="https://www.karusel-tv.ru/images/logo/2022-winter/logo.png",Карусель (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_CHEL/variant.m3u8
