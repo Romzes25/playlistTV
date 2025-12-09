@@ -181,7 +181,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний HD
-https://mhd128.iptv2022.com/p/ZCuvNUeOUKuAcUxOzG-R7g,1764964519/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/xW5yfkpWtJU3YxYUalrpow,1765310077/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="domashny" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -536,7 +536,7 @@ https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="kolyma-plus" tvg-logo="https://kolymaplus.ru/static/images/logo/logo-full.ec0d5b9c4c3e.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Колыма_Плюс_logo.png",Колыма Плюс
-https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-logo="https://yk24.ru/wp-content/uploads/2024/06/logo2.png" tvg-id="yakutia24",Якутия 24
@@ -559,17 +559,17 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 
 
-#EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Nicktoons.png",Nicktoons HD [НЕ исправен!]
+#EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Nicktoons.png",Nicktoons HD
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/849/index.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Animal_Planet_HD.png",Animal Planet HD
-http://185.78.112.57:8077/AnimalPlanetRussiaHD/index.m3u8
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/National_Geographic_logo.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic [НЕ исправен!]
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/National_Geographic_logo.png" tvg-name="National Geographic" group-title="Познавательный",National Geographic
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://195.191.208.11:8087/udp/238.2.48.143:1234
+http://50.7.28.226/8080/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_TV1000.png",Viju TV1000
@@ -629,7 +629,7 @@ http://stream01.bgu.ru:8081/1/1/playlist.m3u8
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Истоки ТВ" group-title="Общественные" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png",Истоки ТВ [НЕ исправен!]
+#EXTINF:-1 tvg-name="Истоки ТВ" group-title="Общественные" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png",Истоки ТВ
 http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
 
 
@@ -726,7 +726,7 @@ https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.sarov24.ru/dev/templates/img/sarov_24.png",Саров 24 [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://static.sarov24.ru/dev/templates/img/sarov_24.png",Саров 24
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 
 
@@ -885,7 +885,7 @@ http://178.212.71.253:8000/play/49/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+
-http://185.78.112.57:8077/illusion_plus_hd/index.m3u8
+https://mhd128.iptv2022.com/p/uYl0b1I51Dy41NGc8NQuzw,1765310079/streaming/illuzionplus/324/1/tracks-v5a1/mono.m3u8
 
 
 
@@ -1016,11 +1016,11 @@ http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киносвидание.png",Киносвидание
 http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья HD
-http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/9228/index.m3u8
+https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
 http://146.120.14.239:3001/play/a07p
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/OGUMa1A.png",Киномикс HD
-http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/7249/index.m3u8
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/H70LxoZ.png",Родное кино
 https://jekalich.github.io/smtk/channels/rodnoe-kino.m3u8
 #EXTINF:-1 tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин
@@ -1029,7 +1029,7 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png",E
 #EXTGRP:Развлекательные;Видео игры
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-id="Amedia Hit HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_Hit_HD.png",Amedia Hit HD
+#EXTINF:-1 group-title="Фильмы" tvg-id="Amedia Hit HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_Hit_HD.png",Amedia Hit HD [НЕ исправен!]
 #EXTGRP:Фильмы
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/6010/index.m3u8
 
@@ -1040,7 +1040,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
 #EXTINF:-1 group-title="Фильмы" tvg-id="Кинопоказ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопоказ.png",Кинопоказ
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="Scream" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Scream.png",Scream
+#EXTINF:-1 group-title="Фильмы" tvg-id="Scream" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Scream.png",Scream [НЕ исправен!]
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/20021/index.m3u8
 
 
@@ -1058,8 +1058,8 @@ http://195.9.195.3:8080/hls/204717.m3u8
 http://146.120.14.239:3001/play/a06t
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню [НЕ исправен!]
-https://mhd128.iptv2022.com/p/voY4gfqwhCLi7KKY9brgig,1764791687/streaming/kinomenu/324/1/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="КиноМеню HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/КиноМеню.png",КиноМеню
+https://mhd128.iptv2022.com/p/CSyJllc8xoGeKVWjpStZdA,1765310078/streaming/kinomenu/324/1/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/logo240x32.png",Дом кино
@@ -1246,9 +1246,9 @@ http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="https://iptvx.one/picons/ont-by.png",ОНТ
 #EXTGRP:Общественные
 http://194.158.222.36:6102
-#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png",Глазами туриста [НЕ исправен!]
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png",Глазами туриста
 #EXTGRP:Познавательные;Хобби и увлечения
-http://217.21.34.160:38007/glazami_turista/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 #EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png",ПРНК
 #EXTGRP:Общественные
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
@@ -1262,7 +1262,7 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png",Мужской
 #EXTGRP:Познавательные;Хобби и увлечения
-http://195.26.83.96:7007/play/11/index.m3u8
+http://193.25.8.59:8000/muzhskoy
 #EXTINF:-1 group-title="Детские" tvg-logo="https://supergeroi-tv.ru/wp-content/uploads/2022/03/logoAnimatedAlpha10sec.gif",Супергерои
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 tvg-id="nasha-tema" tvg-logo="https://iptvx.one/picons/nasha-tema.png",Наша Тема
@@ -1358,7 +1358,7 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_2.png",Eurosport 2
 #EXTGRP:Спорт
-http://iptv46.mcx-ix.ru:8077/Eurosport2HD/index.m3u8
+http://50.7.28.226/8014/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/extreme_sports.png",Extreme Sports
 #EXTGRP:Спорт
@@ -1387,8 +1387,8 @@ http://31.148.48.15:80/A2/index.m3u8?token=test
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/nr1Y67Z.png",FOX [НЕ исправен!]
-http://bigteisti2.cdn.lifeyosso.fun:56364/FOXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/nr1Y67Z.png",FOX
+http://185.223.125.136:8005/fox?token=test
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/QAdDARF.png",Kino24 Russia
@@ -1423,7 +1423,7 @@ https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/ZH5LuXU.png",Дорама
-http://193.27.209.122/dorama/index.m3u8
+https://mhd128.iptv2022.com/p/g5NsCHZGNlXUr2npDAFNMg,1765310079/streaming/dorama/324/1/tracks-v5a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/xDVcDOc.png",Индия
