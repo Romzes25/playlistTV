@@ -643,11 +643,11 @@ http://87.120.142.11:18000/Match!
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_1.png",Eurosport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_1_logo.png",Eurosport 1
 #EXTGRP:Спорт
 http://178.134.1.158:8081/eurosport/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_2.png",Eurosport 2 [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_2_logo.png",Eurosport 2 [НЕ исправен!]
 #EXTGRP:Спорт
 http://185.223.125.136:8005/eurosport2?token=test
 
@@ -1369,7 +1369,7 @@ https://chanson-video.hostingradio.ru/hls/chansonabr/live_midq/index.m3u8
 #EXTGRP:Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Страна FM" tvg-logo="https://strana.fm/wp-content/uploads/2017/11/logo_171130.png",Страна FM
+#EXTINF:-1 tvg-name="Страна FM" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/страна_fm.png",Страна FM
 #EXTGRP:Радио ТВ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
