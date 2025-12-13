@@ -144,9 +144,9 @@ http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTGRP:Фильмы
 http://hls.goodgame.ru:8080/hls/163253.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/блокбастер_logo.png" tvg-id="blokbaster-hd",Блокбастер [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/блокбастер_logo.png" tvg-id="blokbaster-hd",Блокбастер
 #EXTGRP:Фильмы
-http://95.215.126.151:5000/udp/225.1.2.68:1234
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/QAdDARF.png",Kino24
 #EXTGRP:Фильмы
@@ -172,9 +172,9 @@ http://31.148.48.15/Kineko/index.m3u8
 #EXTGRP:Фильмы
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBR6oX6.png",Любимое кино
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBR6oX6.png",Любимое кино [НЕ исправен!]
 #EXTGRP:Фильмы
-http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU2MTI1MjcsImlhdCI6MTc2NTUyNjEyNywiY2lkIjo2LCJ1aWQiOjk3NDYzODk0MywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.sG1zS11dzEeriomsFBkTQtwv2uZ6-lXlorPoQ2TdMEQ&offset=10
+http://178.212.71.253:8000/play/50/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kinoman_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kinoman.png",Kinoman
 #EXTGRP:Фильмы
