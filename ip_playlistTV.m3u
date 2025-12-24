@@ -752,7 +752,7 @@ https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://novoetv.kz/wp-content/uploads/2023/03/logo_novoetv_white.png",Новое Телевидение [НЕ исправен!]
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://novoetv.kz/wp-content/uploads/2023/03/logo_novoetv_white.png",Новое Телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 
 
@@ -885,7 +885,7 @@ http://178.212.71.253:8000/play/49/index.m3u8
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+
-http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjYzNDY5NjUsImlhdCI6MTc2NjI2MDU2NSwiY2lkIjo2LCJ1aWQiOjk3ODE0NDU4MCwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.cvCNNpJVa2kgKxrCq_oI6V_lwTrdhpWcOm3QGCVvfP0&offset=10
+http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY2MDYxMjksImlhdCI6MTc2NjUxOTcyOSwiY2lkIjo2LCJ1aWQiOjk3OTQwNjUwNCwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.F8uLIQTKcGST6EKdCIRUd00x4oypFXRJoimIFFvG-pU&offset=10
 
 
 
@@ -971,7 +971,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ
-https://salam-vld-rtk-62.rtbcdn.ru/dive/river-5-535.rtbcdn.ru/k7ilkmaiVZL0R3d7E93K1A/stream/genetta-512.ost.rutube.ru/iF_K119xNVd4EvC3t1vAjw/1766367746/13b0320238d7938a2deffb4065068986/360p_stream.m3u8
+https://salam-vld-rtk-62.rtbcdn.ru/dive/river-5-535.rtbcdn.ru/3rwulhgQglVpuN4aR8Op4w/stream/genetta-512.ost.rutube.ru/bLzzf3xiV9N9V8pOwM8Lcw/1767136380/13b0320238d7938a2deffb4065068986/360p_stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tbn-tv.com/wp-content/uploads/2024/12/tbn_logo_130x51-1.png",ТБН
@@ -1018,7 +1018,7 @@ http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья HD
 https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
-http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjYzNDY5NjUsImlhdCI6MTc2NjI2MDU2NSwiY2lkIjo2LCJ1aWQiOjk3ODE0NDU4MCwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.cvCNNpJVa2kgKxrCq_oI6V_lwTrdhpWcOm3QGCVvfP0&offset=10
+http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY2MDYxMjksImlhdCI6MTc2NjUxOTcyOSwiY2lkIjo2LCJ1aWQiOjk3OTQwNjUwNCwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.F8uLIQTKcGST6EKdCIRUd00x4oypFXRJoimIFFvG-pU&offset=10
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/OGUMa1A.png",Киномикс HD
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/H70LxoZ.png",Родное кино
@@ -1248,7 +1248,7 @@ http://178.212.71.253:8001/play/144/index.m3u8
 http://194.158.222.36:6102
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png",Глазами туриста
 #EXTGRP:Познавательные;Хобби и увлечения
-http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjYzNDY5NjUsImlhdCI6MTc2NjI2MDU2NSwiY2lkIjo2LCJ1aWQiOjk3ODE0NDU4MCwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.cvCNNpJVa2kgKxrCq_oI6V_lwTrdhpWcOm3QGCVvfP0&offset=10
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 #EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png",ПРНК
 #EXTGRP:Общественные
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
@@ -1279,7 +1279,7 @@ http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/akudji_tv.png",Akudji TV
 #EXTGRP:Фильмы
 http://hls.goodgame.ru:8080/hls/5346.m3u8
-#EXTINF:-1 group-title="Каналы от Dmitry-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/D-TV6.png",D-TV6 [НЕ исправен!]
+#EXTINF:-1 group-title="Каналы от Dmitry-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/D-TV6.png",D-TV6
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 
 
@@ -1447,7 +1447,7 @@ http://146.120.14.239:3001/play/a095
 #EXTINF:-1 tvg-logo="https://ct-bank.digitalrussia.tv/files/2023/05/strashnoe-tv_2_.svg",НСТ
 #EXTGRP:Фильмы
 http://178.212.71.253:8000/play/100/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fox_kids.png",Fox Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fox_kids.png",Fox Kids [НЕ исправен!]
 #EXTGRP:Мультфильмы
 http://foxkids-online.ru/hls/test.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/95Y8jb6.png",Мосфильм
@@ -1599,7 +1599,7 @@ https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
 http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1,7канал Красноярск
 https://7channel.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Abai TV [НЕ исправен!]
+#EXTINF:-1,Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1,Abai TV HD
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8
@@ -1664,7 +1664,7 @@ http://178.212.71.253:8000/play/101/index.m3u8
 http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://sunset-media.org/assets/img/sunsetmusicicon.png",Sunset Music [НЕ исправен!]
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Dmitry-tv_HD.png",Dmitry-tv HD [НЕ исправен!]
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Dmitry-tv_HD.png",Dmitry-tv HD
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="Муз ТВ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/МузТВ.png",Муз ТВ
@@ -1752,7 +1752,7 @@ http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/myzika1_in.png",Музыка 1 International [НЕ исправен!]
 http://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/myzika2_in.png",Музыка 2 International [НЕ исправен!]
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/myzika2_in.png",Музыка 2 International
 http://kino-1.catcast.tv/content/37742/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/redcom_tv.png",Redcom TV (Хабаровск) [НЕ исправен!]
