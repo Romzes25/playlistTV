@@ -1067,11 +1067,19 @@ http://178.212.71.253:8000/play/99/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://www.domkino-premium.tv/im/logo.png",Дом кино Премиум
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Classic
+#EXTGRP:Фильмы
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Motor
+#EXTGRP:Фильмы
+https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="HORROR" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HORROR.png",HORROR [НЕ исправен!]
 http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/star_media.png",Star Media
+#EXTGRP:Документально-познавательный
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ОТС" group-title="Региональные" tvg-logo="https://otstv.ru/local/templates/ots/images/logo_top.png" tvg-id="ots",ОТС
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
