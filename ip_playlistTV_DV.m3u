@@ -140,6 +140,10 @@ http://178.212.71.253:8000/play/100/index.m3u8
 #EXTGRP:Фильмы
 http://hls.goodgame.ru:8080/hls/204709.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/шокирующее_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/шокирующее.png" channelId="229" tvg-id="shokiruyushchee-hd" tvg-shift="-3" shift="+3",Шокирующее HD (+3)
+#EXTGRP:Фильмы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD1_3
+
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Film TV 1
 #EXTGRP:Фильмы
 http://hls.goodgame.ru:8080/hls/163253.m3u8
@@ -701,6 +705,10 @@ http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports_logo.png",Setanta Sports 2
 #EXTGRP:Спорт
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/spoops.png" channelId="-1" shift="3",Spoops
+#EXTGRP:Спорт
+https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_funny.png" tvg-id="no_epg_cinema",Alpha Funny
 #EXTGRP:Развлекательные
