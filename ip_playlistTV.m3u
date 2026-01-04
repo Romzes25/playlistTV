@@ -583,7 +583,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноазия_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноазия.png",Сити Эдем — КиноАзия
 #EXTGRP:Фильмы
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт.png",Сити Эдем — КиноАРТ [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт.png",Сити Эдем — КиноАРТ
 #EXTGRP:Фильмы
 https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинодок_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинодок.png",Сити Эдем — КиноДок
@@ -774,7 +774,7 @@ http://109.94.1.3:8080/132/index.m3u8
 #EXTGRP:Детские
 https://jekalich.github.io/smtk/channels/sts-kids-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fox_kids.png",Fox Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fox_kids.png",Fox Kids [НЕ исправен!]
 #EXTGRP:Мультфильмы
 http://foxkids-online.ru/hls/test.m3u8
 
@@ -1239,7 +1239,7 @@ http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 
-#EXTINF:-1 tvg-name="43 канал HD" group-title="Новости" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD
+#EXTINF:-1 tvg-name="43 канал HD" group-title="Новости" tvg-logo="http://sochinskayatrk.ru/images/stories/43Kanal/43Kanal.png",43 канал HD [НЕ исправен!]
 #EXTGRP:Новости
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 
@@ -1293,7 +1293,7 @@ http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Дагестан" group-title="Развлекательные" tvg-logo="https://rgvktv.ru/local/templates/rgtvktv/images/icons/logo.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/РГВК_Дагестан_logo.png",РГВК Дагестан
 #EXTGRP:Развлекательные
-http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
+https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-name="Евразия (Орск)" group-title="Развлекательные" tvg-logo="https://sun9-64.userapi.com/impg/BN_5Ot5fpfi5PSH6jz-XewL0mTnDsQFZKvKelg/A9nHwUeRzxo.jpg?size=1280x1280&quality=95&sign=eeaccc7a26c225bfd1e72f0283f19d3c&type=album",Евразия (Орск)
 #EXTGRP:Развлекательные
