@@ -462,7 +462,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
 #EXTINF:-1 tvg-name="Русский иллюзион" group-title="Кино" tvg-logo="https://www.russkiyillusion.ru/img/logo.svg",Русский иллюзион
 #EXTGRP:Кино
-http://195.26.83.96:7006/play/a00y/index.m3u8
+http://185.46.16.239:8000/Russkiy_Illyuzion
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
@@ -470,7 +470,7 @@ http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Мужское Кино" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Мужское_Кино.png",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Фильмы" tvg-id="Кинохит" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинохит.png",Кинохит
-http://195.26.83.96:7005/play/a00m/index.m3u8
+http://91.207.115.228:5000/c38
 #EXTINF:-1 group-title="Фильмы" tvg-id="Кинопремьера" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопремьера.png",Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/lgvOVxm.png",Кинопремьера HD
@@ -499,11 +499,11 @@ http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Scream" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Scream.png",Scream
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/20021/index.m3u8
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX
+#EXTINF:-1 group-title="Фильмы" tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX Фантастика
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=bd818c70244f416d47e09728b90ddac8-1769052959-612i001i341i5
+http://195.9.195.3:8080/hls/204708.m3u8
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="2FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/2FILMAX.png",2FILMAX [НЕ исправен!]
+#EXTINF:-1 group-title="Фильмы" tvg-id="2FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/2FILMAX.png",2FILMAX Комедия [НЕ исправен!]
 #EXTGRP:Фильмы
 http://195.9.195.3:8080/hls/204717.m3u8
 
@@ -630,7 +630,7 @@ https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision [НЕ исправен!]
 #EXTGRP:Фильмы
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 
