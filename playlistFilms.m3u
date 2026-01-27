@@ -18,3 +18,155 @@ http://a0925677.xsph.ru/hls/film/DOOM.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/2012.jpg",2012 [США/2009]
 #EXTGRP:Фильмы;Приключения;Фантастика;Боевик
 http://a0925677.xsph.ru/hls/film/2012.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Большой секрет для маленькой компании
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/bolshoj_secret_dlia_malenkoj_kompanii.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Волк и семеро козлят
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/7_kozlyat.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Волк и теленок
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/volk_i_telenok.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",В порту
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/v_portu.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Золотая антилопа
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/zolotaya_antilopa.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Ивашка из Дворца Пионеров
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/ivashka_iz_dvortsa_pionerov.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Каникулы Бонифация
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/kanikuli_bonifatsia.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Как обезьянки обедали
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/kak_obezyanki_obedali.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Котенок с улицы Лизюкова
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/kotenok_s_ulitsy_lizjukova.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Кот в сапогах
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/kot_v_sapogah.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Мартынко
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/martinko.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Маугли
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/maugli.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Муха-Цокотуха
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/muha_cokotuha_1960.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Мук-скороход
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/muk_skorohod.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.1
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_01.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.2
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_02.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.3
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_03.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.4
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_04.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.5
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_05.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.6
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_06.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.7
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_07.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.8
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_08.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.9
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_09.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.10
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_10.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.11
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_11.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.12
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_12.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.13
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_13.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.14
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_14.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.15
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_15.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.16
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_16.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.17
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_17.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.18
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_18.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.19
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_19.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! ч.20
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_20.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ну_погоди.png",Ну Погоди! (телевыпуск 1)
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/nu_pogodi_tv_1.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Обезьянки в опере
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/obezyanki_v_opere.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Обезьянки и грабители
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/obezyanki_i_grabiteli.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Обезьянки! Вперед!
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/obezyanki_vpered.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Обезьянки Скорая помощь
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/obezyanki_skoraya_pomosh.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Обратная сторона луны
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/obratnaya_storona_luny.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Петя и Красная Шапочка
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/petja_i_krasnaja_shapochka.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Пиф-паф ой-ой-ой!
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/pif_paf_oi_oi_oi.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Пони бегает по кругу
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/pony_begaet_po_krugu.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Про Сидорова Вову
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/pro_sidorova_vovu.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Рикки-Тикки-Тави
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/rikki_tikki_tavi.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Серая шейка
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/seraya_sheika.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Тайна третьей планеты
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/taina_tretey_planety.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Федорино горе
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/fedorino_gore.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союзмультфильмы.jpg",Чучело-мяучело
+#EXTGRP:Союзмультфильмы
+https://mults.info/mp4/chuchelo_mjauchelo.mp4
