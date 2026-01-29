@@ -732,6 +732,11 @@ http://193.25.8.59:8000/mirseriala
 #EXTGRP:Фильмы
 http://188.237.47.212:6008
 
+#EXTINF:-1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино.png",Феникс плюс Кино
+#EXTGRP:Фильмы
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://312tv.kg/pic/thumb.png",312 Kino
 #EXTGRP:Фильмы
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -864,9 +869,29 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВстиль.png",НТВ Стиль HD
 http://cdn.ntv.ru/th_style/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/звезда_плюс.png",Звезда+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/арсенал.png",Арсенал
+#EXTGRP:Познавательные
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/в_мире_животных.png",В мире животных
+#EXTGRP:Познавательные
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый_космический.png",Первый космический
+#EXTGRP:Познавательные
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/еда.png",Еда
+#EXTGRP:Хобби;Увлечения
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рыболов.png",Рыболов
+#EXTGRP:Познавательные;Хобби
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/звезда_плюс.png",Звезда Плюс
 #EXTGRP:Документально-познавательный
-https://salam-vld-pdd-62.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/X33ByTEim2IiqrpMsJKw4A/stream/genetta-323.m9.rutube.ru/M94TD5LpLsu9WPoWlNwCXg/1770155519/5ab908fccfac5bb43ef2b1e4182256b0/360p_stream.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Мир 24 HD" group-title="Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мир24.png",Мир 24 HD
 #EXTGRP:Новости
@@ -891,6 +916,14 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/твоё_тв_юмор.png",Твоё ТВ Юмор
 #EXTGRP:Развлекательные
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кухня.png",Кухня ТВ
+#EXTGRP:Развлекательные;Познавательные;Хобби
+http://31.148.48.15/Kuhnya_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/квн.png",КВН ТВ
+#EXTGRP:Развлекательные;Юмор
+http://31.148.48.15/KVN_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/перец.png",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
@@ -1582,6 +1615,10 @@ http://193.25.8.59:8000/sport1
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_игра.png", Матч! Игра
+#EXTGRP:Спорт
+http://31.148.48.15/Match_Igra/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт_баскет.png" tvg-id="start",Старт Баскет
 #EXTGRP:Спорт
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
@@ -1601,6 +1638,10 @@ http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/144/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/khl_prime.png" tvg-id="kxl-hd",KHL Prime
 #EXTGRP:Спорт
 http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/19396/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/авто_плюс.png",Авто плюс
+#EXTGRP:Хобби;Познавательные
+http://31.148.48.15/Avto_Plus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/okko_спорт.jpg",Okko Прайм Спорт
 #EXTGRP:Спорт
