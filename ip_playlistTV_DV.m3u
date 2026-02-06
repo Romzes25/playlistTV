@@ -184,10 +184,6 @@ http://5.188.221.43:8080/play/kinosat
 #EXTGRP:Фильмы
 http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/9232/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj6dfqhZ/2d828bbe25b714ff8d8b7289102f571e.png" logo="https://i.postimg.cc/cJsxrnpp/00861fd27571ab6dcc180a483ed25ac9.png" channelId="4517" tvg-id="flixsnip" shift="3",Flix Snip [НЕ исправен!]
-#EXTGRP:Фильмы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sP15Oc9.png" url-scrlogo="https://ct-bank.digitalrussia.tv/files/2023/05/cinetv_3_.svg",Cinema
 #EXTGRP:Фильмы
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -248,14 +244,10 @@ http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
 #EXTGRP:Фильмы
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_moretime.png" tvg-id="no_epg_cinema",Alpha Moretime [НЕ исправен!]
-#EXTGRP:Фильмы
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноазия_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноазия.png",Сити Эдем — КиноАзия
 #EXTGRP:Фильмы
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт.png",Сити Эдем — КиноАРТ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт.png",Сити Эдем — КиноАРТ [НЕ исправен!]
 #EXTGRP:Фильмы
 https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДетектив_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДетектив.png",Сити Эдем - КиноДетектив
@@ -300,7 +292,7 @@ http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/2002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_action_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_tv1000_action.png",Viju TV1000 Action
 #EXTGRP:Фильмы
-https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_nature_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_nature.png",viju Nature
 #EXTGRP:Фильмы
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
@@ -327,7 +319,7 @@ http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Кинопремьера" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопремьера.png",Кинопремьера
 #EXTGRP:Фильмы
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzAyNzgxNjYsImlhdCI6MTc3MDE5MTc2NiwiY2lkIjo2LCJ1aWQiOjk5OTExNjc2MSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.1Yr-VBG9FlvruYS_57D9lIrZFVmnUn6bkls_kYF507c&offset=10
+http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA0NTEwNTAsImlhdCI6MTc3MDM2NDY1MCwiY2lkIjo2LCJ1aWQiOjEwMDAwNzM5NjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTM5LCJhZHVsdCI6ZmFsc2V9.WJCTiIfz1QFBMgh2Xhl9280wAb3NMwoNQKEgOVOcXvA&offset=10
 #EXTINF:-1 tvg-id="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киносвидание.png",Киносвидание
 #EXTGRP:Фильмы
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
@@ -373,7 +365,7 @@ http://193.25.8.59:8000/interaz
 
 #EXTINF:-1 tvg-id="ДОМ КИНО" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дом_кино_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дом_кино.png",Дом кино
 #EXTGRP:Фильмы
-https://flussonic.salomtv.uz/domkino/video.m3u8
+http://178.163.3.80:4022/udp/234.0.0.219:2000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дом_кино_премиум_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дом_кино_премиум.png",Дом кино Премиум
 #EXTGRP:Фильмы
@@ -384,14 +376,14 @@ http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/kaRKp2u.png",Русский детектив
 #EXTGRP:Фильмы
-https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+http://95.215.126.151:5000/udp/225.1.2.140:1234
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский роман
 #EXTGRP:Фильмы
 http://vod.tuva.ru/rusroman/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/95Y8jb6.png",Мосфильм [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95Y8jb6.png",Мосфильм. Золотая коллекция
 #EXTGRP:Фильмы
-http://178.212.71.253:8000/play/124/index.m3u8
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВсериал.png",НТВ Сериал
 #EXTGRP:Фильмы
@@ -435,11 +427,7 @@ http://31.148.48.15:80/Evrokino/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=7d5a7c411bf550260caf0ae57d43cc20-1770240217-612i001i341i5
-
-#EXTINF:-1 group-title="Фильмы" tvg-id="2FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/2FILMAX.png",2FILMAX [НЕ исправен!]
-#EXTGRP:Фильмы
-http://195.9.195.3:8080/hls/204717.m3u8
+https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=eebce38fddef937dcdd1f75fc5759631-1770412591-612i001i341i5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/usba_кинозал_3.png",Usba Кинозал 3
 #EXTGRP:Фильмы
@@ -465,7 +453,7 @@ https://fl1001.bozztv.com/ushba-films-s/index.m3u8
 #EXTGRP:Фильмы
 https://fl1001.bozztv.com/ushba-films-w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/usba_кинозал_3.png" ,Кинозалы 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/usba_кинозал_3.png" ,Кинозалы 6 [НЕ исправен!]
 #EXTGRP:Фильмы
 https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
 
@@ -670,19 +658,7 @@ http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/20008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c31x6H5/Unikum.png" logo="http://overlay.iptvin.online/epg/PIC/%D0%A3%D0%BD%D0%B8%D0%BA%D1%83%D0%BC%20HD.png" channelId="192" tvg-id="detsky",Уникум
 #EXTGRP:Детские;Мультфильмы
-https://flussonic.salomtv.uz/Detskiy/video.m3u8
-
-#EXTINF:-1 tvg-id="Kinopokaz_3" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/простоквашино.png",Простоквашино [НЕ исправен!]
-#EXTGRP:Детские;Мультфильмы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смешарики.png",Смешарики [НЕ исправен!]
-#EXTGRP:Детские;Мультфильмы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kinozal_22.png",Kinozal 22 [НЕ исправен!]
-#EXTGRP:Детские;Мультфильмы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
+http://158.101.222.193:88/georgia_play.php?id=unikum
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/капитан_фантастика.png",Капитан Фантастика
 #EXTGRP:Детские;Мультфильмы
@@ -698,7 +674,7 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cartoonito.gif",Cartoonito
 #EXTGRP:Мультфильмы
-http://88.216.112.114/Cartoonito/index.m3u8
+http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/723/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/iptvplay_disney.png",IPTVPLAY Disney HD
 #EXTGRP:Мультфильмы
@@ -719,9 +695,9 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png",ETV
+#EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png",E TV [НЕ исправен!]
 #EXTGRP:Развлекательные;Видео игры;Хобби
-https://wowza1.leisertv.com/live/etv.stream/playlist.m3u8
+https://wowhjbjhza1.leisertv.com/live/etv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gameplay.jpg",Gameplay
 #EXTGRP:Развлекательные;Видео игры;Хобби
@@ -735,13 +711,17 @@ http://31.148.48.15/KVN_TV/index.m3u8
 #EXTGRP:Развлекательные;Юмор
 https://kino-stream.online/hls/DTRZONA1.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.razrisyika.ru/kart/20/1200/76229-eralash-32.jpg",Ералаш
+#EXTGRP:Развлекательные;Юмор
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кухня.png",Кухня ТВ
 #EXTGRP:Развлекательные;Познавательные;Хобби
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/арсенал.png",Арсенал
 #EXTGRP:Познавательные
-http://arbiter.bolshoe.tv/?path=abr2/arsenal/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgNzo1NjowNyBBTSZoYXNoX3ZhbHVlPTBFWk93Tjk1Q3ByRnFaRFBKdDRuM2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/arsenal/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgNDozNjo0NiBQTSZoYXNoX3ZhbHVlPVJkT1VXSExHcEMrK0dXd0pGSURzclE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/в_мире_животных.png",В мире животных
 #EXTGRP:Познавательные
@@ -809,13 +789,13 @@ https://tv.a21network.ru/content/37909/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_арена.png",Матч Арена
 #EXTGRP:Спорт
-http://193.25.8.59:8000/sport1
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/бокс_тв.png",Бокс ТВ
 #EXTGRP:Спорт
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/onlinetv.png",OnlineTV [НЕ исправен!]
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/onlinetv.png",OnlineTV
 http://185.221.213.254:8080/Okko/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт.png",Старт
@@ -832,7 +812,7 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч!_арена.png",Матч! Арена
 #EXTGRP:Спорт
-http://193.25.8.59:8000/sport1
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/боец.png",Матч! Боец
 #EXTGRP:Спорт
@@ -860,9 +840,9 @@ http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/20028/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/khl_prime.png" tvg-id="kxl-hd",KHL Prime
 #EXTGRP:Спорт
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgNzo1NjowNyBBTSZoYXNoX3ZhbHVlPTBFWk93Tjk1Q3ByRnFaRFBKdDRuM2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgNDozNjo0NiBQTSZoYXNoX3ZhbHVlPVJkT1VXSExHcEMrK0dXd0pGSURzclE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/okko_спорт.jpg",Okko Прайм Спорт [НЕ исправен!]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/okko_спорт.jpg",Okko Прайм Спорт
 #EXTGRP:Спорт
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
@@ -1470,10 +1450,6 @@ http://vod.tuva.ru/nauka2/index.m3u8
 #EXTGRP:Познавательные
 http://v4.proofix.ru/0mir/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/светлое_тв.png",Светлое ТВ [НЕ исправен!]
-#EXTGRP:Познавательные
-http://176.107.219.20:9000/play/a009/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_history_logo.png",Viju History
 #EXTGRP:Познавательные
 http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
@@ -1562,14 +1538,6 @@ http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_deluxe.png",Bridge TV Deluxe
 #EXTGRP:Музыка
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_hits.png",Bridge TV Hits [НЕ исправен!]
-#EXTGRP:Музыка
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_rock.png",Bridge TV Rock [НЕ исправен!]
-#EXTGRP:Музыка
-http://arbiter.bolshoe.tv/?path=abr3/bridge_fresh/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjYgNzo1NDowMiBQTSZoYXNoX3ZhbHVlPVdzVko4SkZDRjlVL2hhZWpkRnpFWHc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_шлягер.png",Bridge TV Шлягер
 #EXTGRP:Музыка
