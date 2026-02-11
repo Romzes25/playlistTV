@@ -801,10 +801,6 @@ http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTGRP:Познавательные;Хобби
 http://193.25.8.59:8000/ohota
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рыболов.png",Рыболов
-#EXTGRP:Познавательные;Хобби
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/19254/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/конгресс_тв.png",Конгресс ТВ
 #EXTGRP:Познавательные
 http://live-3.otcnet.ru/congresstv/tracks-v1a1/mono.m3u8
