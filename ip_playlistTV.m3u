@@ -975,10 +975,6 @@ https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTGRP:Хобби;Увлечения
 http://arbiter.bolshoe.tv/?path=abr2/edahd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI2IDc6NTM6MTYgUE0maGFzaF92YWx1ZT1TWmRlaWwrbytQNDdDaWszbEVhU3BnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рыболов.png",Рыболов
-#EXTGRP:Познавательные;Хобби
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/19254/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/звезда_плюс.png",Звезда Плюс
 #EXTGRP:Документально-познавательный
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
@@ -1990,3 +1986,7 @@ http://mp3128.light.streamr.ru/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlusNew.png",Europa Plus New
 #EXTGRP:Радио
 http://mp3128.new.streamr.ru/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кп.png",Комсомольская правда
+#EXTGRP:Радио
+http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/19254/index.m3u8
