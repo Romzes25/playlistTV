@@ -549,7 +549,7 @@ https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/saga_tv.png",Saga TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/saga_tv.png",Saga TV [ПТ]
 #EXTGRP:Фильмы
 http://46.175.123.164:4022/udp/239.195.65.56:1234
 
@@ -621,7 +621,7 @@ http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="1FILMAX" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1FILMAX.png",1FILMAX
 #EXTGRP:Фильмы
-https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=8ca0b5e2088503b1f11465f5c2704b98-1770926950-612i001i341i5
+https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=43c29d4d66b6270242e61e305858342a-1771014217-612i001i341i5
 
 #EXTINF:-1 tvg-logo="http://312tv.kg/pic/thumb.png",312 Kino [НЕ Исправен!]
 #EXTGRP:Фильмы
@@ -886,7 +886,7 @@ http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/20028/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/khl_prime.png" tvg-id="kxl-hd",KHL Prime
 #EXTGRP:Спорт
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDI2IDg6MDQ6NTYgQU0maGFzaF92YWx1ZT1YSWltdmdDZHltN3lnN1JmUG1UN013PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDc6NDg6MzUgQU0maGFzaF92YWx1ZT1qdzJ3bXJ2WDJ0Y3JKWUpwS3k1anJRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/okko_спорт.jpg",Okko Прайм Спорт
 #EXTGRP:Спорт
@@ -1308,6 +1308,10 @@ http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
 #EXTGRP:Развлекательные
 http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 
+#EXTINF:-1 tvg-name="OVAA" tvg-logo="https://i.ibb.co/4mfMGq3/resize-2024-10-10-T232436-901.png",OVAA
+#EXTGRP:Развлекательные
+http://tv.tuva.ru/ovaa/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/волга.png",Волга
 #EXTGRP:Региональные
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8?version=2
@@ -1436,7 +1440,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTGRP:Познавательные
 http://195.26.83.96:7007/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/D-TV6.png",D-TV6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/D-TV6.png",D-TV6 [Тех. Работы]
 #EXTGRP:Развлекательные
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 
@@ -1533,7 +1537,8 @@ http://185.57.68.33/232/mpegts
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Dmitry-tv_HD.png",Dmitry-tv HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Dmitry-tv_HD.png",Dmitry-tv HD [Тех. Работы]
 #EXTGRP:Музыка
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 

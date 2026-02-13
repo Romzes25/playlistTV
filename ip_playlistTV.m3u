@@ -1019,6 +1019,10 @@ http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTGRP:Развлекательные;Юмор
 http://31.148.48.15/KVN_TV/index.m3u8
 
+#EXTINF:-1 tvg-name="OVAA" tvg-logo="https://i.ibb.co/4mfMGq3/resize-2024-10-10-T232436-901.png",OVAA
+#EXTGRP:Развлекательные
+http://tv.tuva.ru/ovaa/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/перец.png",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 
