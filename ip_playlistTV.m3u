@@ -472,6 +472,10 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTGRP:Кино
 http://185.46.16.239:8000/Russkiy_Illyuzion
 
+#EXTINF:-1 tvg-id="5232" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сапфир.png",Сапфир
+#EXTGRP:Фильмы
+http://fl04.lamro.tv/SapfirHD/mono.m3u8
+
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
 
@@ -739,6 +743,10 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L171KT3/9d8f609c2c25654723ed63403310b6b8.png" logo="https://i.ibb.co/j3f7rGs/5e2021c4e358903e655b189b18ee3847.png" tvg-id="mir-seriala",Мир Сериала
 #EXTGRP:Фильмы;Сериалы
 http://193.25.8.59:8000/mirseriala
+
+#EXTINF:-1 tvg-id="5064" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fan.png",FAN
+#EXTGRP:Фильмы
+https://fl02.lamro.tv/ch3562/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6622DcSj/58b4442a64428411b86caa3a01a35ab0.png" logo="https://i.postimg.cc/PJwj2PSy/336aff5412117510b0a0ed6e19d2d5cf.png" channelId="178" tvg-id="foxlife",FX Life
 #EXTGRP:Фильмы
