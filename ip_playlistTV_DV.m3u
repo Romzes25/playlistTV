@@ -1687,6 +1687,6 @@ https://hls-01-europaplus-rock.emgsound.ru/europaplus-rock/playlist.m3u8
 #EXTGRP:Радио
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кп.png",Комсомольская правда [НЕ Исправен!]
-#EXTGRP:Радио
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/19254/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/donate.png",Donate
+#EXTGRP:Donate
+https://drive.usercontent.google.com/download?id=1NJ5S5nNJPSEl50bSs6yl0GJ2vO84YMpm&export=download&authuser=0&confirm=t&uuid=551b4b1d-2c29-46ae-819a-19a9cae7ed26&at=APcXIO1Y43vV0q_fDrmF7yKDoVgb%3A1771644040375
