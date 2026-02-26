@@ -959,7 +959,7 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTGRP:Мультфильмы
 http://88.216.112.114/Cartoonito/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/iptvplay_disney.png",IPTVPLAY Disney HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/iptvplay_disney.png",IPTVPLAY МУЛЬТСКАЗКИ
 #EXTGRP:Мультфильмы
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
@@ -974,6 +974,10 @@ http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/чип_и_дейл.png",Чип и Дейл
 #EXTGRP:Мультфильмы
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/JimJam.png",JimJam
+#EXTGRP:Мультфильмы
+http://176.118.197.125/JimJam/index.m3u8
 
 
 
@@ -1062,7 +1066,13 @@ http://87.76.32.36:8001/7kanal
 #EXTGRP:Документально-познавательный
 http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 
+#EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png",Просвещение
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="terra-inkognita" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/terra_incognita.png",Терра Инкогнита
+#EXTGRP:Познавательные
+http://178.124.153.123:44400/terra
 
 #EXTINF:-1 tvg-logo="https://obkomtv.omsk-kprf.ru/sites/all/themes/obkom/logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Обком_ТВ_logo.png",Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
@@ -1757,6 +1767,18 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Igra/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_футбол1.png"  tvg-id="match-football1" ,МАТЧ! ФУТБОЛ 1
+#EXTGRP:Спорт
+http://193.25.8.59:8000/fut
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_футбол2.png"  tvg-id="match-football2"   tvg-name="Матч! Футбол 2",МАТЧ! ФУТБОЛ 2
+#EXTGRP:Спорт
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_футбол3.png" tvg-id="match-football3" ,МАТЧ! ФУТБОЛ 3
+#EXTGRP:Спорт
+http://193.25.8.59:8000/fut3
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт_баскет.png" tvg-id="start",Старт Баскет
 #EXTGRP:Спорт
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
@@ -1948,7 +1970,7 @@ http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTGRP:Музыка
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1hd.ru/img/logo.svg",1HD Music TV [НЕ Исправен!]
+#EXTINF:-1 tvg-logo="https://1hd.ru/img/logo.svg",1HD [НЕ Исправен!]
 #EXTGRP:Музыка
 http://91.247.68.229:8000/play/eee/index.m3u8
 
