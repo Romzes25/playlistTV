@@ -1027,6 +1027,14 @@ https://jekalich.github.io/smtk/channels/viasat-explore.m3u8
 #EXTGRP:Познавательные
 https://jekalich.github.io/smtk/channels/viasat-history.m3u8
 
+#EXTINF:-1 catchup="append" catchup-days="3" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/репортер_73.png",Репортер 73
+#EXTGRP:Региональные
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="3" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рифей_тв.png",Рифей-ТВ
+#EXTGRP:Познавательные;Региональные;Информационный;Развлекательные;Эфир
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/твоё_тв.png",Твоё ТВ
 #EXTGRP:Развлекательные
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -1224,7 +1232,9 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
 
 
-
+#EXTINF:-1 tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD
+#EXTGRP:Региональные
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Общественные" tvg-logo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/TV_BRICS_logo.png",TV BRICS
 #EXTGRP:Познавательные
