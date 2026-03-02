@@ -2051,6 +2051,14 @@ http://mp3128.light.streamr.ru/
 #EXTGRP:Радио
 http://mp3128.new.streamr.ru/
 
+#EXTINF:-1 tvg-logo="https://radio.almaz-media.tv/logo.svg",Алмазный край [Радио]
+#EXTGRP:Радио
+https://stream.almaz-media.tv/radio
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кп.png",Комсомольская правда [Проф. Работы]
 #EXTGRP:Радио
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/19254/index.m3u8
+https://kpradio.hostingradio.ru:8000/vladivostok.radiokp64.mp3?utm_source=radiokp.ru
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/donate.png",Donate
+#EXTGRP:Donate
+https://github.com/Romzes25/playlistTV/raw/refs/heads/master/channels/donate.mp4
