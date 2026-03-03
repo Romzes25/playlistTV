@@ -179,8 +179,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний HD [Проф. Работы]
-https://fl05.lamro.tv/DomashniyHD/mono.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний HD
+http://45.145.32.13:20440/domashnij/index.m3u8?token=test
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="domashny" tvg-logo="https://cdn2video-static-ssl.domashniy.ru/uploads/design/header/1148121478.jpeg",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -474,7 +474,7 @@ http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/914/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/1115.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/комедия_logo.png" channelId="71" tvg-id="russkaya-komedia",Комедия
 #EXTGRP:Фильмы
-http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzIxMzU3NTcsImlhdCI6MTc3MjA0OTM1NywiY2lkIjo2LCJ1aWQiOjEwMTEzNTc0MDIsInJlZyI6ZmFsc2UsImlwIjo2NDE1MjM0NjQsImFkdWx0IjpmYWxzZX0.UoZu4ZiTkyZRjIWsgBBOx2wkh1WXqb4hmPW7ZiY4qyY&offset=10
+http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI1Njc3MjgsImlhdCI6MTc3MjQ4MTMyOCwiY2lkIjo2LCJ1aWQiOjEwMTM5NDAwMjksInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0._gPtPzxlsmdQ7UD8c67evx8HFNS6pU0CFrzihXuEDoU&offset=10
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/блокбастер_logo.png" tvg-id="blokbaster-hd",Блокбастер [НЕ Исправен!]
 #EXTGRP:Фильмы
@@ -505,7 +505,7 @@ https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Киносвидание" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киносвидание.png",Киносвидание
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья HD [Проф. Работы]
+#EXTINF:-1 group-title="Фильмы" tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья HD
 http://87.246.54.249:8080/kinosemia/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
 http://188.113.190.12/329/index.m3u8
@@ -525,8 +525,8 @@ http://193.25.8.59:8000/XXI
 #EXTGRP:Фильмы
 http://31.148.48.15:80/Amedia_HIT_HD/index.m3u8
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="Хит HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD [Проф. Работы]
-https://fl05.lamro.tv/ch4779/mono.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="Хит HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD
+http://tv.lamro.workers.dev/?ID=4972
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="Кинопоказ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопоказ.png",Кинопоказ
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
@@ -545,7 +545,7 @@ http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-id="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HollywoodHD.png",Hollywood HD 
 http://31.148.48.15:80/MGM_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/6209.png" logo="https://i.postimg.cc/26985yPh/8dae3f5f756ffabdae4a2e9c9d7e3eb6.png" channelId="4767" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ [Проф. Работы]
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/6209.png" logo="https://i.postimg.cc/26985yPh/8dae3f5f756ffabdae4a2e9c9d7e3eb6.png" channelId="4767" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ [НЕ Исправен!]
 #EXTGRP:Фильмы
 https://fl05.lamro.tv/ch4775/mono.m3u8
 
@@ -570,11 +570,11 @@ http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/2146/index.m3u8
 http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/9044/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0121.png" logo="https://antifriz.tv/storage/images/channel_logos/kino-premium-hd.png" channelId="1637" tvg-id="premialnoe-hd" tvg-shift="-4" shift="+4",Премиальное HD (+4) [НЕ Исправен!]
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/7222/index.m3u8_4
+http://185.234.59.200:8080/premialnoe_hd/index.m3u8_4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное.jpg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное_logo.png" channelId="1637" tvg-id="premialnoe-hd",Премиальное [НЕ Исправен!]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное.jpg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное_logo.png" channelId="1637" tvg-id="premialnoe-hd",Премиальное
 #EXTGRP:Фильмы
-http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/7222/index.m3u8
+http://185.234.59.200:8080/premialnoe_hd/index.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="ДОМ КИНО" tvg-logo="https://www.domkino.tv/images/logo240x32.png",Дом кино
 http://176.96.241.40/DomKino/index.m3u8
@@ -644,7 +644,7 @@ https://autopilot.catcast.tv/content/38354/index.m3u8?password=loganet
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДрама.png",Сити Эдем - КиноДрама
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКлассика.png",Сити Эдем - КиноКлассика
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКлассика.png",Сити Эдем - КиноКлассика [Проф. Работы]
 https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКомедия.png",Сити Эдем - КиноКомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
@@ -892,8 +892,8 @@ http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт
 http://31.148.48.15:80/Mult/index.m3u8?token=test
 
-#EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/kIE6Ehu.png",Ani HD [НЕ Исправен!]
-http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/kIE6Ehu.png",Ani HD
+https://jekalich.github.io/smtk/channels/ani.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/kIE6Ehu.png",Ani
 http://31.148.48.15:80/Ani/index.m3u8?token=test
 
@@ -913,7 +913,7 @@ http://v2.catcast.tv/content/38720/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/8o8QHOz.png",Мама HD [НЕ Исправен!]
-http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
+http://62.89.220.15/streams/media/mama_720x576/index.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/8o8QHOz.png",Мама
 http://176.118.197.125/Mama/index.m3u8
 
