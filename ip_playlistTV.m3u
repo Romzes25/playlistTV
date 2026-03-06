@@ -685,6 +685,18 @@ http://178.212.71.253:8001/play/144/index.m3u8
 #EXTGRP:Фильмы
 http://hls.goodgame.ru:8080/hls/204709.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.vintera.tv/img/ico/kinosezon.png" logo="https://i.postimg.cc/DzgwtB6C/4f0c6170151a914ff38bdd9c6e310e84.png" channelId="-1" tvg-id="kinosezon" shift="3",КиноСезон
+#EXTGRP:Фильмы 📽
+https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
+
+#EXTINF:-1 tvg-name="КИНО СТРИМ" tvg-logo="https://kino-stream.online/logo.png",Кино Стрим
+#EXTGRP:Фильмы 📽
+https://cdn.kino-stream.online/hls/KINOSTREAM.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тех_лет_тв.png",Тех Лет ТВ
+#EXTGRP:Фильмы 📽
+http://minsk-cache07t.voka.tv/live/9489-req_5k_v5.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/akudji_tv.png",Akudji TV [НЕ Исправен!]
 #EXTGRP:Фильмы
 http://hls.goodgame.ru:8080/hls/5346.m3u8
