@@ -112,7 +112,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 #EXTGRP:Мультфильмы;Детские
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/перец.png",Перец
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/перец.png",Перец [Проф. Работы]
 #EXTGRP:Развлекательные
 http://158.101.222.193:88/georgia_play.php?id=perec
 
@@ -272,15 +272,15 @@ https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы 📽
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья
+#EXTINF:-1 tvg-id="Киносемья" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Киносемья.png",Киносемья [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 
-#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Kinouzhas_%28stacked%29.svg" url-scrlogo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Kinouzhas_%28stacked%29.svg",Киноужас
+#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Kinouzhas_%28stacked%29.svg" url-scrlogo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Kinouzhas_%28stacked%29.svg",Киноужас [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
-#EXTINF:-1 tvg-id="Кинохит" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинохит.png",Кинохит
+#EXTINF:-1 tvg-id="Кинохит" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинохит.png",Кинохит [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 
@@ -288,7 +288,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTGRP:Фильмы 📽
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/комедия_logo.png" tvg-scrlogo="http://only4.tv/ch/1115.png" channelId="71" tvg-id="russkaya-komedia",Комедия
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/комедия_logo.png" tvg-scrlogo="http://only4.tv/ch/1115.png" channelId="71" tvg-id="russkaya-komedia",Комедия [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI3ODM2MDEsImlhdCI6MTc3MjY5NzIwMSwiY2lkIjo2LCJ1aWQiOjEwMTUwMzg3ODUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.p7Vu3lUBVk6WUJEzSuXXY8gFgOktod36iMVcPqy3L5k&offset=10
 
@@ -308,7 +308,7 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTGRP:Фильмы 📽
 https://telluri.ru/video/tr-and/5007.m3u8
 
-#EXTINF:-1 tvg-id="Мужское Кино" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Мужское_Кино.png",Мужское Кино
+#EXTINF:-1 tvg-id="Мужское Кино" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Мужское_Кино.png",Мужское Кино [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 
@@ -319,10 +319,6 @@ https://jekalich.github.io/smtk/channels/nashe-novoe-kino.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26985yPh/8dae3f5f756ffabdae4a2e9c9d7e3eb6.png" tvg-scrlogo="http://only4.tv/ch/6209.png" channelId="4767" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 https://fl05.lamro.tv/ch4775/mono.m3u8
-
-#EXTINF:-1 tvg-name="Новый Русский" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album",Новый Русский
-#EXTGRP:Фильмы 📽
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
 
 #EXTINF:-1 tvg-logo="https://ct-bank.digitalrussia.tv/files/2023/05/strashnoe-tv_2_.svg",НСТ
 #EXTGRP:Фильмы 📽
