@@ -8,9 +8,9 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 #EXTGRP:Информационный;Развлекательные;Новостные
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA1/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=3  tvg-id="match-tv"  tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7) [НЕ Исправен!]
+#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=3  tvg-id="match-tv"  tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7)
 #EXTGRP:Спорт;Мужские
-http://58564e98.russtv.net/iptv/DGVFM24KYT2V5LWRNCEEMDLD/15335/index.m3u8
+https://m3u8.video.matchtv.ru/media/playlist/ch_6efb57dfda7c231dfb508bd8b692f15b/17_86669241/360/97c03ab68f134ef02c6d37b00ba5b145/1773709800.m3u8
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=4 tvg-id="ntv" shift="+7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/нтв+7.png",НТВ (+7)
 #EXTGRP:Эфир;Новости
@@ -114,7 +114,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/перец.png",Перец
 #EXTGRP:Развлекательные
-http://158.101.222.193:88/georgia_play.php?id=perec
+http://46.53.208.4:80/live/971.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" tvg-id="8vladik" tvg-logo="http://8kanal.tv/uploads/assets/2018/04/18/logonew.png",8 канал Владивосток
 #EXTGRP:Региональные
@@ -232,7 +232,7 @@ https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы 📽
 https://fl1001.bozztv.com/ushba-films-o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_22.png",Кинозалы 22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_22.png",Кинозалы 22 [Проф. Работы]
 #EXTGRP:Фильмы 📽
 https://fl1001.bozztv.com/ushba-films-s/index.m3u8
 
