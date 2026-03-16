@@ -893,6 +893,10 @@ https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTGRP:Развлекательные;Юмор
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ностальгия.png",Ностальгия
+#EXTGRP:Развлекательные
+http://31.148.48.15:80/Nostalgiya/index.m3u8?token=rostik_tv
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кухня.png",Кухня ТВ
 #EXTGRP:Развлекательные;Познавательные;Хобби
 http://31.148.48.15/Kuhnya_TV/index.m3u8
@@ -948,6 +952,14 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Motor
 #EXTGRP:Познавательные;Документальные
 https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_медздрав_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_медздрав.png",Сити Эдем - МедЗдрав
+#EXTGRP:Познавательные;Здоровье
+http://cityeden.catcast.tv/content/47519/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/здоровое_тв.png",Здоровое ТВ
+#EXTGRP:Познавательные;Здоровье
+http://193.25.8.59:8000/zdorovoetv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дикий.png",Дикий
 #EXTGRP:Охота и Рыбалка;Хобби
