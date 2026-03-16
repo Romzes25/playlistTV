@@ -156,7 +156,7 @@ https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 #EXTGRP:Фильмы 📽
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/еврокино.png",Еврокино
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/еврокино.png",Еврокино [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://31.148.48.15:80/Evrokino/index.m3u8?token=test
 
