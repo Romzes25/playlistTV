@@ -1152,6 +1152,10 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTGRP:Новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
+#EXTINF:-1 ,DW
+#EXTGRP:Новости
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/драйв.png",Драйв
 #EXTGRP:Познавательные;Хобби
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
@@ -1163,6 +1167,10 @@ https://jekalich.github.io/smtk/channels/viasat-explore.m3u8
 #EXTINF:-1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_history_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_history.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_history_scrlogo.png",Viju History
 #EXTGRP:Познавательные
 https://jekalich.github.io/smtk/channels/viasat-history.m3u8
+
+#EXTINF:-1 ,OVAA TV
+#EXTGRP:Познавательные;Развлекательные
+http://vod.tuva.ru/ovaa/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/репортер_73.png",Репортер 73
 #EXTGRP:Региональные
