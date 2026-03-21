@@ -252,7 +252,7 @@ http://tinyurl.com/TvZaTak20/ushba64/index.m3u8
 #EXTGRP:Фильмы 📽
 https://fl1001.bozztv.com/ushba65/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L01RjKe.png",Кино ТВ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кино_тв.png",Кино ТВ
 #EXTGRP:Фильмы 📽
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
@@ -284,7 +284,7 @@ https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d
 #EXTGRP:Фильмы 📽
 https://cdn.kino-stream.online/hls/KINOSTREAM.m3u8
 
-#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киноужас.png" url-scrlogo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Kinouzhas_%28stacked%29.svg",Киноужас
+#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киноужас_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киноужас.png",Киноужас
 #EXTGRP:Фильмы 📽
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
