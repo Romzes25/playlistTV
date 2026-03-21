@@ -549,7 +549,7 @@ http://193.25.8.59:8000/XXI
 #EXTGRP:Фильмы
 http://31.148.48.15:80/Amedia_HIT_HD/index.m3u8
 
-#EXTINF:-1 group-title="Фильмы" tvg-id="Хит HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD [НЕ Исправен!]
+#EXTINF:-1 group-title="Фильмы" tvg-id="Хит HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит [НЕ Исправен!]
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/46927/hlsx/pl.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-id="Кинопоказ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кинопоказ.png",Кинопоказ
@@ -1020,13 +1020,18 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTGRP:Мультфильмы
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 
-#EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/8o8QHOz.png",Мама HD [НЕ Исправен!]
-http://62.89.220.15/streams/media/mama_720x576/index.m3u8
-
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/8o8QHOz.png",Мама
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/SYt6BZP.png",Мульт и музыка HD [НЕ Исправен!]
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/маша_и_медведь.png",Маша и Медведь (Eng)
+#EXTGRP:Мультфильмы
+https://live20.bozztv.com/giatvplayout7/ushba78/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/маша_и_медведь.png",Маша и Медведь
+#EXTGRP:Мультфильмы
+https://live20.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/SYt6BZP.png",Мульт и музыка [НЕ Исправен!]
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 
 #EXTINF:-1 group-title="Мультфильмы" tvg-logo="https://i.imgur.com/ccwijY0.png",Мультиландия
@@ -1307,7 +1312,7 @@ http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant
 http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="gubernia-33" tvg-logo="https://trc33.ru/assets/images/logo.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Губерния_33_logo.png",Губерния 33 HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные" tvg-id="gubernia-33" tvg-logo="https://trc33.ru/assets/images/logo.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Губерния_33_logo.png",Губерния 33
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 
@@ -1327,7 +1332,7 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://sochinskayatrk.ru/images/stories/STRK.gif",СТРК HD [Проф. Работы]
+#EXTINF:-1 tvg-logo="http://sochinskayatrk.ru/images/stories/STRK.gif",СТРК [Проф. Работы]
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 
 
@@ -1377,9 +1382,13 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD
+#EXTINF:-1 tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС
 #EXTGRP:Региональные
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кто_есть_кто.png" tvg-id="kto-est-kto" audio-track="rus",кто есть кто
+#EXTGRP:Познавательные
+http://31.210.208.171:8080/kto_est_kto/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-logo="" group-title="Общественные" tvg-logo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/TV_BRICS_logo.png",TV BRICS
 #EXTGRP:Познавательные
@@ -2126,7 +2135,7 @@ http://arbiter.bolshoe.tv/?path=abr3/bridge_fresh/71/copy/playlist.m3u8&wmsAuthS
 #EXTGRP:Музыка
 http://193.25.8.59:8000/mtv
 
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Dmitry-tv_HD.png",Dmitry-tv HD [НЕ Исправен!]
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Dmitry-tv_HD.png",Dmitry-tv [НЕ Исправен!]
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mtv_90s.png",MTV 90's [НЕ Исправен!]
@@ -2141,7 +2150,7 @@ https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTGRP:Музыка
 http://91.247.68.229:8000/play/eee/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/3dae8f6039195d2450462b3d890fb74c.jpg" channelId="282" tvg-id="mezzo-live-hd",Mezzo Live HD [Проф. Работы]
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/3dae8f6039195d2450462b3d890fb74c.jpg" channelId="282" tvg-id="mezzo-live-hd",Mezzo Live [Проф. Работы]
 #EXTGRP:Музыка;Классика
 http://4afc0bdb.rossteleccom.net/iptv/YFGED2EXLRQLUSCVFTZPLAW4/208/index.m3u8
 
