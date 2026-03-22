@@ -1048,10 +1048,10 @@ http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTGRP:Спорт
 http://nl01.plinkspile.su/7339/index.m3u8?token=t5UR44ypbYDnBx
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports_logo.png",Setanta Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports1_logo.png",Setanta Sports 1
 #EXTGRP:Спорт
 http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports_logo.png",Setanta Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports2_logo.png",Setanta Sports 2
 #EXTGRP:Спорт
 http://94.43.1.138:8081/setanta2/index.m3u8
 
