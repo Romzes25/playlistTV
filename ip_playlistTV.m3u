@@ -887,6 +887,102 @@ http://193.25.8.59:8000/FilmBOX
 #EXTGRP:Фильмы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
 
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_сваты_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_сваты.png",BCU Сваты
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11047/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ссср_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ссср.png",BCU СССР
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11026/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_action_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_action.png",BCU Action
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11027/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_catastrophe_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_catastrophe.png",BCU Catastrophe
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11028/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema.png",BCU Cinema
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11029/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema+logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema+.png",BCU Cinema+
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11030/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_comedy_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_comedy.png",BCU Comedy
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11031/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_criminal_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_criminal.png",BCU Criminal
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11048/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_fantastic_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_fantastic.png",BCU Fantastic
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11032/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_filmystic_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_filmystic.png",BCU FilMystic
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11033/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_history_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_history.png",BCU History
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11034/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kinorating_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kinorating.png",BCU Kinorating
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11037/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_marvel_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_marvel.png",BCU Marvel
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11038/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere.png",BCU Premiere
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11039/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_1.png",BCU Premiere 1
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11015/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_2.png",BCU Premiere 2
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11016/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_3.png",BCU Premiere 3
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11017/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_romantic_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_romantic.png",BCU Romantic
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11040/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ruserial_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ruserial.png",BCU RuSerial HD
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11046/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_russian_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_russian.png",BCU Russian
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11041/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_stars_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_stars.png",BCU Stars
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11044/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ultra_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ultra.png",BCU Ultra
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11045/index.m3u8
+
+#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_vhs_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_vhs.png",BCU VHS
+#EXTGRP:Фильмы 📽
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11042/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/prizrakplay.png",PrizraK PlaY
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/vampiro1965_live
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png",IPTVPLAY УЖАСТИК
 #EXTGRP:Фильмы
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -1877,7 +1973,7 @@ https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://channel11.ru/images/pechQZrJ1nk.jpg",11 канал Полевской [НЕ Исправен!]
+#EXTINF:-1 tvg-logo="https://channel11.ru/images/pechQZrJ1nk.jpg",11 канал [НЕ Исправен!]
 http://hjplb2qzsf8.a.trbcdn.net/livemaster/qm9inc7byc_stream1/playlist.m3u8
 
 
