@@ -381,7 +381,7 @@ http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский роман
 #EXTGRP:Фильмы 📽
-http://185.46.16.239:8000/Russkiy_roman
+http://vod.tuva.ru/rusroman/index.m3u8
 
 #EXTINF:-1 tvg-name="Русский иллюзион" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион.png",Русский иллюзион
 #EXTGRP:Фильмы 📽
