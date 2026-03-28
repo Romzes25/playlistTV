@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="3600"
+#PLAYLIST:IP_PlaylistTV_DV
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
 #EXTGRP:Федеральный;Информационный
