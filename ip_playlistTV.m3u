@@ -728,11 +728,15 @@ https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d
 
 #EXTINF:-1 tvg-name="КИНО СТРИМ" tvg-logo="https://kino-stream.online/logo.png",Кино Стрим
 #EXTGRP:Фильмы 📽
-https://cdn.kino-stream.online/hls/KINOSTREAM.m3u8
+https://cdn.kino-stream.onlлотлотлine/hls/KINOSTREAM.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тех_лет_тв.png",Тех Лет ТВ
 #EXTGRP:Фильмы 📽
 http://46.53.208.4:80/live/9489.m3u8
+
+#EXTINF:-1  tvg-id="299"  tvg-logo="http://tv.kubtel.ru/tv_icon/detective-jam.png" ,DetectiveJam HD
+#EXTGRP:Фильмы 📽
+http://cdn.kubteltv.workers.dev/?ID=299
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/akudji_tv.png",Akudji TV
 #EXTGRP:Фильмы
@@ -778,8 +782,12 @@ http://185.164.82.18:9010/ykMHqK_Fox
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/QAdDARF.png",Kino24 Russia [НЕ Исправен!]
 http://vod.spdrthdrtlay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/6HQFM4m.png",KinoJam 1 HD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/6HQFM4m.png",KinoJam 1
 http://cdn.kubteltv.workers.dev/?ID=297
+
+#EXTINF:-1  tvg-id="298"  tvg-logo="http://tv.kubtel.ru/tv_icon/kino-jam-2.png" ,KinoJam 2
+#EXTGRP:Фильмы 📽
+http://cdn.kubteltv.workers.dev/?ID=298
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/s3Sqd4L.png",Timeless Dizi Channel
 http://193.25.8.59:8000/tlc
@@ -863,6 +871,10 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/sd_rex.png",SD REX
 #EXTGRP:Фильмы
 http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
+
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140" tvg-name="𝕂𝔸ℂℂ𝔼𝕋𝔸",𝕂𝔸ℂℂ𝔼𝕋𝔸
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/kasseta_live
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_1.png",Amedia 1
 #EXTGRP:Фильмы
@@ -1055,6 +1067,58 @@ http://kinowalk.hopto.org/kinowalk_live
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/igrocomp_live
 
+#EXTINF:-1  tvg-id="fresh-adventure" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_adventure.png",Fresh Adventure
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19297/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_cinema.png",Fresh Cinema
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19287/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-comedy" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_comedy.png",Fresh Comedy
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19289/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-family" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_family.png",Fresh Family
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19291/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-fantastic" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_fantastic.png",Fresh Fantastic
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19294/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-horror" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_horror.png",Fresh Horror
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19296/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-premiere" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_premiere.png",Fresh Premiere
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19290/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-rating" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_rating.png",Fresh Rating
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19292/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-romatic" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_romantic.png",Fresh Romantic
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19298/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-russian" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_russian.png",Fresh Russian
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19299/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-series" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_series.png",Fresh Series
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19295/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-thriller" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_thriller.png",Fresh Thriller
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19300/index.m3u8
+
+#EXTINF:-1  tvg-id="fresh-vhs" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_vhs.png",Fresh VHS
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19293/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fantasticmistyc.png",FantasticMistyc
 #EXTGRP:Фильмы 📽
 rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -1095,6 +1159,14 @@ http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.
 #EXTGRP:Мультфильмы
 http://kinowalk.hopto.org/dimpon_live
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/три_богатыря.png",Три Богатыря
+#EXTGRP:Мультфильмы
+https://tinyurl.com/aleks-u-romki-47/18132/index.m3u8
+
+#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/том_и_джери.png" ,Том и джери
+#EXTGRP:Мультфильмы
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/jtx_online.png",Jetix Online
 #EXTGRP:Мультфильмы
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
@@ -1102,6 +1174,10 @@ https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киномульт.png",Киномульт
 #EXTGRP:Мультфильмы
 http://46.53.208.4:80/live/157.m3u8
+
+#EXTINF:-1  tvg-id="300"  tvg-logo="http://tv.kubtel.ru/tv_icon/family-jam.png" ,FamilyJam
+#EXTGRP:Мультфильмы
+http://cdn.kubteltv.workers.dev/?ID=300
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/dtr_zona_2.png",DTR ZONA 2
 #EXTGRP:Мультфильмы
@@ -1259,6 +1335,14 @@ http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab
 #EXTGRP:Мультфильмы
 http://31.148.48.15/Rizhiy/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/канал_disney.jpg",Канал Disney Онлайн
+#EXTGRP:Мультфильмы
+http://kinowalk.hopto.org/kanaldisneyonline_live
+
+#EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_kids.png",Fresh Kids
+#EXTGRP:Мультфильмы
+https://tinyurl.com/aleks-u-romki-47/19288/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/чип_и_дейл.png",Чип и Дейл
 #EXTGRP:Мультфильмы
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -1294,6 +1378,14 @@ http://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/арсенал.png",Арсенал
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-id="340"  tvg-logo="http://tv.kubtel.ru/tv_icon/ZHiviaktivno.png" ,Живи активно
+#EXTGRP:Познавательные
+http://cdn.kubteltv.workers.dev/?ID=340
+
+#EXTINF:-1  tvg-id="231"  tvg-logo="http://tv.kubtel.ru/tv_icon/tochka-otriva.png" ,Точка отрыва
+#EXTGRP:Познавательные
+http://cdn.kubteltv.workers.dev/?ID=231
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/в_мире_животных.png",В мире животных
 #EXTGRP:Познавательные
@@ -1727,7 +1819,7 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дикий.png",Дикий
 #EXTGRP:Охота и Рыбалка
-http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
+http://176.96.241.40/Dikiy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_history_logo.png",Viju History
 #EXTGRP:Познавательные
