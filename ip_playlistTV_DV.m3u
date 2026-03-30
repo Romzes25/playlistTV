@@ -9,7 +9,7 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 #EXTGRP:Информационный;Развлекательные;Новостные
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA1/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=3  tvg-id="match-tv"  tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7)
+#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=3  tvg-id="match-tv"  tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7) [Проф. Работы]
 #EXTGRP:Спорт;Мужские
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/15335/index.m3u8
 
@@ -798,6 +798,10 @@ https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы 📽
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 url-scrlogo="https://i.postimg.cc/668Y5TYH/492dbd640d045188879ae5949798c21d.png" tvg-logo="https://i.postimg.cc/XYb88L3h/e64efc8dfee42c8756db5c2f9a736e5f.png" channelId="-1" tvg-id="romance",Romance
+#EXTGRP:Фильмы 📽
+http://193.25.8.59:8000/tlc
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/sd_rex.png",SD REX
 #EXTGRP:Фильмы 📽
 http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
@@ -820,7 +824,7 @@ https://jekalich.github.io/smtk/channels/star-family.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3Sqd4L.png",Timeless Dizi Channel
 #EXTGRP:Фильмы 📽
-http://193.25.8.59:8000/tlc
+http://193.25.8fxngxfgnf.59:8000/tlc
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тв_21.png",TV XXI
 #EXTGRP:Фильмы 📽
