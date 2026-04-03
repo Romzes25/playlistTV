@@ -507,9 +507,65 @@ https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/9GvuHQ5.png",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
 
-#EXTINF:-1 tvg-id="minimax-kriminal" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/minimax-kriminal.png",Minimax Криминал
+#EXTINF:0 tvg-id="Xminimax-boevik_classic" tvg-name="MM Боевик Classic HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_boevik_classic.png"  tvg-rec="5" timeshift="5",MM Боевик Classic
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6018/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-western" tvg-name="MM Вестерн HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_вестерн.png"  tvg-rec="5" timeshift="5",MM Вестерн
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6019/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-kiberpunk" tvg-name="MM Киберпанк HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_киберпанк.png"  tvg-rec="5" timeshift="5",MM Киберпанк
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6024/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-kriminal" tvg-name="MM Криминал HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_криминал.png"  tvg-rec="5" timeshift="5",MM Криминал
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6027/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-kdetie-90-e" tvg-name="MM Крутые 90-е HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_крутые_90-е.png"  tvg-rec="5" timeshift="5",MM Крутые 90-е
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6028/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-svati" tvg-name="MM Сваты HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_сваты.png"  tvg-rec="5" timeshift="5",MM Сваты
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6036/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-sitkom" tvg-name="MM Ситком HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_ситком.png"  tvg-rec="5" timeshift="5",MM Ситком
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6039/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-sitkom20" tvg-name="MM Ситком 2.0 HD" tvg-logo"https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_ситком_2.0.png"  tvg-rec="5" timeshift="5",MM Ситком 2.0
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6040/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-triller" tvg-name="MM Триллер HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_триллер.png"  tvg-rec="5" timeshift="5",MM Триллер
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6044/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-ujastik" tvg-name="MM Ужастик HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_ужастик.png"  tvg-rec="5" timeshift="5",MM Ужастик
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6045/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-ujasi-classic" tvg-name="MM Ужасы Classic HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_ужасы_classic.png"  tvg-rec="5" timeshift="5",MM Ужасы Classic
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6048/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-fantastika" tvg-name="MM Фантастика HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_фантастика.png"  tvg-rec="5" timeshift="5",MM Фантастика
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6050/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xminimax-fobija" tvg-name="MM Фобия HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_фобия.png"  tvg-rec="5" timeshift="5",MM Фобия
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6051/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:-1 tvg-id="minimax-kriminal" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_translation.png",Minimax Translation
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/and7610_live
+
+#EXTINF:0 tvg-id="Xminimax-ussr-1941-1945" tvg-name="MM USSR 1941-1945 HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_ussr.png"  tvg-rec="5" timeshift="5",MM USSR 1941-1945
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/6010/1966B8DE7EC6FEE/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/shot_tv_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/shot_tv.png",SHOT TV
 #EXTGRP:Фильмы 📽
@@ -730,6 +786,10 @@ https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d
 #EXTGRP:Фильмы 📽
 https://cdn.kino-stream.onlлотлотлine/hls/KINOSTREAM.m3u8
 
+#EXTINF:-1 tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",MovieToper
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/movietoper_live
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тех_лет_тв.png",Тех Лет ТВ
 #EXTGRP:Фильмы 📽
 http://46.53.208.4:80/live/9489.m3u8
@@ -775,6 +835,50 @@ http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cinema_test.png",Cinema Test
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+
+#EXTINF:0 tvg-id="Xcineman-katastrofy" tvg-name="CineMan Катастрофы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_катастрофы.png"  tvg-rec="5" timeshift="5",CineMan Катастрофы
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/13004/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-name="CineMan Комедийные сериалы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/CineMan_к.с.png"  tvg-rec="5" timeshift="5",CineMan Комедийные сериалы
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/13030/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xcineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_ужасы.png"  tvg-rec="5" timeshift="5", CineMan Ужасы
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/13018/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xcineman-marvel" tvg-name="CineMan Marvel" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_marvel.png"  tvg-rec="5" timeshift="5",CineMan Marvel
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/13006/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xcineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_miniseries.png"  tvg-rec="5" timeshift="5",CineMan MiniSeries
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/13009/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xcineman-vhs" tvg-name="CineMan VHS" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_vhs.png"  tvg-rec="5" timeshift="5", CineMan VHS
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/13019/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xgoldline-detektiv" tvg-name="GL Детектив" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_detektiv.png"  tvg-rec="5" timeshift="5",GL Детектив
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/1826/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xgoldline-survival" tvg-name="GL Survival" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_survival.png"  tvg-rec="5" timeshift="5",GL Survival
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/1825/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xgoldline-brief" tvg-name="GL Brief" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_brief.png"  tvg-rec="5" timeshift="5",GL Brief
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/1818/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xgoldline-evidence" tvg-name="GL Evidence" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_evidence.png"  tvg-rec="5" timeshift="5",GL Evidence
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/1819/1966B8DE7EC6FEE/video.m3u8
+
+#EXTINF:0 tvg-id="Xgoldline-island" tvg-name="GL Island" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_island.png"  tvg-rec="5" timeshift="5",GL Island
+#EXTGRP:Фильмы 📽
+http://de.seetv.cc/play/1821/1966B8DE7EC6FEE/video.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/nr1Y67Z.png",FOX
 http://185.164.82.18:9010/ykMHqK_Fox
@@ -1411,6 +1515,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTGRP:Новости
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 
+#EXTINF:0 tvg-id="Xgoldline-naked" tvg-name="GL Naked&Funny" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_naked&funny.png"  tvg-rec="5" timeshift="5",GL Naked&Funny
+#EXTGRP:Развлекательные;Шоу
+http://de.seetv.cc/play/1822/1966B8DE7EC6FEE/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/драйв.png",Драйв
 #EXTGRP:Познавательные;Хобби
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
@@ -1481,6 +1589,10 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="terra-inkognita" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/terra_incognita.png",Терра Инкогнита
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/terra/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
+
+#EXTINF:0 tvg-id="Xminimax-makromir" tvg-name="MM Макромир HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_микромир.png"  tvg-rec="5" timeshift="5",MM Макромир
+#EXTGRP:Познавательные
+http://de.seetv.cc/play/6057/1966B8DE7EC6FEE/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://obkomtv.omsk-kprf.ru/sites/all/themes/obkom/logo.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Обком_ТВ_logo.png",Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
