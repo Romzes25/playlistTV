@@ -840,7 +840,7 @@ http://de.seetv.cc/play/6036/1966B8DE7EC6FEE/video.m3u8
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/6039/1966B8DE7EC6FEE/video.m3u8
 
-#EXTINF:0 tvg-id="Xminimax-sitkom20" tvg-name="MM Ситком 2.0 HD" tvg-logo"https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_ситком_2.0.png"  tvg-rec="5" timeshift="5",MM Ситком 2.0
+#EXTINF:0 tvg-id="Xminimax-sitkom20" tvg-name="MM Ситком 2.0 HD" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_ситком_2.0.png"  tvg-rec="5" timeshift="5",MM Ситком 2.0
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/6040/1966B8DE7EC6FEE/video.m3u8
 
