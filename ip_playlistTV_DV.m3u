@@ -614,11 +614,11 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/13004/1966B8DE7EC6FEE/video.m3u8
 
-#EXTINF:0 tvg-name="CineMan Комедийные сериалы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/CineMan_к.с.png"  tvg-rec="5" timeshift="5",CineMan Комедийные сериалы
+#EXTINF:0 tvg-name="CineMan Комедийные сериалы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_к.с.png"  tvg-rec="5" timeshift="5",CineMan Комедийные сериалы
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/13030/1966B8DE7EC6FEE/video.m3u8
 
-#EXTINF:0 tvg-id="Xcineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_ужасы.png"  tvg-rec="5" timeshift="5", CineMan Ужасы
+#EXTINF:0 tvg-id="Xcineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_ужасы.png"  tvg-rec="5" timeshift="5",CineMan Ужасы
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/13018/1966B8DE7EC6FEE/video.m3u8
 
@@ -630,7 +630,7 @@ http://de.seetv.cc/play/13006/1966B8DE7EC6FEE/video.m3u8
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/13009/1966B8DE7EC6FEE/video.m3u8
 
-#EXTINF:0 tvg-id="Xcineman-vhs" tvg-name="CineMan VHS" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_vhs.png"  tvg-rec="5" timeshift="5", CineMan VHS
+#EXTINF:0 tvg-id="Xcineman-vhs" tvg-name="CineMan VHS" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_vhs.png"  tvg-rec="5" timeshift="5",CineMan VHS
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/13019/1966B8DE7EC6FEE/video.m3u8
 
@@ -864,7 +864,7 @@ http://de.seetv.cc/play/6050/1966B8DE7EC6FEE/video.m3u8
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/6051/1966B8DE7EC6FEE/video.m3u8
 
-#EXTINF:-1 tvg-id="minimax-kriminal" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_translation.png",Minimax Translation
+#EXTINF:-1 tvg-id="minimax-kriminal" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_translation.png",MM Translation
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/and7610_live
 
