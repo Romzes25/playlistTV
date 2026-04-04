@@ -1099,6 +1099,10 @@ http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11042/index.m3u8
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/vampiro1965_live
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/dimpon.png",Dimpon
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/dimpon_live
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png",IPTVPLAY УЖАСТИК
 #EXTGRP:Фильмы
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -1258,10 +1262,6 @@ https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Nick_jr.png",Nick JrNickelodeon
 #EXTGRP:Детские
 http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/dimpon.png",Dimpon
-#EXTGRP:Мультфильмы
-http://kinowalk.hopto.org/dimpon_live
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/три_богатыря.png",Три Богатыря
 #EXTGRP:Мультфильмы
