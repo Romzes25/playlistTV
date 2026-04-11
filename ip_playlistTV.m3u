@@ -1283,7 +1283,7 @@ http://46.53.208.4:80/live/157.m3u8
 #EXTGRP:Мультфильмы
 http://cdn.kubteltv.workers.dev/?ID=300
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/dtr_zona_2.png",DTR ZONA 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/dtr_zona_2.png",DTR ZONA 2 [Проф. Работы]
 #EXTGRP:Мультфильмы
 https://kino-stream.online/hls/DTRZONA2.m3u8
 

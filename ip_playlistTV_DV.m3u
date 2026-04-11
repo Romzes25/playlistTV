@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="3600"
 #PLAYLIST:IP_PlaylistTV_DV
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
+#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7) [Проф. Работы]
 #EXTGRP:Федеральный;Информационный
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/15333/index.m3u8
 
@@ -718,7 +718,7 @@ https://tinyurl.com/aleks-u-romki-47/19293/index.m3u8
 #EXTGRP:Фильмы 📽
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/9232/index.m3u8
 
-#EXTINF:0 tvg-id="Xgoldline-detektiv" tvg-name="GL Детектив" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_detektiv.png"  tvg-rec="5" timeshift="5",GL Детектив
+#EXTINF:0 tvg-id="Xgoldline-detektiv" tvg-name="GL Детектив" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_detektiv.png"  tvg-rec="5" timeshift="5",GL Детектив [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://bde.online24.pm/play/1826/F6E1DD42544DD10/video.m3u8
 
