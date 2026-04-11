@@ -722,7 +722,7 @@ http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/9232/index.m3u8
 #EXTGRP:Фильмы 📽
 http://bde.online24.pm/play/1826/F6E1DD42544DD10/video.m3u8
 
-#EXTINF:0 tvg-id="Xgoldline-survival" tvg-name="GL Survival" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_survival.png"  tvg-rec="5" timeshift="5",GL Survival
+#EXTINF:0 tvg-id="Xgoldline-survival" tvg-name="GL Survival" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_survival.png"  tvg-rec="5" timeshift="5",GL Survival [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/1825/1966B8DE7EC6FEE/video.m3u8
 
