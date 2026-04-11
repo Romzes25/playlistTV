@@ -1147,7 +1147,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTGRP:Фильмы 📽
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino_хит.png",Kino хит [Проф. Работы]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino_хит.png",Kino хит
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/4khits_live
 
