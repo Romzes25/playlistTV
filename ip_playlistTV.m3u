@@ -1143,7 +1143,7 @@ http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTGRP:Фильмы
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 
-#EXTINF:-1 tvg-name="CyberTV" tvg-logo="https://avatars.mds.yandex.net/i?id=75390ab61692f5392bd3bd01e2abcea6_l-8097642-images-thumbs&n=13",CyberTV [НЕ Исправен!]
+#EXTINF:-1 tvg-name="CyberTV" tvg-logo="https://avatars.mds.yandex.net/i?id=75390ab61692f5392bd3bd01e2abcea6_l-8097642-images-thumbs&n=13",CyberTV
 #EXTGRP:Фильмы 📽
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
 
