@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="3600"
 #PLAYLIST:IP_PlaylistTV_DV
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7) [Проф. Работы]
+#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
 #EXTGRP:Федеральный;Информационный
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/15333/index.m3u8
 
@@ -301,7 +301,7 @@ http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTGRP:Фильмы 📽
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киноjam.png",КиноJam
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киноjam.png",КиноJam [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/kinojam_live
 
@@ -722,7 +722,7 @@ http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/9232/index.m3u8
 #EXTGRP:Фильмы 📽
 http://bde.online24.pm/play/1826/F6E1DD42544DD10/video.m3u8
 
-#EXTINF:0 tvg-id="Xgoldline-survival" tvg-name="GL Survival" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_survival.png"  tvg-rec="5" timeshift="5",GL Survival [Проф. Работы]
+#EXTINF:0 tvg-id="Xgoldline-survival" tvg-name="GL Survival" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_survival.png"  tvg-rec="5" timeshift="5",GL Survival [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 http://de.seetv.cc/play/1825/1966B8DE7EC6FEE/video.m3u8
 
@@ -730,11 +730,11 @@ http://de.seetv.cc/play/1825/1966B8DE7EC6FEE/video.m3u8
 #EXTGRP:Фильмы 📽
 http://bde.online24.pm/play/1818/F6E1DD42544DD10/video.m3u8
 
-#EXTINF:0 tvg-id="Xgoldline-evidence" tvg-name="GL Evidence" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_evidence.png"  tvg-rec="5" timeshift="5",GL Evidence [Проф. Работы]
+#EXTINF:0 tvg-id="Xgoldline-evidence" tvg-name="GL Evidence" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_evidence.png"  tvg-rec="5" timeshift="5",GL Evidence
 #EXTGRP:Фильмы 📽
-http://de.seetv.cc/play/1819/1966B8DE7EC6FEE/video.m3u8
+http://bde.online24.pm/play/1819/F6E1DD42544DD10/video.m3u8
 
-#EXTINF:0 tvg-id="Xgoldline-island" tvg-name="GL Island" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_island.png"  tvg-rec="5" timeshift="5",GL Island [Проф. Работы]
+#EXTINF:0 tvg-id="Xgoldline-island" tvg-name="GL Island" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_island.png"  tvg-rec="5" timeshift="5",GL Island [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 http://bde.online24.pm/play/1821/F6E1DD42544DD10/video.m3u8
 
@@ -1234,9 +1234,21 @@ https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  tvg-id="dialogi-o-rybalke"  tvg-logo="http://epg.it999.ru/img2/2627.png" ,Диалоги о рыбалке
+#EXTGRP:Познавательные;Хобби
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+
 #EXTINF:-1  tvg-id="dikiy" tvg-name="Дикий" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дикий.png",Дикий
 #EXTGRP:Познавательные;Хобби
 http://176.96.241.40/Dikiy/index.m3u8
+
+#EXTINF:-1  tvg-id="dikaya-oxota-hd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дикая_охота.png",Дикая охота
+#EXTGRP:Познавательные;Хобби
+http://46.53.208.4:80/live/2325.m3u8
+
+#EXTINF:-1  tvg-id="dikaya-rybalka-hd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/дикая_рыбалка.png",Дикая рыбалка
+#EXTGRP:Познавательные;Хобби
+http://46.53.208.4:80/live/2324.m3u8
 
 #EXTINF:-1  tvg-id="340"  tvg-logo="http://tv.kubtel.ru/tv_icon/ZHiviaktivno.png" ,Живи активно
 #EXTGRP:Познавательные
