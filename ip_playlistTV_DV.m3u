@@ -722,21 +722,9 @@ http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/9232/index.m3u8
 #EXTGRP:Фильмы 📽
 http://bde.online24.pm/play/1826/F6E1DD42544DD10/video.m3u8
 
-#EXTINF:0 tvg-id="Xgoldline-survival" tvg-name="GL Survival" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_survival.png"  tvg-rec="5" timeshift="5",GL Survival [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://de.seetv.cc/play/1825/1966B8DE7EC6FEE/video.m3u8
-
-#EXTINF:0 tvg-id="Xgoldline-brief" tvg-name="GL Brief" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_brief.png"  tvg-rec="5" timeshift="5",GL Brief [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://bde.online24.pm/play/1818/F6E1DD42544DD10/video.m3u8
-
 #EXTINF:0 tvg-id="Xgoldline-evidence" tvg-name="GL Evidence" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_evidence.png"  tvg-rec="5" timeshift="5",GL Evidence
 #EXTGRP:Фильмы 📽
 http://bde.online24.pm/play/1819/F6E1DD42544DD10/video.m3u8
-
-#EXTINF:0 tvg-id="Xgoldline-island" tvg-name="GL Island" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gl_island.png"  tvg-rec="5" timeshift="5",GL Island [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://bde.online24.pm/play/1821/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="Hollywood" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HollywoodHD.png",Hollywood
 #EXTGRP:Фильмы 📽
@@ -1097,10 +1085,6 @@ http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/том_и_джери.png" ,Том и джери
 #EXTGRP:Мультфильмы
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/три_богатыря.png",Три Богатыря
-#EXTGRP:Мультфильмы
-http://fzvonydf.megogo.xyz/iptv/CH325UB44M8YXM4F5CYQ3P5U/18132/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c31x6H5/Unikum.png" logo="http://overlay.iptvin.online/epg/PIC/%D0%A3%D0%BD%D0%B8%D0%BA%D1%83%D0%BC%20HD.png" channelId="192" tvg-id="detsky",Уникум
 #EXTGRP:Детские;Мультфильмы
