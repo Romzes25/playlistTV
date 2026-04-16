@@ -6,7 +6,7 @@ https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=rP
 #EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал
 #EXTGRP:Федеральный;Часовые пояса
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+2.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (Орбита 4 +2) [Проф. Работы]
+#EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+2.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (Орбита 4 +2)
 #EXTGRP:Федеральный;Часовые пояса
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_CHEL/variant.m3u8
 #EXTINF:-1 catchup-days="7" tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый+3.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+3)
