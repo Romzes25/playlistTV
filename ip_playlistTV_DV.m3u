@@ -1363,6 +1363,10 @@ http://31.148.48.15:80/Multilandiya/index.m3u8?token=test
 #EXTGRP:Мультфильмы
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="284" tvg-logo="http://epg.one/img2/284.png" tvg-rec="7",Мульт и музыка
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/749/index.m3u8
+
 #EXTINF:-1 tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин
 #EXTGRP:Детские;Мультфильмы
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
@@ -1399,6 +1403,10 @@ http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTGRP:Детские;Мультфильмы
 http://109.94.1.3:8080/132/index.m3u8
 
+#EXTINF:0 tvg-id="7596" tvg-logo="http://epg.one/img2/7596.png" tvg-rec="0",ТипТоп
+#EXTGRP:Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/14007/index.m3u8
+
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/том_и_джери.png" ,Том и джери
 #EXTGRP:Мультфильмы
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -1414,6 +1422,25 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kIE6Ehu.png",Ani
 #EXTGRP:Мультфильмы
 http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="4756" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kids_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kids.png" tvg-rec="7",BCU Kids
+#EXTGRP:Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11035/index.m3u8
+
+#EXTINF:0 tvg-id="6185" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kids_4k_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kids_4k.png"tvg-rec="0",BCU Kids 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/17023/index.m3u8
+
+#EXTINF:0 tvg-id="4757" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kids+logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kids+.png" tvg-rec="7",BCU Kids+
+#EXTGRP:Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11036/index.m3u8
+
+#EXTINF:0 tvg-id="6848" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_little_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_little.png" tvg-rec="0",BCU Little HD
+#EXTGRP:Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19425/index.m3u8
+
+#EXTINF:0 tvg-id="4746" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_multserial_logo.png-" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_multserial.png" tvg-rec="7",BCU Multserial
+#EXTGRP:Мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11025/index.m3u8
 
 #EXTINF:0 tvg-id="6698" tvg-logo="http://epg.one/img2/6698.png" tvg-rec="0",BOX Anime
 #EXTGRP:Мультфильмы
@@ -1434,6 +1461,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/143/index
 #EXTINF:0 tvg-id="5525" tvg-logo="http://epg.one/img2/5525.png" tvg-rec="0",CineMan Симпсоны
 #EXTGRP:Мультфильмы
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/15101/index.m3u8
+
+#EXTINF:0 tvg-id="410" tvg-logo="http://epg.one/img2/410.png" tvg-rec="7",Da Vinci
+#EXTGRP:Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/537/index.m3u8
 
 #EXTINF:-1  tvg-id="300"  tvg-logo="http://tv.kubtel.ru/tv_icon/family-jam.png" ,FamilyJam
 #EXTGRP:Мультфильмы
@@ -1483,6 +1514,40 @@ http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.
 #EXTGRP:Мультфильмы;Мультstream
 rtmp://vkvsd51.okcdn.ru/playback/9747990391627?stkn=F8e6nFzL9oOzipSsxvG4GPfqzYEqKSUg8JFhCLunA6R6JbHG9P92oZiAZkgVnVmWQm_xueQU9pk&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
+#EXTINF:0 tvg-id="4730" tvg-logo="http://epg.one/img2/4730.png" tvg-rec="7",CineMan Cartoons Big
+#EXTGRP:Мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11003/index.m3u8
+
+#EXTINF:0 tvg-id="4729" tvg-logo="http://epg.one/img2/4729.png" tvg-rec="7",CineMan Cartoons Short
+#EXTGRP:Мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11002/index.m3u8
+
+#EXTINF:0 tvg-id="4728" tvg-logo="http://epg.one/img2/4728.png" tvg-rec="7",CineMan Cartoons 90
+#EXTGRP:Мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11001/index.m3u8
+
+
+#EXTINF:0 tvg-id="5139" tvg-logo="http://epg.one/img2/5139.png" tvg-rec="0",MM Honey
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/13026/index.m3u8
+
+#EXTINF:0 tvg-id="5155" tvg-logo="http://epg.one/img2/5155.png" tvg-rec="0",MM Lesson
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/13042/index.m3u8
+
+#EXTINF:0 tvg-id="5156" tvg-logo="http://epg.one/img2/5156.png" tvg-rec="0",MM Smile
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/13043/index.m3u8
+
+#EXTINF:0 tvg-id="5129" tvg-logo="http://epg.one/img2/5129.png" tvg-rec="0",MM Tom and Jerry
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/13016/index.m3u8
+
+#EXTINF:0 tvg-id="5571" tvg-logo="http://epg.one/img2/5571.png" tvg-rec="0",MM Walt Disney
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/13064/index.m3u8
+
+
 #EXTINF:0 tvg-id="4774" tvg-logo="http://epg.one/img2/4774.png" tvg-rec="7",StrahTV Весёлая Карусель
 #EXTGRP:Мультфильмы;Детские
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11057/index.m3u8
@@ -1495,9 +1560,45 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11066/ind
 #EXTGRP:Мультфильмы
 http://tinyurl.com/%74%76%7A%61%74%61%6B05/1441/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="4795" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/4795.png" tvg-rec="0",VF Малыш
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11123/index.m3u8
+
+#EXTINF:0 tvg-id="5995" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/5995.png" tvg-rec="0",VF Мультуб
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/15520/index.m3u8
+
+#EXTINF:0 tvg-id="4668" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/4668.png" tvg-rec="7",VF Мультфильмы СССР
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/10086/index.m3u8
+
+#EXTINF:0 tvg-id="5996" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/5996.png" tvg-rec="0",VF Новогодние мультфильмы
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/15523/index.m3u8
+
+#EXTINF:0 tvg-id="6162" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/6162.png" tvg-rec="0",VF Скуби-Ду
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/17007/index.m3u8
+
+#EXTINF:0 tvg-id="7594" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/7594.png" tvg-rec="0",VF Союзмультфильм
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/14238/index.m3u8
+
 #EXTINF:0 tvg-id="4592" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_anime.png" tvg-rec="7",VF Anime
 #EXTGRP:Мультфильмы
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/10001/index.m3u8
+
+#EXTINF:0 tvg-id="4593" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/4593.png" tvg-rec="7",VF Cartoon
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/10002/index.m3u8
+
+#EXTINF:0 tvg-id="7593" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/7593.png" tvg-rec="0",VF Disney Cartoon
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/15027/index.m3u8
+
+#EXTINF:0 tvg-id="4790" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/4790.png" tvg-rec="0",VF VHS Cartoon
+#EXTGRP:Мультфильмы;Детские
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11118/index.m3u8
 
 
 
@@ -1648,9 +1749,29 @@ https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
 #EXTGRP:Познавательные;Развлекательные
 http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
 
+#EXTINF:0 tvg-id="5991" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/5991.png" tvg-rec="0",VF Авто
+#EXTGRP:Познавательные;Хобби
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/15511/index.m3u8
+
+#EXTINF:0 tvg-id="5993" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/5993.png" tvg-rec="0",VF Домашний повар
+#EXTGRP:Познавательные;Хобби
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/15514/index.m3u8
+
 #EXTINF:0 tvg-id="5992" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/5992.png" tvg-rec="0",VF Охота
 #EXTGRP:Познавательные;Хобби
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/15513/index.m3u8
+
+#EXTINF:0 tvg-id="5994" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/5994.png" tvg-rec="0",VF Путешествия
+#EXTGRP:Познавательные;Хобби
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/15515/index.m3u8
+
+#EXTINF:0 tvg-id="6124" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/6124.png" tvg-rec="0",VF Рыбалка
+#EXTGRP:Познавательные;Хобби
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/16138/index.m3u8
+
+#EXTINF:0 tvg-id="6125" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/6125.png" tvg-rec="0",VF Стройка
+#EXTGRP:Познавательные
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/16139/index.m3u8
 
 
 
