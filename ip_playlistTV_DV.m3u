@@ -301,7 +301,7 @@ http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTGRP:Фильмы 📽
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киноjam.png",КиноJam
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/киноjam.png",КиноJam [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/kinojam_live
 
@@ -315,7 +315,7 @@ http://31.210.208.171:8080/komedia/index.m3u8?token=+W2MSER
 
 #EXTINF:0 tvg-id="138" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/комедийное.png" tvg-rec="7",Комедийное
 #EXTGRP:Фильмы 📽
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/912/index.m3u8
+http://86600a5b.akadatel.com/iptv/4Q5MWDBR7TBHG2/912/index.m3u8
 
 #EXTINF:0 tvg-id="2509" tvg-logo="http://epg.one/img2/2509.png" tvg-rec="3",Любимое
 #EXTGRP:Фильмы 📽
@@ -1438,7 +1438,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11036/ind
 #EXTGRP:Детские
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19425/index.m3u8
 
-#EXTINF:0 tvg-id="4746" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_multserial_logo.png-" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_multserial.png" tvg-rec="7",BCU Multserial
+#EXTINF:0 tvg-id="4746" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_multserial_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_multserial.png" tvg-rec="7",BCU Multserial
 #EXTGRP:Мультфильмы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/11025/index.m3u8
 
