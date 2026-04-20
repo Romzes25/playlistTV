@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://teleguide.info/download/new3/xmltv.xml.gz" refresh="3600"
 #PLAYLIST:IP_PlaylistTV_DV
 
 #EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=1 tvg-id="Первый канал" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
@@ -2429,10 +2429,6 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/D-TV6.png",D-TV6
 #EXTGRP:Развлекательные
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9a/54/c4/9a54c45f5c9de64ccd95909f8e08a401.jpg" tvg-id="no_epg_cinema",Мистер Бин [Проф. Работы]
-#EXTGRP:Развлекательные
-https://fl1001.bozztv.com/ushba45/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://zapad-24.ru/img/logo.png",Запад 24 (Калининград)
 #EXTGRP:Региональные
