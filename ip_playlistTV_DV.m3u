@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://teleguide.info/download/new3/xmltv.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://teleguide.info/download/new3/xmltv.xml.gz" refresh="3600" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #PLAYLIST:IP_PlaylistTV_DV
 
 #EXTINF:-1 tvg-shift=0 channel-number=1 tvg-name="Первый канал (Орбита 2 +6)" tvg-id="242" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
@@ -9,7 +9,7 @@ http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/15333/index.m3u8
 #EXTGRP:Информационный;Развлекательные;Новостные
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/15334/index.m3u8
 
-#EXTINF:-1 tvg-shift=0 catchup-days="3" channel-number=3  tvg-name="Матч!" tvg-id="2060" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7)
+#EXTINF:-1 tvg-shift=0 catchup-days="3" channel-number=3  tvg-name="Матч!" tvg-id="2060" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7) [Проф. Работы]
 #EXTGRP:Спорт;Мужские
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/15335/index.m3u8
 
@@ -25,19 +25,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTGRP:Просветительский;Федеральный
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=7 tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россия24_logo.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-24.svg",Россия 24 (+7)
+#EXTINF:-1 tvg-shift=0 catchup-days="3" channel-number=7 tvg-name="Россия 24" tvg-id="676" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россия24_logo.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-24.svg",Россия 24 (+7)
 #EXTGRP:Информационный;Новостные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia24-sd/index.m3u8
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=8 tvg-id="karusel-pl7" tvg-logo="https://www.karusel-tv.ru/images/logo/2022-winter/logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/карусель.png",Карусель (+7)
+#EXTINF:-1 tvg-shift=-7 catchup-days="3" channel-number=8 tvg-name="Карусель" tvg-id="300007" tvg-logo="https://www.karusel-tv.ru/images/logo/2022-winter/logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/карусель.png",Карусель (+7)
 #EXTGRP:Мультфильмы;Детские
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=9 tvg-id="otr-pl7" tvg-logo="https://cdn.otr-online.ru/public/icons/logo_new.svg",ОТР (+7)
+#EXTINF:-1 tvg-shift=-6 catchup-days="3" channel-number=9 tvg-name="ОТР" tvg-id="1000" tvg-logo="https://cdn.otr-online.ru/public/icons/logo_new.svg",ОТР (+7)
 #EXTGRP:Новостные;Просветительские;Фильмы
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/15341/index.m3u8
 
-#EXTINF:-1 tvg-shift=+7 catchup-days="7" channel-number=10 tvg-id="tvcentr-pl7" tvg-logo="https://www.tvc.ru/build/assets/logo-mobile-CW6O-EuZ.svg",ТВ Центр (+7)
+#EXTINF:-1 tvg-shift=0 catchup-days="3" channel-number=10 tvg-name="ТВ Центр" tvg-id="3" tvg-logo="https://www.tvc.ru/build/assets/logo-mobile-CW6O-EuZ.svg",ТВ Центр (+7)
 #EXTGRP:Федеральный
 http://86600a5b.akadatel.com/iptv/4Q5MWDBR7TBHG2/6041/index.m3u8
 
