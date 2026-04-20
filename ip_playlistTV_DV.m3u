@@ -101,7 +101,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTGRP:Развлекательные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="ОТВ Приморье" url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" refresh="3600" catchup="append" catchup-days="3" tvg-logo="https://otvprim.tv/uploads/logo/logo_62b179aeefe975-23810311-95022019.png" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ОТВ_Владивосток_logo.png",ОТВ Владивосток
+#EXTINF:-1 tvg-shift=0 tvg-name="ОТВ Приморье" url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" refresh="3600" catchup="append" catchup-days="3" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ОТВ_Владивосток_logo.png",ОТВ Владивосток
 #EXTGRP:Региональные
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8?version=2
 
