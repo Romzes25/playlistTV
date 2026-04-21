@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="3600" catchup="append" catchup-days="4" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U url-tvg="http://epg.it999.ru/pp.xml.gz" refresh="3600" catchup="append" catchup-days="4" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #PLAYLIST:IP_PlaylistTV_DV
 
 #EXTINF:-1 tvg-shift=0 channel-number=1 tvg-name="Первый канал (+7)" tvg-id="pervy-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
