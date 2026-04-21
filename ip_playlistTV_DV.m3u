@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" refresh="3600" catchup="append" catchup-days="4" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH" refresh="3600" catchup="append" catchup-days="4" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #PLAYLIST:IP_PlaylistTV_DV
 
 #EXTINF:-1 tvg-shift=0 channel-number=1 tvg-name="Первый канал (+7)" tvg-id="pervy-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
@@ -347,134 +347,147 @@ http://86600a5b.akadatel.com/iptv/4Q5MWDBR7TBHG2/915/index.m3u8
 #EXTGRP:Фильмы 📽
 http://176.118.197.101/LubimoeKino/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мир_сериала.png" tvg-id="mir-seriala",Мир Сериала
+#EXTINF:-1 tvg-shift=0 tvg-name="Мир Сериала" tvg-id="mir-seriala" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мир_сериала.png",Мир Сериала
 #EXTGRP:Фильмы 📽;Сериалы 📽
 http://193.25.8.59:8000/mirseriala
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/95Y8jb6.png",Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-shift=0 tvg-name="Мосфильм. Золотая коллекция" tvg-id="mosfilm" tvg-anyquality=1 tvg-logo="https://i.imgur.com/95Y8jb6.png",Мосфильм. Золотая коллекция
 #EXTGRP:Фильмы 📽
 http://46.53.208.4:80/live/1124.m3u8
 
-#EXTINF:-1 tvg-id="muvitv" tvg-logo="https://iptvx.one/picons/muvitv.png" logo="http://ex.iptvin.ru/pic/2/8ed534ab888879efaf239de23a934c86.png" channelId="-1",Муви ТВ
+#EXTINF:-1 tvg-shift=0 tvg-name="Муви ТВ" tvg-id="muvitv" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/muvitv.png" logo="http://ex.iptvin.ru/pic/2/8ed534ab888879efaf239de23a934c86.png",Муви ТВ
 #EXTGRP:Фильмы 📽
 http://uhugktfh.megogo.xyz/iptv/BV4SSQ9PRKF2CW/164/index.m3u8
 
-#EXTINF:-1 tvg-id="Мужское Кино" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мужское_кино.png",Мужское Кино
+#EXTINF:-1 tvg-shift=0 tvg-name="Мужское Кино" tvg-id="muzhskoe-kino" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мужское_кино.png",Мужское Кино
 #EXTGRP:Фильмы 📽
 http://uhugktfh.megogo.xyz/iptv/BV4SSQ9PRKF2CW/164/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/наше_новое_кино.png",Наше новое кино
+#EXTINF:-1 tvg-shift=0 tvg-name="Наше новое кино" tvg-id="nashe-novoe-kino" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/наше_новое_кино.png",Наше новое кино
 #EXTGRP:Фильмы 📽
 https://jekalich.github.io/smtk/channels/nashe-novoe-kino.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26985yPh/8dae3f5f756ffabdae4a2e9c9d7e3eb6.png" tvg-scrlogo="http://only4.tv/ch/6209.png" channelId="4767" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ
+#EXTINF:-1 tvg-shift=0 tvg-name="Наш Кинопоказ HD" tvg-id="nash-kinopokaz-hd" tvg-anyquality=1 tvg-logo="https://i.postimg.cc/26985yPh/8dae3f5f756ffabdae4a2e9c9d7e3eb6.png" tvg-scrlogo="http://only4.tv/ch/6209.png",Наш Кинопоказ
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/2434/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ct-bank.digitalrussia.tv/files/2023/05/strashnoe-tv_2_.svg",НСТ
+#EXTINF:-1 tvg-shift=0 tvg-name="НСТ" tvg-id="nst" tvg-anyquality=1 tvg-logo="https://ct-bank.digitalrussia.tv/files/2023/05/strashnoe-tv_2_.svg",НСТ
 #EXTGRP:Фильмы 📽
 http://vod.tuva.ru/nst/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВсериал.png",НТВ Сериал
+#EXTINF:-1 tvg-shift=0 tvg-name="НТВ Сериал" tvg-id="ntv-serial" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВсериал.png",НТВ Сериал
 #EXTGRP:Фильмы 📽
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВхит.png",НТВ Хит
+#EXTINF:-1 tvg-shift=0 tvg-name="НТВ Хит" tvg-id="ntv-xit" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВхит.png",НТВ Хит
 #EXTGRP:Фильмы 📽
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i115.fastpic.org/big/2021/0914/2a/32eb8568fe787d1bcbc620e5b14b732a.png" tvg-scrlogo="https://i.ibb.co/bRwZWt3/0a7313b3457b83f9f8cb43dfcabd3a14.jpg" channelId="1633" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное
+#EXTINF:-1 tvg-shift=0 tvg-name="Остросюжетное HD" tvg-id="ostrosiuzhetnoe-hd" tvg-anyquality=1 tvg-logo="https://i115.fastpic.org/big/2021/0914/2a/32eb8568fe787d1bcbc620e5b14b732a.png" tvg-scrlogo="https://i.ibb.co/bRwZWt3/0a7313b3457b83f9f8cb43dfcabd3a14.jpg",Остросюжетное
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/904/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное_logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное.jpg" channelId="1637" tvg-id="premialnoe-hd",Премиальное
+#EXTINF:-1 tvg-shift=0 tvg-name="Премиальное HD" tvg-id="premialnoe-hd" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное_logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное.jpg",Премиальное
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/2410/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/про_любовь_logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/про_любовь.png" channelId="4765" tvg-id="pro-lyubov",Про Любовь
+#EXTINF:-1 tvg-shift=0 tvg-name="Про Любовь" tvg-id="pro-lyubov" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/про_любовь_logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/про_любовь.png",Про Любовь
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/2430/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://overlay.iptvin.online/epg/PIC/%D0%A0%D0%B5%D1%82%D1%80%D0%BE.png" tvg-scrlogo="http://only4.tv/ch/6263.png" channelId="246" tvg-id="retro-tv",Ретро
+#EXTINF:-1 tvg-shift=0 channelId="246" tvg-name="Ретро" tvg-id="retro-tv" tvg-anyquality=1 tvg-logo="http://overlay.iptvin.online/epg/PIC/%D0%A0%D0%B5%D1%82%D1%80%D0%BE.png" tvg-scrlogo="http://only4.tv/ch/6263.png",Ретро
 #EXTGRP:Фильмы 📽
 http://176.118.197.101/Retro/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/родное_кино.png",Родное кино
+#EXTINF:-1 tvg-shift=0 tvg-name="Родное кино" tvg-id="rodnoe-kino" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/родное_кино.png",Родное кино
 #EXTGRP:Фильмы 📽
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ey32hB.png",Русский бестселлер
+#EXTINF:-1 tvg-shift=0 tvg-name="Русский бестселлер" tvg-id="russky-bestseller" tvg-anyquality=1 tvg-logo="https://i.imgur.com/8ey32hB.png",Русский бестселлер
 #EXTGRP:Фильмы 📽
 http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaRKp2u.png",Русский детектив
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Русский детектив" tvg-id="russky-detektiv" tvg-anyquality=1 tvg-logo="https://i.imgur.com/kaRKp2u.png",Русский детектив
 #EXTGRP:Фильмы 📽
 http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский роман
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Русский роман" tvg-id="russky-roman" tvg-anyquality=1 tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский роман
 #EXTGRP:Фильмы 📽
 http://vod.tuva.ru/rusroman/index.m3u8
 
-#EXTINF:-1 tvg-name="Русский иллюзион" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион.png",Русский иллюзион
+#EXTINF:-1 tvg-shift=0 tvg-name="Русский иллюзион" tvg-id="russky-illuzion" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион.png",Русский иллюзион
 #EXTGRP:Фильмы 📽
 http://31.148.48.15:80/Russkiy_illusion/index.m3u8
 
-#EXTINF:-1 tvg-id="5232" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сапфир.png",Сапфир
+#EXTINF:-1 tvg-shift=0 tvg-name="Сапфир" tvg-id="sapfir" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сапфир.png",Сапфир
 #EXTGRP:Фильмы 📽
 http://31.148.48.15/Sapfir/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноазия_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноазия.png",Сити Эдем — КиноАзия [Проф. Работы]
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноАзия" tvg-id="cityedem-kinoazia" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноазия_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноазия.png",Сити Эдем — КиноАзия [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт.png",Сити Эдем — КиноАРТ
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноАРТ" tvg-id="cityedem-kinoart" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киноарт.png",Сити Эдем — КиноАРТ
 #EXTGRP:Фильмы 📽
 https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДетектив_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДетектив.png",Сити Эдем - КиноДетектив
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноДетектив" tvg-id="cityedem-kinodetektiv" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДетектив_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДетектив.png",Сити Эдем - КиноДетектив
 #EXTGRP:Фильмы 📽
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинодок_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинодок.png",Сити Эдем — КиноДок
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноДок" tvg-id="cityedem-kinodok" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинодок_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинодок.png",Сити Эдем — КиноДок
 #EXTGRP:Фильмы 📽
 https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДрама_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДрама.png",Сити Эдем - КиноДрама
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноДрама" tvg-id="cityedem-kinodrama" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДрама_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноДрама.png",Сити Эдем - КиноДрама
 #EXTGRP:Фильмы 📽
 http://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКлассика_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКлассика.png",Сити Эдем - КиноКлассика
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноКлассика" tvg-id="cityedem-kinoklas" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКлассика_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКлассика.png",Сити Эдем - КиноКлассика
 #EXTGRP:Фильмы 📽
 https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКомедия_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКомедия.png",Сити Эдем - КиноКомедия
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноКомедия" tvg-id="cityedem-kinokomediya" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКомедия_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноКомедия.png",Сити Эдем - КиноКомедия
 #EXTGRP:Фильмы 📽
 http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноМистика_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноМистика.png",Сити Эдем - КиноМистика
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноМистика" tvg-id="cityedem-kinomist" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноМистика_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноМистика.png",Сити Эдем - КиноМистика
 #EXTGRP:Фильмы 📽
 http://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киносемья_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киносемья.png",Сити Эдем — КиноСемья
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноСемья" tvg-id="cityedem-kinosem" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киносемья_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_киносемья.png",Сити Эдем — КиноСемья
 #EXTGRP:Фильмы 📽
 https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинофантастика_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинофантастика.png",Сити Эдем — КиноФантастика
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноФантастика" tvg-id="cityedem-kinofantastika" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинофантастика_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/сити_эдем_кинофантастика.png",Сити Эдем — КиноФантастика
 #EXTGRP:Фильмы 📽
 http://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_ТелеНовелла_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_ТелеНовелла.png",Сити Эдем - ТелеНовелла
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - Теленовелла" tvg-id="cityedem-telenov" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_ТелеНовелла_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_ТелеНовелла.png",Сити Эдем - ТелеНовелла
 #EXTGRP:Фильмы 📽
 https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноЭкшен_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноЭкшен.png",Сити Эдем - КиноЭкшен
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Сити Эдем - КиноЭкшен" tvg-id="cityedem-kinoact" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноЭкшен_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Сити_Эдем_КиноЭкшен.png",Сити Эдем - КиноЭкшен
 #EXTGRP:Фильмы 📽
 https://cityeden.catcast.tv/content/41333/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смотрим.png",Смотрим Честный детектив
+#EXTINF:-1 tvg-shift=0 tvg-name="Честный детектив" tvg-id="chestny-detektiv" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смотрим.png",Смотрим Честный детектив
 #EXTGRP:Фильмы 📽
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смотрим_любовь.png",Смотрим 100% Любовь
+#EXTINF:-1 tvg-shift=0 tvg-name="Смотрим 100% Любовь" tvg-id="smotrim-100-lubov" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смотрим_любовь.png",Смотрим 100% Любовь
 #EXTGRP:Фильмы 📽
 http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смотрим_классика.png",Смотрим 100% Классика
+#EXTINF:-1 tvg-shift=0 tvg-name="Смотрим 100% Классика" tvg-id="smotrim-100-klassika" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смотрим_классика.png",Смотрим 100% Классика
 #EXTGRP:Фильмы 📽
 http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 
-#EXTINF:-1  tvg-id="tv21m"  tvg-logo="https://iptvx.one/picons/tv21m.png" ,ТВ-21M
+#EXTINF:-1 tvg-shift=0 tvg-name="ТВ-21M" tvg-id="tv21m" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/tv21m.png" ,ТВ-21M
 #EXTGRP:Фильмы 📽
 http://46.53.208.4:80/live/2018.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/телекафе.png",Телекафе
+#EXTINF:-1 tvg-shift=0 tvg-name="Телекафе" tvg-id="telekafe" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/телекафе.png",Телекафе
 #EXTGRP:Фильмы 📽;Сериалы 📽
 http://31.148.48.15:80/Telekafe/index.m3u8?token=test
 
@@ -482,273 +495,277 @@ http://31.148.48.15:80/Telekafe/index.m3u8?token=test
 #EXTGRP:Фильмы 📽
 http://46.53.208.4:80/live/9489.m3u8
 
-#EXTINF:-1  tvg-id="kino-bez-granic"  tvg-logo="https://iptvx.one/picons/kino-bez-granic.png" tvg-name="Кино Без Границ",Кино Без Границ
+#EXTINF:-1 tvg-shift=0 tvg-name="Кино Без Границ" tvg-id="kino-bez-granic" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/kino-bez-granic.png",Кино Без Границ
 #EXTGRP:Фильмы 📽
 http://185.57.68.33:8091/237/playlist.m3u8
 
-#EXTINF:-1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино.png",Феникс плюс Кино
+#EXTINF:-1 tvg-shift=0 tvg-name="Феникс+ Кино" tvg-id="feniks-plus-kino" tvg-anyquality=1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино.png",Феникс плюс Кино
 #EXTGRP:Фильмы 📽
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/2039/index.m3u8
 
-#EXTINF:-1 tvg-id="Хит" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит
+#EXTINF:-1 tvg-shift=0 tvg-name="Хит" tvg-id="khit" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит
 #EXTGRP:Фильмы 📽
 http://cdn.kubteltv.workers.dev/?ID=255
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/шокирующее_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/шокирующее.png" channelId="229" tvg-id="shokiruyushchee-hd" tvg-shift="-3" shift="+3",Шокирующее
+#EXTINF:-1 tvg-shift=0 tvg-name="Хит HD" tvg-id="khit-hd" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD
+#EXTGRP:Фильмы 📽
+http://86600a5b.akadatel.com/iptv/4Q5MWDBR7TBHG2/2438/index.m3u8
+
+#EXTINF:-1 tvg-shift=-3 tvg-name="Шокирующее" tvg-id="shokiruyushchee" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/шокирующее_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/шокирующее.png",Шокирующее
+#EXTGRP:Фильмы 📽
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132718&extension=ts
+
+#EXTINF:-1 channelId="229" tvg-shift=-3 tvg-name="Шокирующее HD" tvg-id="shokiruyushchee-hd" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/шокирующее_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/шокирующее.png",Шокирующее HD
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/6299/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_cinema.png" tvg-id="no_epg_cinema",Alpha Cinema
+#EXTINF:-1 tvg-shift=0 tvg-name="Alpha Cinema" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_cinema.png",Alpha Cinema
 #EXTGRP:Фильмы 📽
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u8?session=W2y6fJk87CThRKzDw8KxVh
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_moretime.png" tvg-id="no_epg_cinema",Alpha Moretime
+#EXTINF:-1 tvg-shift=0 tvg-name="Alpha Moretime" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_moretime.png",Alpha Moretime
 #EXTGRP:Фильмы 📽
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_1_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_1.png",Amedia 1
+#EXTINF:-1 tvg-shift=0 tvg-name="Amedia 1" tvg-id="amedia1" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_1_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_1.png",Amedia 1
 #EXTGRP:Фильмы 📽
 http://31.148.48.15:80/A1/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_2_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
+#EXTINF:-1 tvg-shift=0 tvg-name="Amedia 2" tvg-id="amedia2" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_2_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_2.png",Amedia 2
 #EXTGRP:Фильмы 📽
 http://31.148.48.15:80/A2/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="Amedia Hit" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_hit_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_Hit_HD.png",Amedia Hit
+#EXTINF:-1 tvg-shift=0 tvg-name="Amedia Hit" tvg-id="amedia-hit" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_hit_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Amedia_Hit_HD.png",Amedia Hit
 #EXTGRP:Фильмы 📽
 https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_premium_hd.png",Amedia Premium
+#EXTINF:-1 tvg-shift=0 tvg-name="Amedia Premium" tvg-id="amedia-premium" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/amedia_premium_hd.png",Amedia Premium
 #EXTGRP:Фильмы 📽
-http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
+http://86600a5b.akadatel.com/iptv/4Q5MWDBR7TBHG2/555/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/ATV-Kinoman-HD-vert-220x220.png" logo="http://ex.iptvin.ru/pic/2/ATV-Kinoman-HD-vert-220x132-tr.png" channelId="-1" tvg-id="atv-kinoman",ATV Kinoman
+#EXTINF:-1 tvg-shift=0 tvg-name="ATV Kinoman" tvg-id="atv-kinoman" tvg-anyquality=1 tvg-logo="http://ex.iptvin.ru/pic/2/ATV-Kinoman-HD-vert-220x220.png" logo="http://ex.iptvin.ru/pic/2/ATV-Kinoman-HD-vert-220x132-tr.png",ATV Kinoman
 #EXTGRP:Фильмы 📽
 http://185.57.68.33:80/255/playlist.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_сваты_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_сваты.png",BCU Сваты
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Сваты" tvg-id="bcu-svaty" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_сваты_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_сваты.png",BCU Сваты
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11047/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ссср_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ссср.png",BCU СССР
+#EXTINF:0 tvg-shift=0 tvg-name="BCU СССР" tvg-id="bcu-sssr" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ссср_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ссср.png",BCU СССР
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11026/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_action_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_action.png",BCU Action
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Action HD" tvg-id="bcu-action" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_action_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_action.png",BCU Action
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11027/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_catastrophe_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_catastrophe.png",BCU Catastrophe
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Catastrophe HD" tvg-id="bcu-catastrophe" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_catastrophe_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_catastrophe.png",BCU Catastrophe
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/11028/index.m3u8
 
-#EXTINF:0 tvg-id="6228" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_charm_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_charm.png" tvg-rec="0",BCU Charm
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Charm HD" tvg-id="bcu-charm" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_charm_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_charm.png" tvg-rec="0",BCU Charm
 #EXTGRP:Фильмы 📽
 http://w90uasie.tvclub.xyz/iptv/NPXM4TTXXK58GDT9HK73QEAS/18053/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema.png",BCU Cinema
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Cinema HD" tvg-id="bcu-cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema.png",BCU Cinema
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11029/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema+logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema+.png",BCU Cinema+
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Cinema+ HD" tvg-id="bcu-cinemaplus" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema+logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_cinema+.png",BCU Cinema+
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11030/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_comedy_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_comedy.png",BCU Comedy
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Comedy HD" tvg-id="bcu-comedy" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_comedy_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_comedy.png",BCU Comedy
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11031/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_criminal_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_criminal.png",BCU Criminal
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Criminal HD" tvg-id="bcu-criminal" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_criminal_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_criminal.png",BCU Criminal
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11048/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_fantastic_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_fantastic.png",BCU Fantastic
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Fantastic HD" tvg-id="bcu-fantastic" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_fantastic_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_fantastic.png",BCU Fantastic
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11032/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_filmystic_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_filmystic.png",BCU FilMystic
+#EXTINF:0 tvg-shift=0 tvg-name="BCU FilMystic HD" tvg-id="bcu-filmystic" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_filmystic_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_filmystic.png",BCU FilMystic
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11033/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_history_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_history.png",BCU History
+#EXTINF:0 tvg-shift=0 tvg-name="BCU History HD" tvg-id="bcu-history" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_history_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_history.png",BCU History
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11034/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kinorating_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kinorating.png",BCU Kinorating
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Kinorating HD" tvg-id="bcu-kinorating" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kinorating_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_kinorating.png",BCU Kinorating
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11037/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_marvel_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_marvel.png",BCU Marvel
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Marvel HD" tvg-id="bcu-marvel" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_marvel_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_marvel.png",BCU Marvel
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11038/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere.png",BCU Premiere
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Premiere HD" tvg-id="bcu-premiere" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere.png",BCU Premiere
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11039/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_1.png",BCU Premiere 1
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Premiere 1 HD" tvg-id="bcu-kinozal-prem-1" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_1.png",BCU Premiere 1
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11015/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_2.png",BCU Premiere 2
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_2.png",BCU Premiere 2
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11016/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_3.png",BCU Premiere 3
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Premiere 3 HD" tvg-id="bcu-kinozal-prem-3" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_premiere_3.png",BCU Premiere 3
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11017/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_romantic_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_romantic.png",BCU Romantic
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Romantic HD" tvg-id="bcu-romantic" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_romantic_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_romantic.png",BCU Romantic
 #EXTGRP:Фильмы 📽
 http://uhugktfh.megogo.xyz/iptv/BV4SSQ9PRKF2CW/11040/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ruserial_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ruserial.png",BCU RuSerial HD
+#EXTINF:0 tvg-shift=0 tvg-name="BCU RUSerial HD" tvg-id="bcu-ruserial" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ruserial_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ruserial.png",BCU RuSerial HD
 #EXTGRP:Фильмы 📽
 http://uhugktfh.megogo.xyz/iptv/BV4SSQ9PRKF2CW/11046/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_russian_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_russian.png",BCU Russian
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Russian HD" tvg-id="bcu-russian" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_russian_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_russian.png",BCU Russian
 #EXTGRP:Фильмы 📽
 http://uhugktfh.megogo.xyz/iptv/BV4SSQ9PRKF2CW/11041/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_stars_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_stars.png",BCU Stars
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Stars HD" tvg-id="bcu-stars" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_stars_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_stars.png",BCU Stars
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11044/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ultra_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ultra.png",BCU Ultra
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Ultra 4K" tvg-id="bcu-ultra4k" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ultra_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_ultra.png",BCU Ultra
 #EXTGRP:Фильмы 📽
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11045/index.m3u8
 
-#EXTINF:0 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_vhs_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_vhs.png",BCU VHS
+#EXTINF:0 tvg-shift=0 tvg-name="BCU VHS HD" tvg-id="bcu-vhs" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_vhs_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bcu_vhs.png",BCU VHS
 #EXTGRP:Фильмы 📽;VHS 📼
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11042/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bollywood.png" channelId="2802" tvg-id="bollywood-hd",Bollywood
+#EXTINF:-1 tvg-shift=0 tvg-name="Bollywood" tvg-id="bollywood-hd" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bollywood.png",Bollywood
 #EXTGRP:Фильмы 📽
 http://176.118.197.101/Bollywood_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bolt.png",Bolt
+#EXTINF:-1 tvg-shift=0 tvg-name="Bolt Россия" tvg-id="bolt-ru" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bolt.png",Bolt Россия
 #EXTGRP:Фильмы 📽
 https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
 
-#EXTINF:0 tvg-id="6834" tvg-logo="http://epg.one/img2/6834.png" tvg-rec="0",BOX Cyber
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Cyber" tvg-id="box-cyber" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6834.png",BOX Cyber
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19421/index.m3u8
 
-#EXTINF:0 tvg-id="7490" tvg-logo="http://epg.one/img2/7490.png" tvg-rec="0",BOX Fantasy
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Fantasy" tvg-id="box-fantasy" tvg-anyquality=1 tvg-logo="http://epg.one/img2/7490.png",BOX Fantasy
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/20156/index.m3u8
 
-#EXTINF:0 tvg-id="6696" tvg-logo="http://epg.one/img2/6696.png" tvg-rec="0",BOX Franchise
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Franchise" tvg-id="box-franchise" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6696.png",BOX Franchise
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/19274/index.m3u8
 
-#EXTINF:0 tvg-id="6704" tvg-logo="http://epg.one/img2/6704.png" tvg-rec="0",BOX Game
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Game" tvg-id="box-game" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6704.png",BOX Game
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19284/index.m3u8
 
-#EXTINF:0 tvg-id="6699" tvg-logo="http://epg.one/img2/6699.png" tvg-rec="0",BOX Gangster
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Gangster" tvg-id="box-gangster" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6699.png",BOX Gangster
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/19277/index.m3u8
 
-#EXTINF:0 tvg-id="7488" tvg-logo="http://epg.one/img2/7488.png" tvg-rec="0",BOX Ghost
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Ghost" tvg-id="box-ghost" tvg-anyquality=1 tvg-logo="http://epg.one/img2/7488.png",BOX Ghost
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/20154/index.m3u8
 
-#EXTINF:0 tvg-id="6697" tvg-logo="http://epg.one/img2/6697.png" tvg-rec="0",BOX Hybrid
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Hybrid" tvg-id="box-hybrid" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6697.png",BOX Hybrid
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/19275/index.m3u8
 
-#EXTINF:0 tvg-id="7493" tvg-logo="http://epg.one/img2/7493.png" tvg-rec="0",BOX Mayday
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Mayday" tvg-id="box-myday" tvg-anyquality=1 tvg-logo="http://epg.one/img2/7493.png",BOX Mayday
 #EXTGRP:Фильмы 📽
 http://86600a5b.akadatel.com/iptv/4Q5MWDBR7TBHG2/20159/index.m3u8
 
-#EXTINF:0 tvg-id="6701" tvg-logo="http://epg.one/img2/6701.png" tvg-rec="0",BOX Memory
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Memory" tvg-id="box-memory" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6701.png",BOX Memory
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19279/index.m3u8
 
-#EXTINF:0 tvg-id="6702" tvg-logo="http://epg.one/img2/6702.png" tvg-rec="0",BOX M.Serial
+#EXTINF:0 tvg-shift=0 tvg-name="BOX M.Serial" tvg-id="box-m-serial" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6702.png",BOX M.Serial
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/19280/index.m3u8
 
-#EXTINF:0 tvg-id="6700" tvg-logo="http://epg.one/img2/6700.png" tvg-rec="0",BOX Oscar
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Oscar" tvg-id="box-oscar" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6700.png",BOX Oscar
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19278/index.m3u8
 
-#EXTINF:0 tvg-id="7491" tvg-logo="http://epg.one/img2/7491.png" tvg-rec="0",BOX Premiere
-#EXTGRP:Фильмы 📽
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/20157/index.m3u8
-
-#EXTINF:0 tvg-id="6708" tvg-logo="http://epg.one/img2/6708.png" tvg-rec="0",BOX Relax
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Relax 4K" tvg-id="box-relax" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6708.png",BOX Relax
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/19283/index.m3u8
 
-#EXTINF:0 tvg-id="7492" tvg-logo="http://epg.one/img2/7492.png" tvg-rec="0",BOX Remast
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Remast 4K" tvg-id="box-remast-4k" tvg-anyquality=1 tvg-logo="http://epg.one/img2/7492.png",BOX Remast
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/20158/index.m3u8
 
-#EXTINF:0 tvg-id="6703" tvg-logo="http://epg.one/img2/6703.png" tvg-rec="0",BOX Serial
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Serial HD" tvg-id="box-serial" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6703.png",BOX Serial
 #EXTGRP:Фильмы 📽
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/19281/index.m3u8
 
-#EXTINF:0 tvg-id="6705" tvg-logo="http://epg.one/img2/6705.png" tvg-rec="0",BOX Spy
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Spy HD" tvg-id="box-spy" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6705.png",BOX Spy
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/19285/index.m3u8
 
-#EXTINF:0 tvg-id="6832" tvg-logo="http://epg.one/img2/6832.png" tvg-rec="0",BOX Western
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Western HD" tvg-id="box-western" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6832.png",BOX Western
 #EXTGRP:Фильмы 📽
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/19419/index.m3u8
 
-#EXTINF:0 tvg-id="6833" tvg-logo="http://epg.one/img2/6833.png" tvg-rec="0",BOX Zombie
+#EXTINF:0 tvg-shift=0 tvg-name="BOX Zombie HD" tvg-id="box-zombie" tvg-anyquality=1 tvg-logo="http://epg.one/img2/6833.png",BOX Zombie
 #EXTGRP:Фильмы 📽
 http://86600a5b.akadatel.com/iptv/4Q5MWDBR7TBHG2/19420/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sP15Oc9.png" url-scrlogo="https://ct-bank.digitalrussia.tv/files/2023/05/cinetv_3_.svg",Cinema
+#EXTINF:-1 tvg-shift=0 tvg-name="Cinema" tvg-id="cinema-ru" tvg-anyquality=1 tvg-logo="https://i.imgur.com/sP15Oc9.png" url-scrlogo="https://ct-bank.digitalrussia.tv/files/2023/05/cinetv_3_.svg",Cinema
 #EXTGRP:Фильмы 📽
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cinema_test.png",Cinema Test
+#EXTINF:-1 tvg-name="Cinema Test" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cinema_test.png",Cinema Test
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 
-#EXTINF:0 tvg-id="Xcineman-katastrofy" tvg-name="CineMan Катастрофы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_катастрофы.png"  tvg-rec="5" timeshift="5",CineMan Катастрофы
+#EXTINF:0 tvg-name="CineMan Катастрофы" tvg-id="cineman-katastrofy" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_катастрофы.png",CineMan Катастрофы
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/15106/index.m3u8
 
-#EXTINF:0 tvg-name="CineMan Комедийные сериалы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_к.с.png"  tvg-rec="5" timeshift="5",CineMan Комедийные сериалы
+#EXTINF:0 tvg-name="CineMan Комедийные сериалы" tvg-id="cineman-komseri" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_к.с.png",CineMan Комедийные сериалы
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/31628/index.m3u8
 
-#EXTINF:0 tvg-id="Xcineman-uzhasy" tvg-name="CineMan Ужасы" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_ужасы.png"  tvg-rec="5" timeshift="5",CineMan Ужасы
+#EXTINF:0 tvg-name="CineMan Ужасы" tvg-id="cineman-uzhasy" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_ужасы.png",CineMan Ужасы
 #EXTGRP:Фильмы 📽
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/11010/index.m3u8
 
-#EXTINF:0 tvg-id="Xcineman-marvel" tvg-name="CineMan Marvel" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_marvel.png"  tvg-rec="5" timeshift="5",CineMan Marvel
+#EXTINF:0 tvg-name="CineMan Marvel" tvg-id="cineman-marvel" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_marvel.png",CineMan Marvel
 #EXTGRP:Фильмы 📽
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/11009/index.m3u8
 
-#EXTINF:0 tvg-id="Xcineman-miniseries" tvg-name="CineMan MiniSeries" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_miniseries.png"  tvg-rec="5" timeshift="5",CineMan MiniSeries
+#EXTINF:0 tvg-name="CineMan MiniSeries" tvg-id="cineman-miniseries" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_miniseries.png",CineMan MiniSeries
 #EXTGRP:Фильмы 📽
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/19437/index.m3u8
 
-#EXTINF:0 tvg-id="Xcineman-vhs" tvg-name="CineMan VHS" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_vhs.png"  tvg-rec="5" timeshift="5",CineMan VHS
+#EXTINF:0 tvg-name="CineMan VHS" tvg-id="cineman-vhs" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cineman_vhs.png",CineMan VHS
 #EXTGRP:Фильмы 📽;VHS 📼
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/11012/index.m3u8
 
-#EXTINF:-1  tvg-id="299"  tvg-logo="http://tv.kubtel.ru/tv_icon/detective-jam.png" ,DetectiveJam
+#EXTINF:-1 tvg-name="DetectiveJam" tvg-id="detectivejam" tvg-logo="http://tv.kubtel.ru/tv_icon/detective-jam.png",DetectiveJam
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/20209/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/dunyo_boylab.png",Dunyo boylab
+#EXTINF:-1 tvg-name="Dunyo boylab" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/dunyo_boylab.png",Dunyo boylab
 #EXTGRP:Фильмы 📽
 https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/epic_drama.png",Epic Drama
+#EXTINF:-1 tvg-name="Epic Drama" tvg-id="epik-drama" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/epic_drama.png",Epic Drama
 #EXTGRP:Фильмы 📽;Сериалы 📽
 http://195.189.60.253/118/index.m3u8
 
-#EXTINF:-1 tvg-id="5064" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fan.png",FAN
+#EXTINF:-1 tvg-name="FAN" tvg-id="fanhd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fan.png",FAN
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/734/index.m3u8
 
@@ -760,19 +777,19 @@ rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpq
 #EXTGRP:Фильмы 📽
 https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="774" tvg-logo="http://epg.one/img2/774.png" tvg-rec="7",FlixSnip
+#EXTINF:0 tvg-name="FlixSnip" tvg-id="flixsnip" tvg-logo="http://epg.one/img2/774.png",FlixSnip
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/10060/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-adventure" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_adventure.png",Fresh Adventure
+#EXTINF:-1  tvg-name="Fresh Adventure" tvg-id="fresh-adventure" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_adventure.png",Fresh Adventure
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19297/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_cinema.png",Fresh Cinema
+#EXTINF:-1 tvg-name="Fresh Cinema" tvg-id="fresh-cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_cinema.png",Fresh Cinema
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19287/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-comedy" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_comedy.png",Fresh Comedy
+#EXTINF:-1 tvg-name="Fresh Comedy" tvg-id="fresh-comedy" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_comedy.png",Fresh Comedy
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19289/index.m3u8
 
@@ -780,49 +797,53 @@ https://tinyurl.com/aleks-u-romki-47/19289/index.m3u8
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19291/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-fantastic" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_fantastic.png",Fresh Fantastic
+#EXTINF:-1 tvg-name="Fresh Fantastic" tvg-id="fresh-fantastic" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_fantastic.png",Fresh Fantastic
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19294/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-horror" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_horror.png",Fresh Horror
+#EXTINF:-1 tvg-name="Fresh Horror" tvg-id="fresh-horror" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_horror.png",Fresh Horror
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/19296/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-premiere" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_premiere.png",Fresh Premiere
+#EXTINF:-1 tvg-name="Fresh Premiere" tvg-id="fresh-premiere" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_premiere.png",Fresh Premiere
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19290/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-rating" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_rating.png",Fresh Rating
+#EXTINF:-1 tvg-name="Fresh Rating" tvg-id="fresh-rating" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_rating.png",Fresh Rating
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19292/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-romatic" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_romantic.png",Fresh Romantic
+#EXTINF:-1 tvg-name="Fresh Romantic" tvg-id="fresh-romatic" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_romantic.png",Fresh Romantic
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19298/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-russian" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_russian.png",Fresh Russian
+#EXTINF:-1 tvg-name="Fresh Russian" tvg-id="fresh-russian" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_russian.png",Fresh Russian
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19299/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-series" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_series.png",Fresh Series
-#EXTGRP:Фильмы 📽
+#EXTINF:-1 tvg-name="Fresh Series" tvg-id="fresh-series" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_series.png",Fresh Series
+#EXTGRP:Фильмы 📽;Сериалы 📽
 https://tinyurl.com/aleks-u-romki-47/19295/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-thriller" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_thriller.png",Fresh Thriller
+#EXTINF:-1 tvg-name="Fresh Thriller" tvg-id="fresh-thriller" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_thriller.png",Fresh Thriller
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/19300/index.m3u8
 
-#EXTINF:-1  tvg-id="fresh-vhs" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_vhs.png",Fresh VHS
+#EXTINF:-1 tvg-name="Fresh VHS" tvg-id="fresh-vhs" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_vhs.png",Fresh VHS
 #EXTGRP:Фильмы 📽;VHS 📼
 https://tinyurl.com/aleks-u-romki-47/19293/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJwj2PSy/336aff5412117510b0a0ed6e19d2d5cf.png" tvg-scrlogo="https://i.postimg.cc/6622DcSj/58b4442a64428411b86caa3a01a35ab0.png" channelId="178" tvg-id="foxlife",FX Life
+#EXTINF:-1 tvg-name="FX Life" tvg-id="foxlife" tvg-logo="https://i.postimg.cc/PJwj2PSy/336aff5412117510b0a0ed6e19d2d5cf.png" tvg-scrlogo="https://i.postimg.cc/6622DcSj/58b4442a64428411b86caa3a01a35ab0.png",FX Life
 #EXTGRP:Фильмы 📽
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/9232/index.m3u8
 
-#EXTINF:-1 tvg-id="Hollywood" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HollywoodHD.png",Hollywood
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="hollywood" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HollywoodHD.png",Hollywood
 #EXTGRP:Фильмы 📽
 http://193.25.8.59:8000/interaz
+
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-id="hollywood-hd" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/HollywoodHD.png",Hollywood HD
+#EXTGRP:Фильмы 📽
+http://uhugktfh.megogo.xyz/iptv/BV4SSQ9PRKF2CW/9017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/iptvplay_ведьмак.png",IPTVPLAY ВЕДЬМАК
 #EXTGRP:Фильмы 📽
