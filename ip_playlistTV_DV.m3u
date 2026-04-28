@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" refresh="3600" catchup="append" catchup-days="4" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U url-tvg="https://doas.top/epg_lite.xml.gz" refresh="3600" catchup="append" catchup-days="4" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #PLAYLIST:IP_PlaylistTV_DV
 
 #EXTINF:-1 tvg-shift=0 channel-number=1 tvg-name="Первый канал (+7)" tvg-id="pervy-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
@@ -385,7 +385,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Остросюжетное HD" tvg-id="ostrosiuzhetnoe-hd" tvg-anyquality=1 tvg-logo="https://i115.fastpic.org/big/2021/0914/2a/32eb8568fe787d1bcbc620e5b14b732a.png" tvg-scrlogo="https://i.ibb.co/bRwZWt3/0a7313b3457b83f9f8cb43dfcabd3a14.jpg",Остросюжетное
 #EXTGRP:Фильмы 📽
-http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/904/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/904/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Премиальное HD" tvg-id="premialnoe-hd" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное_logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное.jpg",Премиальное
 #EXTGRP:Фильмы 📽
@@ -1822,103 +1822,104 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/16139/ind
 #EXTGRP:Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Vital Drive" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vital_drive.png",Vital Drive
+#EXTINF:-1 tvg-name="Бокс ТВ" tvg-id="box-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/бокс_тв.png",Бокс ТВ
 #EXTGRP:Спорт
-https://tv.a21network.ru/content/37909/index.m3u8
+http://185.46.16.239:8000/Eurosport_1
 
 #EXTINF:-1 tvg-name="Матч! Арена" tvg-id="match-arena" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_арена.png",Матч! Арена
 #EXTGRP:Спорт
 http://193.25.8.59:8000/sport1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/бокс_тв.png",Бокс ТВ
-#EXTGRP:Спорт
-http://185.46.16.239:8000/Eurosport_1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт.png",Старт
-#EXTGRP:Спорт
-https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
-
-#EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт_триумф.png",Старт Триумф
-#EXTGRP:Спорт
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт_баскет.png" tvg-id="start",Старт Баскет
-#EXTGRP:Спорт
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч!_арена.png",Матч! Арена
-#EXTGRP:Спорт
-http://193.25.8.59:8000/sport1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/боец.png",Матч! Боец
+#EXTINF:-1 tvg-name="Матч! Боец" tvg-id="match-boets" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/боец.png",Матч! Боец
 #EXTGRP:Спорт
 http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч!_планета.png",Матч! Планета
+#EXTINF:-1 tvg-name="Матч! Планета" tvg-id="match-planeta" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч!_планета.png",Матч! Планета
 #EXTGRP:Спорт
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/123/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_игра.png", Матч! Игра
+#EXTINF:-1 tvg-name="Матч! Игра" tvg-id="match-igra" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_игра.png", Матч! Игра
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Igra/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_футбол1.png"  tvg-id="match-football1" ,МАТЧ! ФУТБОЛ 1
+#EXTINF:-1 tvg-name="Матч! Футбол 1" tvg-id="match-football1" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_футбол1.png",Матч! Футбол 1
 #EXTGRP:Спорт
 http://193.25.8.59:8000/fut
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_футбол2.png"  tvg-id="match-football2"   tvg-name="Матч! Футбол 2",МАТЧ! ФУТБОЛ 2
+#EXTINF:-1 tvg-name="Матч! Футбол 2" tvg-id="match-football2" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_футбол2.png",Матч! Футбол 2
 #EXTGRP:Спорт
 http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_футбол3.png" tvg-id="match-football3" ,МАТЧ! ФУТБОЛ 3
+#EXTINF:-1 tvg-name="Матч! Футбол 3" tvg-id="match-football3" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/матч_футбол3.png",Матч! Футбол 3
 #EXTGRP:Спорт
 http://193.25.8.59:8000/fut3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_1_logo.png",Eurosport 1
+#EXTINF:-1 tvg-name="Старт" tvg-id="start" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт.png",Старт
+#EXTGRP:Спорт
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
+
+#EXTINF:-1 tvg-name="Старт Баскет" tvg-id="start-basket" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт_баскет.png",Старт Баскет
+#EXTGRP:Спорт
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+
+#EXTINF:-1 tvg-name="Старт Триумф" tvg-id="start-triumf" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/старт_триумф.png",Старт Триумф
+#EXTGRP:Спорт
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="eurosport1" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_1_logo.png",Eurosport 1
 #EXTGRP:Спорт
 http://178.134.1.158:8081/eurosport/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/khl.png",KHL
+#EXTINF:-1 tvg-name="KHL" tvg-id="kxl" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/khl.png",KHL
 #EXTGRP:Спорт
 https://a3569457567-s70378.cdn.ngenix.net/kxl/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/khl_prime.png" tvg-id="kxl-hd",KHL Prime
+#EXTINF:-1 tvg-name="KHL Prime" tvg-id="kxl-hd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/khl_prime.png" tvg-id="kxl-hd",KHL Prime
 #EXTGRP:Спорт
 http://31.148.48.15/KHL_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports1_logo.png",Setanta Sports 1
+#EXTINF:-1 tvg-name="Setanta Sports 1" tvg-id="setanta-sports" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports1_logo.png",Setanta Sports 1
 #EXTGRP:Спорт
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/6541/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports2_logo.png",Setanta Sports 2
+
+#EXTINF:-1 tvg-name="Setanta Sports 2" tvg-id="setanta-sports-plus" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports2_logo.png",Setanta Sports 2
 #EXTGRP:Спорт
 http://94.43.1.138:8081/setanta2/index.m3u8
 
-#EXTINF:-1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju+sport_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju+sport.png",Viju+ Sport
+#EXTINF:-1 tvg-name="viju+ Sport" tvg-id="viasat-sport" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju+sport_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju+sport.png",Viju+ Sport
 #EXTGRP:Спорт
 http://193.25.8.59:8000/viasatsport
 
+#EXTINF:-1 tvg-name="Vital Drive" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vital_drive.png",Vital Drive
+#EXTGRP:Спорт
+https://tv.a21network.ru/content/37909/index.m3u8
 
 
 
-#EXTINF:-1 catchup="append" catchup-days="3" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рифей_тв.png",Рифей-ТВ
-#EXTGRP:Познавательные;Региональные;Информационный;Развлекательные;Эфир
-https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=7TfDqljrzNnbvTRM7Ka5iQ&e=2073993378&scheme=https
 
-#EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png",Просвещение
-#EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 url-scrlogo="https://static.wixstatic.com/media/cca25c_8d1af75e9def40c89f0d8e532c1da6b8~mv2.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/теледом.png",Теледом
+#EXTINF:-1 catchup-days="7" tvg-name="Аист" tvg-id="aist" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/аисттв.png",АИСТ
 #EXTGRP:Региональные
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/902dpFH9/9bbd17280355de2606b33e4e19a5f287.png" channelId="450" tvg-name="НТВ-Мир" tvg-id="ntv-mir",НТВ Мир
+#EXTINF:-1 tvg-name="НТВ-Мир" tvg-id="ntv-mir" tvg-logo="https://i.postimg.cc/902dpFH9/9bbd17280355de2606b33e4e19a5f287.png" channelId="450" tvg-name="НТВ-Мир" tvg-id="ntv-mir",НТВ Мир
 #EXTGRP:Информационный;Развлекательные
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВправо.png",НТВ Право
+#EXTINF:-1 tvg-name="НТВ-Право" tvg-id="ntv-pravo" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВправо.png",НТВ Право
 #EXTGRP:Документально-познавательный
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Просвещение" tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png",Просвещение
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="3" tvg-name="Рифей-ТВ" tvg-id="rifey-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рифей_тв.png",Рифей-ТВ
+#EXTGRP:Познавательные;Региональные;Информационный;Развлекательные;Эфир
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=7TfDqljrzNnbvTRM7Ka5iQ&e=2073993378&scheme=https
+
+#EXTINF:-1 tvg-name="Теледом" tvg-id="teledom" url-scrlogo="https://static.wixstatic.com/media/cca25c_8d1af75e9def40c89f0d8e532c1da6b8~mv2.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/теледом.png",Теледом
+#EXTGRP:Региональные
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смотрим_факты.png",Смотрим 100% Факты
 #EXTGRP:Документально-познавательный
@@ -1955,10 +1956,6 @@ http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant
 #EXTINF:-1 catchup-days="7" logo="https://katun24.ru/files/logo_white_menu.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Катунь_logo.png",Катунь 24
 #EXTGRP:Региональные;Информационный
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-id="Аист" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/аисттв.png",АИСТ
-#EXTGRP:Региональные
-http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ТВ7.png",ТВ7 (Абакан)
 #EXTGRP:Региональные
