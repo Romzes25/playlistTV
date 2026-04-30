@@ -1692,6 +1692,14 @@ http://176.126.166.43:1935/live/312musik/chunklist_w1718714939.m3u8
 
 
 
+#EXTINF:-1 tvg-name="Авто Плюс" tvg-id="avto-plus" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/авто_плюс.png",Авто плюс
+#EXTGRP:Хобби;Познавательные
+http://31.148.48.15/Avto_Plus/index.m3u8
+
+#EXTINF:-1 tvg-name="Авто 24" tvg-id="avto24" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/авто_24.png",Авто 24
+#EXTGRP:Познавательные;Хобби
+https://tinyurl.com/TvZaTak05/1430/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Арсенал" tvg-id="arsenaltv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/арсенал.png",Арсенал
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
@@ -1768,6 +1776,10 @@ http://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/terra/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
 
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="animal-planet-eu" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Animal_Planet_HD.png",Animal Planet
+#EXTGRP:Познавательные
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/218/index.m3u8
+
 #EXTINF:-1 tvg-name="Viju Explore" tvg-id="viasat-explore" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_explorer_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_explorer.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_explorer_scrlogo.png",Viju Explore
 #EXTGRP:Познавательные
 https://jekalich.github.io/smtk/channels/viasat-explore.m3u8
@@ -1784,9 +1796,17 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 #EXTGRP:Познавательные
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/18194/index.m3u8
 
+#EXTINF:-1 tvg-name="National Geographic" tvg-id="national-geographic" url-scrlogo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/National_Geographic_logo.png",National Geographic
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Retrovision Motor" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Motor
 #EXTGRP:Познавательные;Документальные
 http://162.212.179.43/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="TV BRICS" tvg-id="tv-brics" url-scrlogo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/TV_BRICS_logo.png",TV BRICS
+#EXTGRP:Познавательные;Общественные;Хобби
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Т24" tvg-id="texno-24" tvg-logo="https://i.ibb.co/dPW66L5/f29c66c9aeabb21b8c209337d4ebd17a.png" logo="https://i.ibb.co/yXh50W3/77523699d7ed019c7c93c7331cb22df3.png",Т24
 #EXTGRP:Познавательные;Развлекательные
@@ -1901,6 +1921,14 @@ https://tv.a21network.ru/content/37909/index.m3u8
 #EXTGRP:Региональные
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-name="АТВ-Медиа" tvg-id="atv-media" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/атв.png",АТВ (Ставрополь)
+#EXTGRP:Региональные
+http://hls.atvmedia.ru/atv800.m3u8
+
+#EXTINF:-1 tvg-name="Байкал Универ ТВ" tvg-id="no_epg_news" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/байкал_универ.png",Байкал Универ ТВ
+#EXTGRP:Региональные;Просветительские
+https://stream01.bgu.ru/1/1/playlist.m3u8
+
 #EXTINF:-1 catchup-days="7" tvg-name="Барс" tvg-id="bars" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/барс.png",Барс плюс
 #EXTGRP:Региональные
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
@@ -1909,13 +1937,45 @@ https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u
 #EXTGRP:Региональные
 http://31.148.6.9:10021/index.m3u8
 
+#EXTINF:-1 catchup-days="7" tvg-name="БСТ" tvg-id="bst" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/бст.png",БСТ
+#EXTGRP:Региональные
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+
+#EXTINF:-1  tvg-name="Вместе-РФ" channelId="1386" tvg-id="vmeste-rf"tvg-logo="https://i.postimg.cc/J7j2mvZ4/f6bf7642445dae32c547f3694692ad41.jpg" logo="http://overlay.iptvin.online/epg/PIC/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B5%20%D0%A0%D0%A4.png",Вместе-РФ
+#EXTGRP:Информационный
+http://cdn-01.bonus-tv.ru/vmesterf/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Губерния" tvg-id="gubernia" url-scrlogo="https://gubernia.com/wp-content/themes/gubernia/static/img/logo170bold.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Губерния_logo.png",Губерния (Хабаровск)
 #EXTGRP:Региональные;Информационный;Развлекательные
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
 
+#EXTINF:-1 catchup-days="7" tvg-name="Губерния 33" tvg-id="gubernia-33" url-scrlogo="https://trc33.ru/assets/images/logo.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Губерния_33_logo.png",Губерния 33
+#EXTGRP:Региональные
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+
+#EXTINF:-1 tvg-name="Известия" tvg-id="izvestia" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Известия.png",Известия
+#EXTGRP:Новости
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+#EXTINF:-1 catchup-days="7" tvg-name="Каскад-24" tvg-id="kaskad24" tvg-logo="https://kaskad.tv/images/kaskad2022/logo_2022.png",Каскад
+#EXTGRP:Региональные
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8?version=2
+
 #EXTINF:-1 catchup-days="7" tvg-name="Катунь 24" tvg-id="katun-24" logo="https://katun24.ru/files/logo_white_menu.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Катунь_logo.png",Катунь 24
 #EXTGRP:Региональные;Информационный
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+
+#EXTINF:-1 catchup-days="7" tvg-name="Колыма-Плюс" tvg-id="kolyma-plus" url-scrlogo="https://kolymaplus.ru/static/images/logo/logo-full.ec0d5b9c4c3e.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Колыма_Плюс_logo.png",Колыма Плюс
+#EXTGRP:Региональные
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Крик-ТВ" tvg-id="krik-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/криктв.png",Крик ТВ
+#EXTGRP:Общественные
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+
+#EXTINF:-1 audio-track="rus" tvg-name="Кто есть кто" tvg-id="kto-est-kto" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кто_есть_кто.png",кто есть кто
+#EXTGRP:Документальные;Познавательные
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/9116/index.m3u8
 
 #EXTINF:-1 catchup-days="7" tvg-name="Липецкое время" tvg-id="lipeckoe-vremia" tvg-logo="https://lipetsk.rosstv.ru/site/files/channels/FfgGzeqw4HHMe0n29REvg7f2BZT8kG.png",Липецкое время
 #EXTGRP:Региональные;Новости
@@ -1929,9 +1989,21 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTGRP:Новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Надежда" tvg-id="nadezhda" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/надежда_logo.png" url-scrlogo="https://static.tildacdn.com/tild6538-3532-4131-b630-376536636664/HOPE_LOGO.svg",Надежда
+#EXTGRP:Религия
+https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 catchup-days="7" tvg-name="Ника ТВ" tvg-id="nika-tv" url-scrlogo="https://nikatv.ru/public/img/logo.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ника_ТВ_logo.png",Ника ТВ
 #EXTGRP:Региональные
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+
+#EXTINF:-1 catchup-days="7" tvg-name="Новгородское Областное телевидение" tvg-id="novgorodskoe-obl-tv" tvg-logo="https://novgorod-tv.ru/wp-content/themes/ix/images/logo.svg",Новгородское областное телевидение
+#EXTGRP:Региональные
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8?version=2
+
+#EXTINF:-1 catchup-days="7" tvg-name="Новый век (Тамбов)" tvg-id="novy-vek-tambov" url-scrlogo="https://tvtambov.ru/wp-content/uploads/2024/09/logo_sajt.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Новый_век_logo.png",Новый век
+#EXTGRP:Региональные;Информационный
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?source:iptvmate.net
 
 #EXTINF:-1 tvg-name="НТВ-Мир" tvg-id="ntv-mir" tvg-logo="https://i.postimg.cc/902dpFH9/9bbd17280355de2606b33e4e19a5f287.png" channelId="450" tvg-name="НТВ-Мир" tvg-id="ntv-mir",НТВ Мир
 #EXTGRP:Информационный;Развлекательные
@@ -1949,13 +2021,37 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTGRP:Региональные
 http://www.omsk-kprf.ru/hls/stream.m3u8
 
+#EXTINF:-1 tvg-name="ОСН" url-scrlogo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ОСН_logo.png",ОСН
+#EXTGRP:Информационный
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+
+#EXTINF:-1 catchup-days="7" tvg-name="Амурское областное телевидение" tvg-id="1obl-blagoveschensk" url-scrlogo="https://amurobl.tv/_nuxt/img/9636ac9.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Амурское_тв_logo.png",Первый областной (Благовещенск)
+#EXTGRP:Региональные
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
+
 #EXTINF:-1 catchup-days="7" tvg-name="Первый областной Орел" tvg-id="pervy-oblastnoy-orel"tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый_областной.png",Первый областной
 #EXTGRP:Региональные
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 
+#EXTINF:-1 catchup-days="7" tvg-name="Первый тульский" tvg-id="pervy-tulsky" url-scrlogo="https://1tulatv.ru/img/tulatv2.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Первый_Тульский_logo.png",Первый Тульский
+#EXTGRP:Региональные
+http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
+
+#EXTINF:-1 catchup-days="7" tvg-name="Первый Ярославский" tvg-id="pervy-yaroslavsky" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Первый_Ярославский_logo.png",Первый Ярославский
+#EXTGRP:Региональные
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Просвещение" tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png",Просвещение
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="РБК" tvg-id="rbk" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рбк.png",РБК
+#EXTGRP:Новости
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
+#EXTINF:-1 catchup-days="7" tvg-name="Регион 29" tvg-id="region29" url-scrlogo="https://cdn0.region29.ru/i/01b.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Регион_29_logo.png",Регион 29
+#EXTGRP:Региональные
+http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" tvg-name="Рифей-ТВ" tvg-id="rifey-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рифей_тв.png",Рифей-ТВ
 #EXTGRP:Познавательные;Региональные;Информационный;Развлекательные;Эфир
@@ -1964,6 +2060,22 @@ https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=7T
 #EXTINF:-1 catchup-days="7" tvg-name="РТС - Абакан" tvg-id="rts-abakan" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ртс.png",РТС-Абакан
 #EXTGRP:Региональные
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+
+#EXTINF:-1 catchup-days="7" tvg-name="Русский Север" tvg-id="russky-sever" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/rusever.png",Русский Север
+#EXTGRP:Региональные
+http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+
+#EXTINF:-1 catchup-days="7" tvg-name="Русь Кострома" tvg-id="rusj" tvg-logo="https://rus-kostroma.ru/_images/logo-orange.png",Русь (Кострома)
+#EXTGRP:Региональные
+http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
+
+#EXTINF:-1 catchup-days="7" tvg-name="Сампо ТВ" tvg-id="sampo-tv" tvg-logo="https://sampotv360.ru/wp-content/uploads/2021/11/Logo-300x300-1-150x150.jpeg" url-scrlogo="https://sampotv360.ru/wp-content/uploads/2021/11/BannersFIN-01-1024x256.png",Сампо ТВ 360°
+#EXTGRP:Региональные
+https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Союз" tvg-id="soyuz" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союз.png",Союз
+#EXTGRP:Религия
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Смотрим 100% Факты" tvg-id="smotrim-100-fakty" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смотрим_факты.png",Смотрим 100% Факты
 #EXTGRP:Документально-познавательный
@@ -1977,6 +2089,10 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTGRP:Развлекательные
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
+#EXTINF:-1 catchup-days="7" tvg-name="TV Губерния" tvg-id="tv-guberniya" url-scrlogo="https://tv-gubernia.ru/wp-content/themes/tv-gubernia/img/logo_ny.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ТВ_Губерния_logo.png",ТВ-Губерния
+#EXTGRP:Региональные
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-7 Абакан" tvg-id="tv7-abakan" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ТВ7.png",ТВ7 (Абакан)
 #EXTGRP:Региональные
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
@@ -1985,157 +2101,41 @@ https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 #EXTGRP:Региональные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
-#EXTINF:-1 catchup-days="7" tvg-logo="https://tkr-info.ru/tpl/img/logo.svg" tvg-id="trk-ryazan",ТКР Рязань
+#EXTINF:-1 catchup-days="7" tvg-name="ТКР Рязань" tvg-id="trk-ryazan" tvg-logo="https://tkr-info.ru/tpl/img/logo.svg",ТКР Рязань
 #EXTGRP:Региональные
 http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Толк_ТВ.png",Толк ТВ
-#EXTGRP:Региональные;Информационный;Развлекательные
-https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-id="novy-vek-tambov" url-scrlogo="https://tvtambov.ru/wp-content/uploads/2024/09/logo_sajt.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Новый_век_logo.png",Новый век
-#EXTGRP:Региональные;Информационный
-http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?source:iptvmate.net
-
-#EXTINF:-1 catchup-days="7" url-scrlogo="https://1tulatv.ru/img/tulatv2.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Первый_Тульский_logo.png" tvg-id="pervy-tulsky",Первый Тульский
-#EXTGRP:Региональные
-http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-id="gubernia-33" url-scrlogo="https://trc33.ru/assets/images/logo.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Губерния_33_logo.png",Губерния 33
-#EXTGRP:Региональные
-http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
-
-#EXTINF:-1 catchup-days="7" url-scrlogo="https://tv-gubernia.ru/wp-content/themes/tv-gubernia/img/logo_ny.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ТВ_Губерния_logo.png" tvg-id="tv-guberniya",ТВ-Губерния
-#EXTGRP:Региональные
-https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Первый_Ярославский_logo.png" tvg-id="pervy-yaroslavsky",Первый Ярославский
-#EXTGRP:Региональные
-https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
-
-#EXTINF:-1 catchup-days="7" url-scrlogo="https://cdn0.region29.ru/i/01b.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Регион_29_logo.png" tvg-id="region29",Регион 29
-#EXTGRP:Региональные
-http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-id="kaskad24" tvg-logo="https://kaskad.tv/images/kaskad2022/logo_2022.png",Каскад
-#EXTGRP:Региональные
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8?version=2
-
-#EXTINF:-1 catchup-days="7" tvg-id="novgorodskoe-obl-tv" tvg-logo="https://novgorod-tv.ru/wp-content/themes/ix/images/logo.svg",Новгородское областное телевидение
-#EXTGRP:Региональные
-https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8?version=2
-
-#EXTINF:-1 catchup-days="7" tvg-logo="https://sampotv360.ru/wp-content/uploads/2021/11/Logo-300x300-1-150x150.jpeg" url-scrlogo="https://sampotv360.ru/wp-content/uploads/2021/11/BannersFIN-01-1024x256.png",Сампо ТВ 360°
-#EXTGRP:Региональные
-https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/rusever.png" tvg-id="russky-sever",Русский Север
-#EXTGRP:Региональные
-http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-id="kolyma-plus" url-scrlogo="https://kolymaplus.ru/static/images/logo/logo-full.ec0d5b9c4c3e.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Колыма_Плюс_logo.png",Колыма Плюс
-#EXTGRP:Региональные
-https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/якутия_24_logo.png" url-scrlogo="https://yk24.ru/wp-content/uploads/2024/06/logo2.png" tvg-id="yakutia24",Якутия 24
-#EXTGRP:Региональные
-https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
-
-#EXTINF:-1 catchup-days="7" url-scrlogo="https://amurobl.tv/_nuxt/img/9636ac9.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Амурское_тв_logo.png",Амурское областное телевидение
-#EXTGRP:Региональные
-https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-logo="https://rus-kostroma.ru/_images/logo-orange.png",Русь (Кострома)
-#EXTGRP:Региональные
-http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
-
-#EXTINF:-1 catchup-days="7" tvg-logo="https://tnv.ru/local/static/images/logo.svg" tvg-id="tnv-planeta",ТНВ-Планета
+#EXTINF:-1 catchup-days="7" tvg-name="ТНВ-Планета" tvg-id="tnv-planeta" tvg-logo="https://tnv.ru/local/static/images/logo.svg" tvg-id="tnv-planeta",ТНВ-Планета
 #EXTGRP:Региональные
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
 
-#EXTINF:-1 catchup-days="7" tvg-id="bst" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/бст.png",БСТ
-#EXTGRP:Региональные
-http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="Толк" tvg-id="tolk" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Толк_ТВ.png",Толк ТВ
+#EXTGRP:Региональные;Информационный;Развлекательные
+https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кто_есть_кто.png" tvg-id="kto-est-kto" audio-track="rus",кто есть кто
-#EXTGRP:Познавательные
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/9116/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Animal_Planet_HD.png",Animal Planet
-#EXTGRP:Познавательные
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132414&extension=ts
-
-#EXTINF:-1 tvg-id="NationalGeographic.ru" url-scrlogo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/National_Geographic_logo.png" tvg-name="National Geographic" ,National Geographic
-#EXTGRP:Познавательные
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/авто_24.png",Авто 24
-#EXTGRP:Хобби
-https://tinyurl.com/TvZaTak05/1430/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/авто_плюс.png",Авто плюс
-#EXTGRP:Хобби;Познавательные
-http://31.148.48.15/Avto_Plus/index.m3u8
-
-#EXTINF:-1 url-scrlogo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/TV_BRICS_logo.png",TV BRICS
-#EXTGRP:Познавательные;Общественные
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 url-scrlogo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ОСН_logo.png",ОСН
-#EXTGRP:Информационный
-https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7j2mvZ4/f6bf7642445dae32c547f3694692ad41.jpg" logo="http://overlay.iptvin.online/epg/PIC/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B5%20%D0%A0%D0%A4.png" channelId="1386" tvg-id="vmeste-rf",Вместе-РФ
-#EXTGRP:Информационный
-http://cdn-01.bonus-tv.ru/vmesterf/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="TV PRO" tvg-logo="http://tvpro-online.ru/images/logo.png",TV PRO
-#EXTGRP:Региональные;Просветительские
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-
-#EXTINF:-1 tvg-name="Байкал Универ ТВ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/байкал_универ.png",Байкал Универ ТВ
-#EXTGRP:Региональные;Просветительские
-https://stream01.bgu.ru/1/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Крик ТВ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/криктв.png",Крик ТВ
-#EXTGRP:Общественные
-http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Известия" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Известия.png",Известия
-#EXTGRP:Новости
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-
-#EXTINF:-1 tvg-name="РБК" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рбк.png",РБК
-#EXTGRP:Новости
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/надежда_logo.png" url-scrlogo="https://static.tildacdn.com/tild6538-3532-4131-b630-376536636664/HOPE_LOGO.svg",Надежда
-#EXTGRP:Религия
-https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Союз" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/союз.png",Союз
-#EXTGRP:Религия
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/три_ангела_logo.png" url-scrlogo="https://www.3angels.ru/assets/logo-b4c.svg",Три Ангела
+#EXTINF:-1 tvg-name="Три Ангела" tvg-id="tri-angela" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/три_ангела_logo.png" url-scrlogo="https://www.3angels.ru/assets/logo-b4c.svg",Три Ангела
 #EXTGRP:Религия
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/туапсе_24_logo.png" url-scrlogo="https://tuapse24.tv/wp-content/uploads/2021/04/cropped-tyapse24logo-2-1536x359.png",Туапсе 24
+#EXTINF:-1 tvg-name="Туапсе 24" tvg-id="tuapse24" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/туапсе_24_logo.png" url-scrlogo="https://tuapse24.tv/wp-content/uploads/2021/04/cropped-tyapse24logo-2-1536x359.png",Туапсе 24
 #EXTGRP:Региональные;Информационный
 http://185.185.69.62:8084/hls/tuapse24.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360.png",360
+#EXTINF:-1 catchup-days="7" tvg-name="Якутия 24" tvg-id="yakutia24" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/якутия_24_logo.png" url-scrlogo="https://yk24.ru/wp-content/uploads/2024/06/logo2.png",Якутия 24
+#EXTGRP:Региональные
+https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV PRO" tvg-id="no_epg_news" tvg-logo="http://tvpro-online.ru/images/logo.png",TV PRO
+#EXTGRP:Региональные;Просветительские
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+
+#EXTINF:-1 tvg-name="360° Международный" tvg-id="360-int" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360.png",360
 #EXTGRP:Региональные
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/2065/index.m3u8
 
-#EXTINF:-1 tvg-name="360 Новости" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360новости.png",360 Новости
+#EXTINF:-1 tvg-name="360 Новости" tvg-id="360-news" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360новости.png",360 Новости
 #EXTGRP:Региональные;Новостные
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/атв.png",АТВ (Ставрополь)
-#EXTGRP:Региональные
-http://hls.atvmedia.ru/atv800.m3u8
 
 #EXTINF:-1 tvg-logo="https://arkhyz24.ru/bitrix/templates/arhiz_new/images/logo.png",Архыз 24
 #EXTGRP:Региональные
