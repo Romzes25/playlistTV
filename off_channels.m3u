@@ -4,3 +4,15 @@
 #EXTINF:-1 tvg-name="NSC" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/nsc.png",NSC [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
+
+#EXTINF:-1 tvg-name="Карусель International" tvg-id="karusel-int" tvg-logo="https://i.imgur.com/DnlngRZ.png",Карусель International [НЕ Исправен!]
+#EXTGRP:Мультфильмы
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="ТВ-21M" tvg-id="tv21m" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/tv21m.png" ,ТВ-21M [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://46.53.208.4:80/live/2018.m3u8
+
+#EXTINF:-1 tvg-name="Alpha Funny" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_funny.png" tvg-id="no_epg_cinema",Alpha Funny [Проф. Работы]
+#EXTGRP:Развлекательные
+https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
