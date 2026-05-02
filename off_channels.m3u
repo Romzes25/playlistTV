@@ -1,2 +1,6 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="NSC" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/nsc.png",NSC [Проф. Работы]
+#EXTGRP:Фильмы 📽
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
