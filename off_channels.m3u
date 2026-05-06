@@ -16,3 +16,7 @@ http://46.53.208.4:80/live/2018.m3u8
 #EXTINF:-1 tvg-name="Alpha Funny" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_funny.png" tvg-id="no_epg_cinema",Alpha Funny [НЕ Исправен!]
 #EXTGRP:Развлекательные
 https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Блокбастер" tvg-id="blokbaster" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/блокбастер_logo.png" tvg-id="blokbaster-hd",Блокбастер [url error]
+#EXTGRP:Фильмы 📽
+http://cdn.kubteltv.workers.dev/?ID=219
