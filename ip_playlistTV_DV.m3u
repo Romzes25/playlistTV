@@ -379,7 +379,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/2410/inde
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Про Любовь" tvg-id="pro-lyubov" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/про_любовь_logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/про_любовь.png",Про Любовь
 #EXTGRP:Фильмы 📽
-http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/2430/index.m3u8
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2430/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 channelId="246" tvg-name="Ретро" tvg-id="retro-tv" tvg-anyquality=1 tvg-logo="http://overlay.iptvin.online/epg/PIC/%D0%A0%D0%B5%D1%82%D1%80%D0%BE.png" tvg-scrlogo="http://only4.tv/ch/6263.png",Ретро
 #EXTGRP:Фильмы 📽
@@ -1834,6 +1834,10 @@ http://vod.tuva.ru/nauka2/index.m3u8
 #EXTGRP:Познавательные;Хобби
 http://live-3.otcnet.ru/nashatema/index.m3u8
 
+#EXTINF:-1 tvg-name="Ocean-TV" tvg-id="ocean-tv" tvg-logo="http://epg.one/img2/55.png",Ocean
+#EXTGRP:Познавательные;Природа 🐈
+http://176.96.241.40/Ocean/index.m3u8
+
 #EXTINF:-1 tvg-name="Оружие" channelId="223" tvg-id="oruzhie" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png",Оружие
 #EXTGRP:Хобби;Увлечения
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/9323/index.m3u8
@@ -1922,6 +1926,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/16138/ind
 #EXTGRP:Познавательные
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/16139/index.m3u8
 
+#EXTINF:-1 tvg-name="ZooПарк" tvg-id="zoopark" tvg-logo="http://epg.one/img2/367.png",ZooПарк
+#EXTGRP:Познавательные;Природа 🐈
+http://176.96.241.40/ZooPark/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Астрахань.Ru Sport" tvg-id="no_epg" url-scrlogo="https://sport.astrakhan.ru/image/logo-astrakhan-sport.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Астрахань.Ru_logo.png",Астрахань.Ru Sport
