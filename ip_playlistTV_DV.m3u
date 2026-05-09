@@ -1087,6 +1087,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTGRP:Фильмы 📽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 
+#EXTINF:0 tvg-rec="0" tvg-name="Suspense" tvg-id="suspense" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/suspense_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/suspense.png",Suspense
+#EXTGRP:Фильмы 📽
+http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/2049/index.m3u8
+
 #EXTINF:0 tvg-shift=0 tvg-name="Trash" tvg-id="trashtv" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/trash.png" tvg-rec="3",Trash
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/6396/index.m3u8
@@ -2048,11 +2052,15 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/10057/ind
 #EXTGRP:Спорт ⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/10039/index.m3u8
 
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="eurosport1" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport_1_logo.png",Eurosport 1
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="eurosport1" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport1_logo.png",Eurosport 1
 #EXTGRP:Спорт ⚽️
 http://178.134.1.158:8081/eurosport/index.m3u8
 
-#EXTINF:-1 tvg-name="Extreme Sports [RU]" tvg-id="extreme-sports-ru" tvg-logo="http://epg.one/img2/2053.png",Extreme Sports
+#EXTINF:0 tvg-rec="0" tvg-name="Eurosport 2" tvg-id="eurosport2" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/eurosport2_logo.png",Eurosport 2
+#EXTGRP:Спорт ⚽️
+http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/19431/index.m3u8
+
+#EXTINF:-1 tvg-name="Extreme Sports [RU]" tvg-id="extreme-sports-ru" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/extreme_sports.png",Extreme Sports
 #EXTGRP:Спорт ⚽️
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8?token=test
 
