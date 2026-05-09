@@ -485,9 +485,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/7247/inde
 #EXTGRP:Фильмы 📽;Сериалы 📽
 http://31.148.48.15:80/Telekafe/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="Тех Лет ТВ" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тех_лет_тв.png",Тех Лет ТВ [НЕ Исправен!]
+#EXTINF:-1 tvg-shift=0 tvg-name="ТВ-21M" tvg-id="tv21m" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/tv21m.png" ,ТВ-21M
 #EXTGRP:Фильмы 📽
-http://92.63.106.41/ptv/voka/ch.php?id=a7d783af-49ae-4b82-be66-9758bbe677b6
+http://46.53.208.4:80/live/2018.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Кино Без Границ" tvg-id="kino-bez-granic" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/kino-bez-granic.png",Кино Без Границ
 #EXTGRP:Фильмы 📽

@@ -9,14 +9,14 @@ https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u
 #EXTGRP:Мультфильмы
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="ТВ-21M" tvg-id="tv21m" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/tv21m.png" ,ТВ-21M [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://46.53.208.4:80/live/2018.m3u8
-
-#EXTINF:-1 tvg-name="Alpha Funny" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_funny.png" tvg-id="no_epg_cinema",Alpha Funny [НЕ Исправен!]
+#EXTINF:-1 tvg-name="Alpha Funny" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/alpha_funny.png" tvg-id="no_epg_cinema",Alpha Funny
 #EXTGRP:Развлекательные
 https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Блокбастер" tvg-id="blokbaster" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/блокбастер_logo.png" tvg-id="blokbaster-hd",Блокбастер [url error]
 #EXTGRP:Фильмы 📽
 http://cdn.kubteltv.workers.dev/?ID=219
+
+#EXTINF:-1 tvg-name="Тех Лет ТВ" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тех_лет_тв.png",Тех Лет ТВ [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://92.63.106.41/ptv/voka/ch.php?id=a7d783af-49ae-4b82-be66-9758bbe677b6
