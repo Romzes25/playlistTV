@@ -1490,6 +1490,10 @@ http://31.148.48.15/Rizhiy/index.m3u8
 #EXTGRP:Мультфильмы;Детские
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Триколор Смешарики" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смешарики.png",Триколор Смешарики
+#EXTGRP:Мультфильмы
+https://tinyurl.com/aleks-u-romki-47/18136/index.m3u8
+
 #EXTINF:-1 tvg-name="Смотрим 100% Детское" tvg-id="smotrim-100-detskoe" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/смотрим_детское.png",Смотрим 100% Детское
 #EXTGRP:Детские
 http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
@@ -1593,6 +1597,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/537/index
 #EXTGRP:Мультфильмы
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/20210/index.m3u8
 
+#EXTINF:-1 tvg-name="FoxKids-Remastered" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/foxkids-remastered.png",FoxKids Remastered
+#EXTGRP:Мультфильмы
+http://kinowalk.hopto.org/foxkids_remastered_live
+
 #EXTINF:-1  tvg-name="Fresh Kids" tvg-id="fresh-kids" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_kids.png",Fresh Kids
 #EXTGRP:Мультфильмы
 https://tinyurl.com/aleks-u-romki-47/19288/index.m3u8
@@ -1604,6 +1612,10 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B05/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="IPTVPLAY МУЛЬТСКАЗКИ" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/iptvplay_disney.png",IPTVPLAY МУЛЬТСКАЗКИ
 #EXTGRP:Мультфильмы
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/jetix.png",JETIX
+#EXTGRP:Мультфильмы
+http://foxkids-online.ru/hls/test.m3u8
 
 #EXTINF:-1 tvg-name="JTX Online" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/jtx_online.png",JTX Online
 #EXTGRP:Мультфильмы
