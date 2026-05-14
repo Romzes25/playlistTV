@@ -20,3 +20,7 @@ http://cdn.kubteltv.workers.dev/?ID=219
 #EXTINF:-1 tvg-name="Тех Лет ТВ" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тех_лет_тв.png",Тех Лет ТВ [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 http://92.63.106.41/ptv/voka/ch.php?id=a7d783af-49ae-4b82-be66-9758bbe677b6
+
+#EXTINF:0 tvg-shift=0 tvg-name="Ultra HD Cinema" tvg-id="ultra-hd-cinema" tvg-anyquality=1 tvg-logo="http://epg.one/img2/2743.png" tvg-rec="3",Ultra HD Cinema [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://tmptv.sunduk.tv/CH885/index.m3u8
