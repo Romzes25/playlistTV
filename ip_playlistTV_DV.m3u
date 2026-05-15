@@ -484,7 +484,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZBE628EP2BYBP5/7247/inde
 #EXTGRP:Фильмы 📽;Сериалы 📽
 http://31.148.48.15:80/Telekafe/index.m3u8?token=test
 
-#EXTINF:0 tvg-name="ТВ-21M" tvg-id="tv21m" tvg-logo="http://epg.one/img2/309.png" tvg-rec="7",ТВ 21
+#EXTINF:0 tvg-name="ТВ-21M" tvg-id="tv21m" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тв_21.png" tvg-rec="7",ТВ 21
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/525/index.m3u8
 
@@ -794,6 +794,10 @@ rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpq
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PY2PXT2SW9Y6ABUQF5F5Y5UV/1071/index.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/41/58/86/41588635ad796b5237698a0003dbf5e9.jpg",FilmON
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+
 #EXTINF:-1 tvg-name="Film Visit" tvg-id="no_epg_cinema" tvg-logo="https://www.giniko.com/logos/190x110/1578.jpg",Film Visit
 #EXTGRP:Фильмы 📽
 https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
@@ -1006,6 +1010,18 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PY2PXT2SW9Y6ABUQF5F5Y5UV
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/movietoper_live
 
+#EXTINF:-1 tvg-name="MyTV HD" tvg-id="mytv" tvg-logo="http://epg.one/img2/104.png",MyTV
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19407/index.m3u8
+
+#EXTINF:-1 tvg-name="MyTV 2 HD" tvg-id="mytv2" tvg-logo="http://epg.one/img2/105.png",MyTV 2
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19408/index.m3u8
+
+#EXTINF:-1 tvg-name="MyTV 3 HD" tvg-id="mytv3" tvg-logo="http://epg.one/img2/106.png",MyTV 3
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/19411/index.m3u8
+
 #EXTINF:0 tvg-shift=0 tvg-name="РуКино HD" tvg-id="rukino-hd" tvg-anyquality=0 tvg-logo="http://epg.one/img2/4721.png",PG РуКино HD
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/11096/index.m3u8
@@ -1121,10 +1137,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZBE628EP2BYBP5/6396/inde
 #EXTINF:-1 tvg-name="TVPlay Mortal Kombat" tvg-id="no_epg_cinema" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/tvplay_mortal_kombat_logo.png",TVPlay Mortal Kombat
 #EXTGRP:Фильмы 📽
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 tvg-shift=0 tvg-name="TV XXI" tvg-id="tvxxi" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тв_21.png",TV XXI
-#EXTGRP:Фильмы 📽
-https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
 
 #EXTINF:0 tvg-shift=0 tvg-name="Ultra HD Cinema" tvg-id="ultra-hd-cinema" tvg-anyquality=1 tvg-logo="http://epg.one/img2/2743.png" tvg-rec="3",Ultra HD Cinema
 #EXTGRP:Фильмы 📽
@@ -2131,6 +2143,10 @@ http://193.25.8.59:8000/viasatsport
 #EXTGRP:Спорт ⚽️
 https://tv.a21network.ru/content/37909/index.m3u8
 
+
+#EXTINF:-1  tvg-name="CineMan Фитнес" tvg-id="cineman-fitnes" tvg-logo="https://iptvx.one/picons/cineman-fitnes.png",CineMan Фитнес FHD
+#EXTGRP:Фитнес
+https://tinyurl.com/aleks-u-romki-47/31629/index.m3u8
 
 
 
