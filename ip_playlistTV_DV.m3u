@@ -260,6 +260,10 @@ http://tinyurl.com/TvZaTak20/ushba64/index.m3u8
 #EXTGRP:Фильмы 📽
 http://185.46.16.239:8000/Kino_TV
 
+#EXTINF:0 tvg-rec="0" tvg-name="КиноКульт" tvg-id="kinokult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kinokult.png",КиноКульт
+#EXTGRP:Фильмы 📽
+http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/31914/index.m3u8
+
 #EXTINF:-1  tvg-id="no_epg"  tvg-logo="https://streaming-elbrus.su/img/logos/films/kinomenu.png" ,КиноМеню
 #EXTGRP:Фильмы 📽
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
