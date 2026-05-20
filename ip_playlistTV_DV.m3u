@@ -176,7 +176,7 @@ http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZBE628EP2BYBP5/2441/index.m3u8
 
-#EXTINF:-1 tvg-name="KACCETA" tvg-id="no_epg_cinema"  tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",𝕂𝔸ℂℂ𝔼𝕋𝔸
+#EXTINF:-1 tvg-name="KACCETA" tvg-id="no_epg_cinema"  tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",𝕂𝔸ℂℂ𝔼𝕋𝔸 [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/kasseta_live
 
@@ -258,7 +258,7 @@ http://tinyurl.com/TvZaTak20/ushba64/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Кино ТВ" tvg-id="kino-tv" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кино_тв.png",Кино ТВ
 #EXTGRP:Фильмы 📽
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+http://185.46.16.239:8000/Kino_TV
 
 #EXTINF:-1  tvg-id="no_epg"  tvg-logo="https://streaming-elbrus.su/img/logos/films/kinomenu.png" ,КиноМеню
 #EXTGRP:Фильмы 📽
@@ -274,7 +274,7 @@ http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Кинопоказ HD" tvg-id="kinopokaz-hd" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинопоказ.png",Кинопоказ HD
 #EXTGRP:Фильмы 📽
-http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/2439/index.m3u8
+http://31.148.48.15/Kinopokaz/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Кинопремьера" tvg-id="kinopremiera-hd" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинопремьера.png",Кинопремьера
 #EXTGRP:Фильмы 📽
@@ -358,7 +358,7 @@ http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/2434/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="НСТ" tvg-id="nst" tvg-anyquality=1 tvg-logo="https://ct-bank.digitalrussia.tv/files/2023/05/strashnoe-tv_2_.svg",НСТ
 #EXTGRP:Фильмы 📽
-http://vod.tuva.ru/nst/index.m3u8
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/123
 
 #EXTINF:-1 tvg-shift=0 tvg-name="НТВ Сериал" tvg-id="ntv-serial" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/НТВсериал.png",НТВ Сериал
 #EXTGRP:Фильмы 📽
@@ -374,7 +374,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PY2PXT2SW9Y6ABUQF5F5Y5UV
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Премиальное HD" tvg-id="premialnoe-hd" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное_logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/премиальное.jpg",Премиальное
 #EXTGRP:Фильмы 📽
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/2410/index.m3u8
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/265
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Про Любовь" tvg-id="pro-lyubov" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/про_любовь_logo.png" tvg-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/про_любовь.png",Про Любовь
 #EXTGRP:Фильмы 📽
@@ -402,7 +402,7 @@ http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Русский роман" tvg-id="russky-roman" tvg-anyquality=1 tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский роман
 #EXTGRP:Фильмы 📽
-http://vod.tuva.ru/rusroman/index.m3u8
+https://kino.zunotv.workers.dev/russkiy_roman/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Русский иллюзион" tvg-id="russky-illuzion" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/русский_иллюзион.png",Русский иллюзион
 #EXTGRP:Фильмы 📽
@@ -781,6 +781,26 @@ https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Epic Drama" tvg-id="epik-drama" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/epic_drama.png",Epic Drama
 #EXTGRP:Фильмы 📽;Сериалы 📽
 http://195.189.60.253/118/index.m3u8
+
+#EXTINF:-1 tvg-name="Eye Modern" tvg-id="eye-modern" tvg-logo="https://iptvx.one/picons/eye-modern.png",Eye Modern
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/17068/index.m3u8
+
+#EXTINF:-1 tvg-name="Eye Criminal" tvg-id="eye-criminal" tvg-logo="https://iptvx.one/picons/eye-criminal.png",Eye Criminal
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/17067/index.m3u8
+
+#EXTINF:-1 tvg-name="Eye Frozen" tvg-id="eye-frozen" tvg-logo="https://iptvx.one/picons/eye-frozen.png",Eye Frozen
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/17066/index.m3u8
+
+#EXTINF:-1 tvg-name="Eye Oscar" tvg-id="eye-oscar" tvg-logo="https://iptvx.one/picons/eye-oscar.png",Eye Oscar
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/17065/index.m3u8
+
+#EXTINF:-1 tvg-name="Eye Media" tvg-id="eye-media" tvg-logo="https://iptvx.one/picons/eye-media.png",Eye Media
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/aleks-u-romki-47/17064/index.m3u8
 
 #EXTINF:-1 tvg-name="FAN" tvg-id="fanhd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fan.png",FAN
 #EXTGRP:Фильмы 📽
