@@ -1130,6 +1130,14 @@ http://kinowalk.hopto.org/scripachtv_live
 #EXTGRP:Фильмы 📽
 http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
 
+#EXTINF:-1 tvg-name="SelecaoTV" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/selecaotv.png",SelecaoTV
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/selecaotv_live
+
+#EXTINF:-1 tvg-name="SelecaoTV" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/selecaotv.png",SelecaoTV 1
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/selecaotv1_live
+
 #EXTINF:-1 tvg-shift=0 tvg-name="Shot TV" tvg-id="shot-tv" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/shot_tv_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/shot_tv.png",SHOT TV
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/20022/index.m3u8
@@ -1153,6 +1161,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:0 tvg-rec="0" tvg-name="Suspense" tvg-id="suspense" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/suspense_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/suspense.png",Suspense
 #EXTGRP:Фильмы 📽
 http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/2049/index.m3u8
+
+#EXTINF:0 tvg-name="TimeToMovie" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/timetomovie.png",TimeToMovie
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/timetomovie_live
+
+#EXTINF:0 tvg-name="TimeToHorror" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/timetohorror.png",TimeToHorror
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/timetohorror_live
+
+#EXTINF:0 tvg-name="TopMomenT" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/topmoment.png",TopMomenT
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/topmomentlive_live
 
 #EXTINF:0 tvg-shift=0 tvg-name="Trash" tvg-id="trashtv" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/trash.png" tvg-rec="3",Trash
 #EXTGRP:Фильмы 📽
