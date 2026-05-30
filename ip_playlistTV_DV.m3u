@@ -2197,7 +2197,7 @@ http://31.148.48.15/KHL_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="MMA-TV" tvg-id="m1global" tvg-logo="http://epg.one/img2/2326.png",MMA-TV
 #EXTGRP:Спорт ⚽️
-http://s83.rafail1982.uz/1226/tracks-v1a1a1/mono.m3u8
+http://31.148.48.15:80/M1_Global/index.m3u8
 
 #EXTINF:-1 tvg-name="Setanta Sports 1" tvg-id="setanta-sports" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/setanta_sports1_logo.png",Setanta Sports 1
 #EXTGRP:Спорт ⚽️
@@ -2533,7 +2533,7 @@ http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-name="БелРос" tvg-logo="https://belros.tv/local/templates/2024/i/header/logo.svg",БелРос
 #EXTGRP:Новости
-http://radio.tvs.by:8088/TRO/index.m3u8
+http://217.174.229.136:8000/play/a051
 
 #EXTINF:-1 tvg-name="Москва 24" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/м24.png",Москва 24
 #EXTGRP:Новости
@@ -2559,7 +2559,7 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTGRP:Развлекательные
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 
-#EXTINF:-1 tvg-name="ТВК 24 (Красноярск)" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/твк24.png",ТВК 24 (Красноярск) [Проф. Работы]
+#EXTINF:-1 tvg-name="ТВК 24 (Красноярск)" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/твк24.png",ТВК 24 (Красноярск)
 #EXTGRP:Развлекательные
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 
@@ -2777,7 +2777,7 @@ http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
 #EXTGRP:Музыка 🔊
 http://5.188.159.128:8070/Bridge_TV_Classic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Bridge TV Deluxe" tvg-id="bridge-hd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_deluxe.png",Bridge TV Deluxe
+#EXTINF:-1 tvg-name="Bridge TV Deluxe" tvg-id="bridge-hd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_deluxe.png",Bridge TV Deluxe [ПТ 🖐]
 #EXTGRP:Музыка 🔊
 http://89.218.32.179:18000/play/a02m
 
