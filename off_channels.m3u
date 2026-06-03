@@ -5,10 +5,6 @@
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/boh_music_live
 
-#EXTINF:-1 tvg-name="FMC" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fantasticmistyc.jpg",FMC [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
 #EXTINF:-1 tvg-name="NSC" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/nsc.png",NSC [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M

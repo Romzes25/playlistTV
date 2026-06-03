@@ -854,6 +854,10 @@ https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/10060/index.m3u8
 
+#EXTINF:-1 tvg-name="FMC" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fantasticmistyc.jpg",FMC
+#EXTGRP:Фильмы 📽
+rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
 #EXTINF:-1  tvg-name="Fresh Adventure" tvg-id="fresh-adventure" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_adventure.png",Fresh Adventure
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/aleks-u-romki-47/19297/index.m3u8
