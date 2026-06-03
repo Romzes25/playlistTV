@@ -216,10 +216,6 @@ http://162.212.179.43/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы 📽
 http://tinyurl.com/TvZaTak20/ushba-films-j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_15.png",Кинозалы 15
-#EXTGRP:Фильмы 📽
-http://162.212.179.43/ushba-films-p/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_16.png",Кинозалы 16
 #EXTGRP:Фильмы 📽
 http://162.212.179.43/ushba-films-t/tracks-v1a1/mono.m3u8
@@ -778,7 +774,7 @@ http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/19437/index.m3u8
 #EXTGRP:Фильмы 📽;VHS 📼
 http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/11012/index.m3u8
 
-#EXTINF:-1 tvg-name="Cinemator" tvg-id="no_epg_cinema" tvg-logo="https://www.giniko.com/logos/190x110/1576.jpg",Cinemator
+#EXTINF:-1 tvg-name="Cinemator" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cinemator.png",Cinemator
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/TvZaTak09/ushba-films-p/tracks-v1a1/mono.m3u8
 
@@ -962,6 +958,10 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTGRP:Фильмы 📽
 rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
+#EXTINF:-1 tvg-name="KINO FILE" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino-file.png",KINO FILE
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba99/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-shift=0 tvg-name="Kinojam 1" tvg-id="kinojam1" tvg-anyquality=1 tvg-logo="https://i.imgur.com/6HQFM4m.png",KinoJam 1
 #EXTGRP:Фильмы 📽
 http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/7260/index.m3u8
@@ -993,6 +993,10 @@ http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/15088/index.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name="Livetv" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/livetv_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/livetv.png",Livetv
 #EXTGRP:Фильмы 📽
 http://tv.mobyservice.ru/livetv/index.m3u8
+
+#EXTINF:-1 tvg-name="Logovo Films" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",Logovo Films
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba-films-a/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-shift=0 tvg-name="MM Боевик Classic HD" tvg-id="minimax-boevik_classic" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/mm_boevik_classic.png",MM Боевик Classic
 #EXTGRP:Фильмы 📽
@@ -1824,6 +1828,9 @@ http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/11118/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="no_epg" "https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/anegdot.png",Анекдоты
+#EXTGRP:Развлекательные;Юмор
+https://rpn3.bozztv.com/dvrfl07/ushba81/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://img.razrisyika.ru/kart/20/1200/76229-eralash-32.jpg",Ералаш
 #EXTGRP:Развлекательные;Юмор
