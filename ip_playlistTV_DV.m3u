@@ -1182,6 +1182,37 @@ http://kinowalk.hopto.org/selecaotv1_live
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/20022/index.m3u8
 
+#EXTINF:-1 tvg-name="SKY HIGH BOOM FHD" tvg-id="sky-high-boom-fhd" tvg-logo="https://iptvx.one/picons/sky-high-boom-fhd.png",SKY HIGH BOOM
+#EXTGRP:Фильмы 📽
+https://kino.zunotv.workers.dev/SKY_HIGH_BOOM_FHD/index.m3u8
+
+#EXTINF:-1 tvg-name="SKY HIGH CASE VHS FHD" tvg-id="sky-high-case-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-case-vhs-fhd.png",SKY HIGH CASE VHS
+#EXTGRP:"Фильмы 📽"
+https://kino.zunotv.workers.dev/SKY_HIGH_CASE_VHS_FHD/index.m3u8
+
+#EXTINF:-1 tvg-name="SKY HIGH DOC HD" tvg-id="sky-high-doc-hd" tvg-logo="https://iptvx.one/picons/sky-high-doc-hd.png",SKY HIGH DOC
+#EXTGRP:Фильмы 📽
+https://kino.zunotv.workers.dev/SKY_HIGH_DOC_FHD/index.m3u8
+
+#EXTINF:-1 tvg-name="SKY HIGH FEAR VHS FHD" tvg-id="sky-high-fear-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-fear-vhs-fhd.png",SKY HIGH FEAR VHS
+
+https://kino.zunotv.workers.dev/SKY_HIGH_FEAR_VHS_FHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Кино и сериалы",SKY HIGH JOKE HD
+https://kino.zunotv.workers.dev/SKY_HIGH_JOKE_FHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Кино и сериалы",SKY HIGH LOFI HD
+https://kino.zunotv.workers.dev/SKY_HIGH_LO_FIHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Кино и сериалы",SKY HIGH MEDY VHS HD
+https://kino.zunotv.workers.dev/SKY_HIGH_MEDY_VHS_FHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Кино и сериалы",SKY HIGH RED S HD
+https://kino.zunotv.workers.dev/SKY_HIGH_RED_S_FHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Кино и сериалы",SKY HIGH TEEN HD
+https://kino.zunotv.workers.dev/SKY_HIGH_TEEN_FHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Кино и сериалы",SKY HIGH TOON S HD
+https://kino.zunotv.workers.dev/SKY_HIGH_TOON_S_FHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Кино и сериалы",SKY HIGH WIZZ VHS HD
+https://kino.zunotv.workers.dev/SKY_HIGH_WIZZ_VHS_FHD/index.m3u8
+
 #EXTINF:-1 tvg-shift=0 tvg-name="Start Air" tvg-id="start-air" tvg-anyquality=1 tvg-logo="http://ex.iptvin.ru/pic/2/START-Air-175x175.png" logo="http://epg.one/img2/6241.png",START Air
 #EXTGRP:Фильмы 📽
 http://37.46.49.14:18010/play/a08u/index.m3u8
