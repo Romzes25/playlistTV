@@ -308,6 +308,10 @@ https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8?token=test
 #EXTGRP:Фильмы 📽
 http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/5004/index.m3u8
 
+#EXTINF:-1 tvg-shift=0 tvg-name="Кино Без Границ" tvg-id="kino-bez-granic" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/kino-bez-granic.png",Кино Без Границ
+#EXTGRP:Фильмы 📽
+http://185.57.68.33:8091/237/playlist.m3u8
+
 #EXTINF:-1  tvg-shift=0 tvg-name="Классика Кино" tvg-id="klassika-kino"  tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/klassika-kino.png" ,Классика Кино
 #EXTGRP:Фильмы 📽
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
@@ -516,9 +520,9 @@ http://kinowalk.hopto.org/kinomania_stream_live
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/toxa_stream_live
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Кино Без Границ" tvg-id="kino-bez-granic" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/kino-bez-granic.png",Кино Без Границ
+#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/uzhas-tv.png",УЖАС ТВ
 #EXTGRP:Фильмы 📽
-http://185.57.68.33:8091/237/playlist.m3u8
+https://kino.zunotv.workers.dev/horror_hd/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Феникс+ Кино" tvg-id="feniks-plus-kino" tvg-anyquality=1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино.png",Феникс плюс Кино
 #EXTGRP:Фильмы 📽
@@ -742,6 +746,10 @@ http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/19419/index.m3u8
 #EXTGRP:Фильмы 📽
 http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/19420/index.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/2YZSLqgJ/image-4.png"CherTV Заруба + KinoMix
+#EXTGRP:Фильмы 📽
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
+
 #EXTINF:-1 tvg-shift=0 tvg-name="Cinema" tvg-id="cinema-ru" tvg-anyquality=1 tvg-logo="https://i.imgur.com/sP15Oc9.png" url-scrlogo="https://ct-bank.digitalrussia.tv/files/2023/05/cinetv_3_.svg",Cinema
 #EXTGRP:Фильмы 📽
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -837,6 +845,10 @@ http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/16021/index.m3u8
 #EXTINF:0 tvg-name="FilmBox Russia" tvg-id="filmbox-ru" tvg-logo="http://epg.one/img2/2181.png" tvg-rec="3",FilmBox
 #EXTGRP:Фильмы 📽
 http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/1071/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",FilmOFF
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba65/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/41/58/86/41588635ad796b5237698a0003dbf5e9.jpg",FilmON
 #EXTGRP:Фильмы 📽
@@ -2226,6 +2238,10 @@ http://178.134.1.158:8081/viasatsport/index.m3u8
 #EXTGRP:Спорт ⚽️
 https://tv.a21network.ru/content/37909/index.m3u8
 
+#EXTINF:-1 tvg-name="1авто" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1auto.png",1авто
+#EXTGRP:Спорт ⚽️
+rtmp://vkvsd158.okcdn.ru/playback/10332204051428?stkn=hVx0kn1sfv1eSrGAlIcUsySgZkHrd9_xf3lTnhlbP9v3QWoCIPDZ6tWCko0yGbsh45skapyzpt4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
 
 #EXTINF:-1  tvg-name="CineMan Фитнес" tvg-id="cineman-fitnes" tvg-logo="https://iptvx.one/picons/cineman-fitnes.png",CineMan Фитнес FHD [Проф. Работы]
 #EXTGRP:Фитнес
@@ -2763,6 +2779,14 @@ http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTINF:-1 catchup-days="7" tvg-name="Муз ТВ" tvg-id="muztv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/МузТВ.png",Муз ТВ
 #EXTGRP:Музыка 🔊
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/music-1.png",Музыка 1
+#EXTGRP:Музыка 🔊
+https://rpn3.bozztv.com/dvrfl07/ushba-t1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/music-3.png",Музыка 3
+#EXTGRP:Музыка 🔊
+https://rpn3.bozztv.com/dvrfl07/ushba-t3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="О2ТВ" tvg-id="o2tv" tvg-logo="https://iptvx.one/picons/o2tv.png",О!2
 #EXTGRP:Музыка 🔊
