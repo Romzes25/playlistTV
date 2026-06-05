@@ -2287,7 +2287,7 @@ https://tv.a21network.ru/content/37909/index.m3u8
 rtmp://vkvsd158.okcdn.ru/playback/10332204051428?stkn=hVx0kn1sfv1eSrGAlIcUsySgZkHrd9_xf3lTnhlbP9v3QWoCIPDZ6tWCko0yGbsh45skapyzpt4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 
-#EXTINF:-1  tvg-name="CineMan Фитнес" tvg-id="cineman-fitnes" tvg-logo="https://iptvx.one/picons/cineman-fitnes.png",CineMan Фитнес FHD [Проф. Работы]
+#EXTINF:-1  tvg-name="CineMan Фитнес" tvg-id="cineman-fitnes" tvg-logo="https://iptvx.one/picons/cineman-fitnes.png",CineMan Фитнес FHD
 #EXTGRP:Фитнес
 https://tinyurl.com/aleks-u-romki-47/31629/index.m3u8
 
@@ -2519,7 +2519,7 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 #EXTINF:-1 tvg-name="360° Международный" tvg-id="360-int" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360.png",360
 #EXTGRP:Региональные
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DE5MNN2TXL9QG7/2065/index.m3u8
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
 #EXTINF:-1 tvg-name="360 Новости" tvg-id="360-news" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360новости.png",360 Новости
 #EXTGRP:Региональные;Новостные
@@ -2764,7 +2764,7 @@ http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nntv.tv/_data/objects/0005/4417/icon.png",ННТВ
 http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/соловьёв_live.png",Соловьёв Live [ПТ 🖐]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/соловьёв_live.png",Соловьёв Live
 http://195.26.83.96:7029/play/a003
 
 #EXTINF:-1 tvg-logo="https://optim.tildacdn.com/tild3032-3563-4361-b130-393766626562/-/resize/120x/-/format/webp/logo_galaxy_invert.png",Тайны галактики
