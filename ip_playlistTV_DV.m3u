@@ -2092,10 +2092,6 @@ http://vod.tuva.ru/nauka2/index.m3u8
 #EXTGRP:Познавательные;Хобби
 http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/9286/index.m3u8
 
-#EXTINF:-1 tvg-name="Ocean-TV" tvg-id="ocean-tv" tvg-logo="http://epg.one/img2/55.png",Ocean [НЕ Исправен!]
-#EXTGRP:Познавательные;Природа 🐈
-http://176.96.241.40/Ocean/index.m3u8
-
 #EXTINF:-1 tvg-name="Оружие" channelId="223" tvg-id="oruzhie" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png",Оружие
 #EXTGRP:Хобби;Увлечения
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
@@ -2562,10 +2558,6 @@ http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Своё_ТВ.png",Своё ТВ (Ставрополь)
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мособр.png",Мособр TV [НЕ Исправен!]
-#EXTGRP:Региональные
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мтв_logo.png" url-scrlogo="https://xn--b1ats.xn--80asehdb/img/logo.png",МТВ (Волгоград)
 #EXTGRP:Региональные
