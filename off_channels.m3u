@@ -28,3 +28,11 @@ http://92.63.106.41/ptv/voka/ch.php?id=a7d783af-49ae-4b82-be66-9758bbe677b6
 #EXTINF:-1 tvg-shift=0 tvg-name="ТВ-21M" tvg-id="tv21m" tvg-anyquality=1 tvg-logo="https://iptvx.one/picons/tv21m.png" ,ТВ-21M [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 http://46.53.208.4:80/live/2018.m3u8
+
+#EXTINF:-1 tvg-name="Ocean-TV" tvg-id="ocean-tv" tvg-logo="http://epg.one/img2/55.png",Ocean [НЕ Исправен!]
+#EXTGRP:Познавательные;Природа 🐈
+http://176.96.241.40/Ocean/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мособр.png",Мособр TV [НЕ Исправен!]
+#EXTGRP:Региональные
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
