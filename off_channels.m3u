@@ -36,3 +36,7 @@ http://176.96.241.40/Ocean/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мособр.png",Мособр TV [НЕ Исправен!]
 #EXTGRP:Региональные
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Видеокассета" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",Видеокассета [НЕ Исправен!]
+#EXTGRP:Фильмы 📽;VHS 📼
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
