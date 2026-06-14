@@ -100,3 +100,11 @@ https://kino.zunotv.workers.dev/SKY_HIGH_TOON_S_FHD/index.m3u8
 #EXTINF:-1 tvg-name="SKY HIGH WIZZ VHS FHD" tvg-id="sky-high-wizz-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-wizz-vhs-fhd.png",SKY HIGH WIZZ VHS [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 https://kino.zunotv.workers.dev/SKY_HIGH_WIZZ_VHS_FHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Ратник" tvg-id="ratnik" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ [НЕ Исправен!]
+#EXTGRP:Познавательные;Просветительские
+https://bl.rutube.ru/livestream/13b0320238d7938a2deffb4065068986/index.m3u8?s=TCdbhHiRRuho2AtOrUauCA&e=2073279160&scheme=https
+
+#EXTINF:0 tvg-name="Русская история" tvg-id="rus-istoria" tvg-logo="https://iptvx.one/picons/rus-istoria.png",Русская история [НЕ Исправен!]
+#EXTGRP:Познавательные;История;Фильмы 📽
+http://217.174.229.136:8000/play/a09q
