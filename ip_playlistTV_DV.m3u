@@ -947,7 +947,7 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTGRP:Фильмы 📽
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 tvg-name="IPTVPLAY ФАНТАСТИКА" tvg-id="no_epg_cinema" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/iptvplay_фантастика.png",IPTVPLAY ФАНТАСТИКА [Проф. Работы]
+#EXTINF:-1 tvg-name="IPTVPLAY ФАНТАСТИКА" tvg-id="no_epg_cinema" logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/iptvplay_фантастика.png",IPTVPLAY ФАНТАСТИКА [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 
