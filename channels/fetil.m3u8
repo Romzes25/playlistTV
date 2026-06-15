@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=646043,CODECS="opus,avc1.4d401e,mp4a.40.2",RESOLUTION=640x360,AUDIO="audio"
-https://github.com/Romzes25/playlistTV/raw/refs/heads/master/channels/fetil-1972.m3u8
-https://github.com/Romzes25/playlistTV/raw/refs/heads/master/channels/fetil-1973.m3u8
