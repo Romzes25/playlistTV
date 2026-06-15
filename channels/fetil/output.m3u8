@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:27
+#EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-TARGETDURATION:11
 #EXTINF:-1,
-https://raw.githubusercontent.com/Romzes25/playlistTV/master/channels/fetil/output1.ts
+output1.ts
 #EXTINF:-1,
-https://raw.githubusercontent.com/Romzes25/playlistTV/master/channels/fetil/output2.ts
+output2.ts
 #EXTINF:-1,
-https://raw.githubusercontent.com/Romzes25/playlistTV/master/channels/fetil/output3.ts
+output3.ts
