@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://imgfy.ru/ib/vIKWCTzeu6cdtwQ_1771812627.png",Kino онлайн [НЕ Исправен!]
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://imgfy.ru/ib/vIKWCTzeu6cdtwQ_1771812627.png",Kino онлайн
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/boh_music_live
 
@@ -45,11 +45,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTGRP:Фильмы 📽
 https://kino.zunotv.workers.dev/horror_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",aleksey_24RUS
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",aleksey_24RUS [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/aleksey_24rus_live
 
-#EXTINF:-1 tvg-name="PrizraK PlaY" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/prizrakplay.png",PrizraK PlaY [Проф. Работы]
+#EXTINF:-1 tvg-name="PrizraK PlaY" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/prizrakplay.png",PrizraK PlaY
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/vampiro1965_live
 
