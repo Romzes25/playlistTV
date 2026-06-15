@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:18
+#EXT-X-MEDIA-SEQUENCE:21
 #EXT-X-TARGETDURATION:11
 #EXTINF:-1,
 https://raw.githubusercontent.com/Romzes25/playlistTV/master/channels/fetil/output1.ts
