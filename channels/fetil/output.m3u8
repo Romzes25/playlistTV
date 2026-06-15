@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:15
+#EXT-X-MEDIA-SEQUENCE:18
 #EXTINF:-1,
-output4.ts
+output1.ts
 #EXTINF:-1,
-output5.ts
+output2.ts
 #EXTINF:-1,
-output6.ts
+output3.ts
