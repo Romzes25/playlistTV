@@ -29,7 +29,7 @@ http://46.53.208.4:80/live/2018.m3u8
 #EXTGRP:Познавательные;Природа 🐈
 http://176.96.241.40/Ocean/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мособр.png",Мособр TV [НЕ Исправен!]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мособр.png",Мособр TV
 #EXTGRP:Региональные
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 
@@ -49,51 +49,51 @@ http://kinowalk.hopto.org/aleksey_24rus_live
 #EXTGRP:Фильмы 📽
 https://kino.zunotv.workers.dev/saga_tv_hd/index.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH BOOM FHD" tvg-id="sky-high-boom-fhd" tvg-logo="https://iptvx.one/picons/sky-high-boom-fhd.png",SKY HIGH BOOM [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH BOOM FHD" tvg-id="sky-high-boom-fhd" tvg-logo="https://iptvx.one/picons/sky-high-boom-fhd.png",SKY HIGH BOOM
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_BOOM_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/1536.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH CASE VHS FHD" tvg-id="sky-high-case-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-case-vhs-fhd.png",SKY HIGH CASE VHS [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH CASE VHS FHD" tvg-id="sky-high-case-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-case-vhs-fhd.png",SKY HIGH CASE VHS
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_CASE_VHS_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/2266.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH DOC HD" tvg-id="sky-high-doc-hd" tvg-logo="https://iptvx.one/picons/sky-high-doc-hd.png",SKY HIGH DOC [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH DOC HD" tvg-id="sky-high-doc-hd" tvg-logo="https://iptvx.one/picons/sky-high-doc-hd.png",SKY HIGH DOC
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_DOC_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/1538.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH FEAR VHS FHD" tvg-id="sky-high-fear-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-fear-vhs-fhd.png",SKY HIGH FEAR VHS [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH FEAR VHS FHD" tvg-id="sky-high-fear-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-fear-vhs-fhd.png",SKY HIGH FEAR VHS
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_FEAR_VHS_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/1513.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH JOKE FHD" tvg-id="sky-high-joke-fhd" tvg-logo="https://iptvx.one/picons/sky-high-joke-fhd.png",SKY HIGH JOKE [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH JOKE FHD" tvg-id="sky-high-joke-fhd" tvg-logo="https://iptvx.one/picons/sky-high-joke-fhd.png",SKY HIGH JOKE
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_JOKE_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/2270.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH LOFI FHD" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/sky-high.jpg",SKY HIGH LOFI [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH LOFI FHD" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/sky-high.jpg",SKY HIGH LOFI
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_LO_FIHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/1543.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH MEDY VHS FHD" tvg-id="sky-high-medy-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-joke-fhd.png",SKY HIGH MEDY VHS [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH MEDY VHS FHD" tvg-id="sky-high-medy-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-joke-fhd.png",SKY HIGH MEDY VHS
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_MEDY_VHS_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/2271.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH RED S FHD" tvg-id="sky-high-red-s-fhd" tvg-logo="https://iptvx.one/picons/sky-high-red-s-fhd.png",SKY HIGH RED S [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH RED S FHD" tvg-id="sky-high-red-s-fhd" tvg-logo="https://iptvx.one/picons/sky-high-red-s-fhd.png",SKY HIGH RED S
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_RED_S_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/2273.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH TEEN FHD" tvg-id="sky-high-teen-fhd" tvg-logo="https://iptvx.one/picons/sky-high-teen-fhd.png",SKY HIGH TEEN [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH TEEN FHD" tvg-id="sky-high-teen-fhd" tvg-logo="https://iptvx.one/picons/sky-high-teen-fhd.png",SKY HIGH TEEN
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_TEEN_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/1535.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH TOON S FHD" tvg-id="sky-high-toon-s-fhd" tvg-logo="https://iptvx.one/picons/sky-high-toon-s-fhd.png",SKY HIGH TOON S [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH TOON S FHD" tvg-id="sky-high-toon-s-fhd" tvg-logo="https://iptvx.one/picons/sky-high-toon-s-fhd.png",SKY HIGH TOON S
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_TOON_S_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/1533.m3u8
 
 #EXTINF:-1 tvg-name="SKY HIGH WIZZ VHS FHD" tvg-id="sky-high-wizz-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-wizz-vhs-fhd.png",SKY HIGH WIZZ VHS [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 https://kino.zunotv.workers.dev/SKY_HIGH_WIZZ_VHS_FHD/index.m3u8
 
-#EXTINF:-1 tvg-name="Ратник" tvg-id="ratnik" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ
+#EXTINF:-1 tvg-name="Ратник" tvg-id="ratnik" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ [Проф. Работы]
 #EXTGRP:Познавательные;Просветительские
 https://bl.rutube.ru/livestream/13b0320238d7938a2deffb4065068986/index.m3u8?s=TCdbhHiRRuho2AtOrUauCA&e=2073279160&scheme=https
 
