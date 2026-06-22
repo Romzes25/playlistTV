@@ -41,7 +41,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DE5MNN2TXL9QG7/15341/ind
 #EXTGRP:Федеральный
 http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/15342/index.m3u8
 
-#EXTINF:-1 tvg-shift=0 channel-number=11 tvg-name="Рен ТВ (+7)" tvg-id="rentv-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/РЕНТВ+7.png",РЕН ТВ (+7)
+#EXTINF:-1 tvg-shift=0 channel-number=11 tvg-name="Рен ТВ (+7)" tvg-id="rentv-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/РЕНТВ+7.png",РЕН ТВ (+7) [Проф. Работы]
 #EXTGRP:Федеральный
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 
@@ -2119,6 +2119,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/16139/ind
 #EXTINF:-1 tvg-name="ZooПарк" tvg-id="zoopark" tvg-logo="http://epg.one/img2/367.png",ZooПарк
 #EXTGRP:Познавательные;Природа 🐈
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="1MED TV" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/1med-tv.png",1MED TV
+#EXTGRP:Познавательные
+https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 
 
 
