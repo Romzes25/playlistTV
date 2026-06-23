@@ -124,3 +124,139 @@ https://liveplay.trovo.live/live/73846_117149913_117149913.flv?bizid=73846&txSec
 #EXTINF:-1 tvg-name="Ключайка" tvg-id="no_epg_mult" tvg-logo="https://pic.rutubelist.ru/video/2025-12-19/56/cf/56cf3398388a803e6595c3c5dceb4fd8.jpg?width=500",Ключайка [НЕ Исправен!]
 #EXTGRP:Мультфильмы
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=DyOmRMSq46ELFkVRYKsHBw&e=2073993388&scheme=https
+
+#EXTINF:-1 tvg-name="Cinema Test" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cinema_test.png",Cinema Test [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+
+#EXTINF:-1 tvg-name="Cinemator" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cinemator.png",Cinemator [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+https://tinyurl.com/TvZaTak09/ushba-films-p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",FilmOFF [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba65/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/41/58/86/41588635ad796b5237698a0003dbf5e9.jpg",FilmON [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+
+#EXTINF:-1 tvg-name="Film Visit" tvg-id="no_epg_cinema" tvg-logo="https://www.giniko.com/logos/190x110/1578.jpg",Film Visit [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://imgfy.ru/ib/vIKWCTzeu6cdtwQ_1771812627.png",Kino онлайн [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/boh_music_live
+
+#EXTINF:-1 tvg-shift=0 tvg-name="KINO зал" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал.png",KINO зал [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="KinoBar" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kinobar.png",KinoBar [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
+#EXTINF:-1 tvg-name="KINO FILE" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino-file.png",KINO FILE [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba99/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Logovo Films" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",Logovo Films [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+https://rpn3.bozztv.com/dvrfl07/ushba-films-a/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Маша и Медведь (Eng)" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/маша_и_медведь.png",Маша и Медведь (Eng) [НЕ Исправен!]
+#EXTGRP:Мультфильмы
+https://live20.bozztv.com/giatvplayout7/ushba78/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" "https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/anegdot.png",Анекдоты [НЕ Исправен!]
+#EXTGRP:Развлекательные;Юмор
+https://rpn3.bozztv.com/dvrfl07/ushba81/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://img.razrisyika.ru/kart/20/1200/76229-eralash-32.jpg",Ералаш [НЕ Исправен!]
+#EXTGRP:Развлекательные;Юмор
+https://rpn3.bozztv.com/dvrfl07/ushba10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Gameplay" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/gameplay.jpg",Gameplay [НЕ Исправен!]
+#EXTGRP:Развлекательные;Видео игры;Хобби
+http://tinyurl.com/TvZaTak20/ushba31/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ратник" tvg-id="ratnik" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ [НЕ Исправен!]
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/13b0320238d7938a2deffb4065068986/index.m3u8?s=TCdbhHiRRuho2AtOrUauCA&e=2073279160&scheme=https
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/star_media.png",Star Media [НЕ Исправен!]
+#EXTGRP:Документально-познавательный
+http://162.212.179.43/ushba4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/music-1.png",Музыка 1 [НЕ Исправен!]
+#EXTGRP:Музыка 🔊
+https://rpn3.bozztv.com/dvrfl07/ushba-t1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/music-3.png",Музыка 3 [НЕ Исправен!]
+#EXTGRP:Музыка 🔊
+https://rpn3.bozztv.com/dvrfl07/ushba-t3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_3.png",Кинозалы 3 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_3.png",Кинозалы 6 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://tinyurl.com/TvZaTak20/ushba-films-c/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_5.png",Кинозалы 5 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-films-b/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_7.png",Кинозалы 7 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-films-d/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_9.png",Кинозалы 9 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://tinyurl.com/TvZaTak20/ushba-films-f/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_10.png",Кинозалы 10 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-films-g/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_13.png",Кинозалы 13 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://tinyurl.com/TvZaTak20/ushba-films-j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_16.png",Кинозалы 16 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-films-t/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_17.png",Кинозалы 17 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-films-yz/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_19.png",Кинозалы 19 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-films-qr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_20.png",Кинозалы 20 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://tinyurl.com/TvZaTak20/ushba-films-uv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_21.png",Кинозалы 21 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-films-o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_22.png",Кинозалы 22 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://tinyurl.com/TvZaTak20/ushba-films-s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_23.png",Кинозалы 23 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-films-w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_34.png",Кинозалы 34 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_36.png",Кинозалы 36 [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://tinyurl.com/TvZaTak20/ushba64/index.m3u8
