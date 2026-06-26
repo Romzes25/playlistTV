@@ -29,7 +29,7 @@ http://46.53.208.4:80/live/2018.m3u8
 #EXTGRP:Познавательные;Природа 🐈
 http://176.96.241.40/Ocean/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мособр.png",Мособр TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мособр.png",Мособр TV [Проф. Работы]
 #EXTGRP:Региональные
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 
@@ -41,7 +41,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTGRP:Фильмы 📽
 https://kino.zunotv.workers.dev/horror_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",aleksey_24RUS [Проф. Работы]
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",aleksey_24RUS [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/aleksey_24rus_live
 
@@ -57,11 +57,11 @@ http://cdntv.online/high/6j95s4drt3/1536.m3u8
 #EXTGRP:Фильмы 📽
 http://cdntv.online/high/6j95s4drt3/2266.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH DOC HD" tvg-id="sky-high-doc-hd" tvg-logo="https://iptvx.one/picons/sky-high-doc-hd.png",SKY HIGH DOC [Проф. Работы]
+#EXTINF:-1 tvg-name="SKY HIGH DOC HD" tvg-id="sky-high-doc-hd" tvg-logo="https://iptvx.one/picons/sky-high-doc-hd.png",SKY HIGH DOC
 #EXTGRP:Фильмы 📽
 http://cdntv.online/high/6j95s4drt3/1538.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH FEAR VHS FHD" tvg-id="sky-high-fear-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-fear-vhs-fhd.png",SKY HIGH FEAR VHS [Проф. Работы]
+#EXTINF:-1 tvg-name="SKY HIGH FEAR VHS FHD" tvg-id="sky-high-fear-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-fear-vhs-fhd.png",SKY HIGH FEAR VHS
 #EXTGRP:Фильмы 📽
 http://cdntv.online/high/6j95s4drt3/1513.m3u8
 
@@ -89,9 +89,9 @@ http://cdntv.online/high/6j95s4drt3/1535.m3u8
 #EXTGRP:Фильмы 📽
 http://cdntv.online/high/6j95s4drt3/1533.m3u8
 
-#EXTINF:-1 tvg-name="SKY HIGH WIZZ VHS FHD" tvg-id="sky-high-wizz-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-wizz-vhs-fhd.png",SKY HIGH WIZZ VHS [НЕ Исправен!]
+#EXTINF:-1 tvg-name="SKY HIGH WIZZ VHS FHD" tvg-id="sky-high-wizz-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-wizz-vhs-fhd.png",SKY HIGH WIZZ VHS
 #EXTGRP:Фильмы 📽
-https://kino.zunotv.workers.dev/SKY_HIGH_WIZZ_VHS_FHD/index.m3u8
+http://cdntv.online/high/6j95s4drt3/2275.m3u8
 
 #EXTINF:-1 tvg-name="Ратник" tvg-id="ratnik" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ [НЕ Исправен!]
 #EXTGRP:Познавательные;Просветительские
@@ -125,7 +125,7 @@ https://liveplay.trovo.live/live/73846_117149913_117149913.flv?bizid=73846&txSec
 #EXTGRP:Мультфильмы
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=DyOmRMSq46ELFkVRYKsHBw&e=2073993388&scheme=https
 
-#EXTINF:-1 tvg-name="Cinema Test" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cinema_test.png",Cinema Test [НЕ Исправен!]
+#EXTINF:-1 tvg-name="Cinema Test" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/cinema_test.png",Cinema Test
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 
@@ -133,11 +133,11 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTGRP:Фильмы 📽
 https://tinyurl.com/TvZaTak09/ushba-films-p/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",FilmOFF [НЕ Исправен!]
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",FilmOFF
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba65/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/41/58/86/41588635ad796b5237698a0003dbf5e9.jpg",FilmON [НЕ Исправен!]
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/41/58/86/41588635ad796b5237698a0003dbf5e9.jpg",FilmON
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 
@@ -145,11 +145,11 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTGRP:Фильмы 📽
 https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://imgfy.ru/ib/vIKWCTzeu6cdtwQ_1771812627.png",Kino онлайн [НЕ Исправен!]
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://imgfy.ru/ib/vIKWCTzeu6cdtwQ_1771812627.png",Kino онлайн
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/boh_music_live
 
-#EXTINF:-1 tvg-shift=0 tvg-name="KINO зал" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал.png",KINO зал [НЕ Исправен!]
+#EXTINF:-1 tvg-shift=0 tvg-name="KINO зал" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал.png",KINO зал
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 
@@ -165,11 +165,11 @@ https://rpn3.bozztv.com/dvrfl07/ushba99/tracks-v1a1/mono.ts.m3u8
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba-films-a/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Маша и Медведь (Eng)" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/маша_и_медведь.png",Маша и Медведь (Eng) [НЕ Исправен!]
+#EXTINF:-1 tvg-name="Маша и Медведь (Eng)" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/маша_и_медведь.png",Маша и Медведь (Eng)
 #EXTGRP:Мультфильмы
 https://live20.bozztv.com/giatvplayout7/ushba78/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" "https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/anegdot.png",Анекдоты [НЕ Исправен!]
+#EXTINF:-1 tvg-id="no_epg" "https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/anegdot.png",Анекдоты
 #EXTGRP:Развлекательные;Юмор
 https://rpn3.bozztv.com/dvrfl07/ushba81/tracks-v1a1/mono.m3u8
 
@@ -189,11 +189,11 @@ https://bl.rutube.ru/livestream/13b0320238d7938a2deffb4065068986/index.m3u8?s=TC
 #EXTGRP:Документально-познавательный
 http://162.212.179.43/ushba4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/music-1.png",Музыка 1 [НЕ Исправен!]
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/music-1.png",Музыка 1
 #EXTGRP:Музыка 🔊
 https://rpn3.bozztv.com/dvrfl07/ushba-t1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/music-3.png",Музыка 3 [НЕ Исправен!]
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/music-3.png",Музыка 3
 #EXTGRP:Музыка 🔊
 https://rpn3.bozztv.com/dvrfl07/ushba-t3/tracks-v1a1/mono.m3u8
 
