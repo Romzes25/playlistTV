@@ -3,13 +3,13 @@
 
 #EXTINF:-1 tvg-shift=0 channel-number=1 tvg-name="Первый канал (+7)" tvg-id="pervy-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/первый.gif",Первый канал (+7)
 #EXTGRP:Федеральный
-http://9cb86d86.ottclub.xyz/iptv/ZLSY2ZMNQ5CQ87V9TWZNKU5L/15333/index.m3u8
+http://tqw3yctd.ottclub.xyz/iptv/HHUDGU7E3N2U55YMS69GAK8H/15333/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=2 tvg-id="rossia1-pl7" tvg-name="Россия 1 (+7)" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/россия1.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-one.svg",Россия 1 (+7)
 #EXTGRP:Федеральный
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/track_105_745114e5/chunklist.m3u8
 
-#EXTINF:-1 tvg-shift=0 channel-number=3  tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7)
+#EXTINF:-1 tvg-shift=0 channel-number=3  tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7) [Проф. Работы]
 #EXTGRP:Спорт ⚽️
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/15335/index.m3u8
 
