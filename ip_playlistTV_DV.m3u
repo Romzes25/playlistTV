@@ -260,6 +260,42 @@ http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/912/index.m3u8
 #EXTGRP:Фильмы 📽
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/14033/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_3.png",Кинозалы 3
+#EXTGRP:Фильмы 📽
+https://lbgo.bozztv.com/07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_3.png",Кинозалы 6
+#EXTGRP:Фильмы 📽
+https://lbgo.bozztv.com/07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_5.png",Кинозалы 5
+#EXTGRP:Фильмы 📽
+https://lbgo.bozztv.com/07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_7.png",Кинозалы 7
+#EXTGRP:Фильмы 📽
+https://lbgo.bozztv.com/07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_9.png",Кинозалы 9
+#EXTGRP:Фильмы 📽
+https://lbgo.bozztv.com/07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_10.png",Кинозалы 10
+#EXTGRP:Фильмы 📽
+https://lbgo.bozztv.com/07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_13.png",Кинозалы 13
+#EXTGRP:Фильмы 📽
+https://lbgo.bozztv.com/07/ushba64/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_34.png",Кинозалы 34
+#EXTGRP:Фильмы 📽
+http://162.212.179.43/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_36.png",Кинозалы 36
+#EXTGRP:Фильмы 📽
+http://tinyurl.com/TvZaTak20/ushba64/index.m3u8
+
 #EXTINF:0 tvg-shift=0 tvg-name="Любимое HD" tvg-id="nashe-lubimoe-hd" tvg-anyquality=0 tvg-logo="http://epg.one/img2/2509.png",Любимое HD
 #EXTGRP:Фильмы 📽
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/915/index.m3u8
@@ -455,10 +491,6 @@ http://kinowalk.hopto.org/toxa_stream_live
 #EXTINF:-1 tvg-shift=0 tvg-name="Феникс+ Кино" tvg-id="feniks-plus-kino" tvg-anyquality=1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино.png",Феникс плюс Кино
 #EXTGRP:Фильмы 📽
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
-
-#EXTINF:-1 tvg-shift=0 tvg-name="Хит" tvg-id="khit" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://woobl.ru/op/YTJWdWRESXlOalkyTWpKQWJXRnBiQzV5ZFE9PQ/974.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Хит HD" tvg-id="khit-hd" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD
 #EXTGRP:Фильмы 📽
@@ -783,10 +815,6 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTGRP:Фильмы 📽
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/10060/index.m3u8
 
-#EXTINF:-1 tvg-name="FMC" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fantasticmistyc.jpg",FMC [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
 #EXTINF:-1  tvg-name="Fresh Adventure" tvg-id="fresh-adventure" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_adventure.png",Fresh Adventure
 #EXTGRP:Фильмы 📽
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/19297/index.m3u8
@@ -1082,50 +1110,6 @@ http://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 tvg-shift=0 tvg-name="Shot TV" tvg-id="shot-tv" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/shot_tv_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/shot_tv.png",SHOT TV
 #EXTGRP:Фильмы 📽
 http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/9347/index.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH BOOM FHD" tvg-id="sky-high-boom-fhd" tvg-logo="https://iptvx.one/picons/sky-high-boom-fhd.png",SKY HIGH BOOM [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/1536.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH CASE VHS FHD" tvg-id="sky-high-case-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-case-vhs-fhd.png",SKY HIGH CASE VHS [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/2266.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH DOC HD" tvg-id="sky-high-doc-hd" tvg-logo="https://iptvx.one/picons/sky-high-doc-hd.png",SKY HIGH DOC [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/1538.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH FEAR VHS FHD" tvg-id="sky-high-fear-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-fear-vhs-fhd.png",SKY HIGH FEAR VHS [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/1513.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH JOKE FHD" tvg-id="sky-high-joke-fhd" tvg-logo="https://iptvx.one/picons/sky-high-joke-fhd.png",SKY HIGH JOKE [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/2270.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH LOFI FHD" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/sky-high.jpg",SKY HIGH LOFI [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/1543.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH MEDY VHS FHD" tvg-id="sky-high-medy-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-joke-fhd.png",SKY HIGH MEDY VHS [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/2271.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH RED S FHD" tvg-id="sky-high-red-s-fhd" tvg-logo="https://iptvx.one/picons/sky-high-red-s-fhd.png",SKY HIGH RED S [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/2273.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH TEEN FHD" tvg-id="sky-high-teen-fhd" tvg-logo="https://iptvx.one/picons/sky-high-teen-fhd.png",SKY HIGH TEEN [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/1535.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH TOON S FHD" tvg-id="sky-high-toon-s-fhd" tvg-logo="https://iptvx.one/picons/sky-high-toon-s-fhd.png",SKY HIGH TOON S [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/1533.m3u8
-
-#EXTINF:-1 tvg-name="SKY HIGH WIZZ VHS FHD" tvg-id="sky-high-wizz-vhs-fhd" tvg-logo="https://iptvx.one/picons/sky-high-wizz-vhs-fhd.png",SKY HIGH WIZZ VHS [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://cdntv.online/high/6j95s4drt3/2275.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Start Air" tvg-id="start-air" tvg-anyquality=1 tvg-logo="http://ex.iptvin.ru/pic/2/START-Air-175x175.png" logo="http://epg.one/img2/6241.png",START Air
 #EXTGRP:Фильмы 📽
@@ -1451,10 +1435,6 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/15140/index.m3u8
 #EXTGRP:Фильмы 📽
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/15142/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/zs-media.png",ZS Media [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://kinowalk.hopto.org/zsmedia_live
-
 #EXTINF:-1 tvg-name=".black" tvg-id="sony-turbo" tvg-logo="https://sun9-79.userapi.com/impg/fGV06RHIJ436HtVTARu5TBSSVzXJiQPxbSqy3Q/cPqfSuzSp5o.jpg?size=856x856&quality=95&sign=b03ea6ddb1e465c42c75a8d225763400&type=album",.Black
 #EXTGRP:Фильмы 📽
 http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
@@ -1527,14 +1507,6 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="Мульт и Музыка" tvg-id="multimuzyka" tvg-logo="http://epg.one/img2/284.png" tvg-rec="7",Мульт и музыка
 #EXTGRP:Детские
 http://31.148.48.15:80/Multimuzika/index.m3u8
-
-#EXTINF:-1 tvg-name="Мульт Развивайка" tvg-id="no_epg_mult" tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb",Мульт Развивайка [НЕ Исправен!]
-#EXTGRP:Детские
-rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
-#EXTINF:-1 tvg-name="Мультфильмы 24/7" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мультфильмы.png",Мультфильмы 24/7 [НЕ Исправен!]
-#EXTGRP:Мультфильмы
-http://kinowalk.hopto.org/mezontrop_live
 
 #EXTINF:-1 tvg-name="Пингвин Лоло" tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин
 #EXTGRP:Мультфильмы
@@ -2417,10 +2389,6 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/19380/index.m3u8
 #EXTGRP:Региональные
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV PRO" tvg-id="no_epg_news" tvg-logo="http://tvpro-online.ru/images/logo.png",TV PRO [НЕ Исправен!]
-#EXTGRP:Региональные;Просветительские
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-
 #EXTINF:-1 tvg-name="360° Международный" tvg-id="360-int" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/360.png",360
 #EXTGRP:Региональные
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
@@ -2751,10 +2719,6 @@ http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Bridge TV Classic" tvg-id="bridge-tv-classic" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_classic.png",Bridge TV Classic
 #EXTGRP:Музыка 🔊
 http://5.188.159.128:8070/Bridge_TV_Classic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Bridge TV Deluxe" tvg-id="bridge-hd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_deluxe.png",Bridge TV Deluxe [НЕ Исправен!]
-#EXTGRP:Музыка 🔊
-http://89.218.32.179:18000/play/a02m
 
 #EXTINF:-1 tvg-name="Bridge TV Шлягер" tvg-id="bridge-tv-shlager" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_шлягер.png",Bridge TV Шлягер
 #EXTGRP:Музыка 🔊
