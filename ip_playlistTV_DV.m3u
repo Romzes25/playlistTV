@@ -488,6 +488,10 @@ http://kinowalk.hopto.org/kinomania_stream_live
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/toxa_stream_live
 
+#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/uzhas-tv.png",УЖАС ТВ
+#EXTGRP:Фильмы 📽
+http://ottlinks.club/hls/z4pevuh5d9/1492.m3u8
+
 #EXTINF:-1 tvg-shift=0 tvg-name="Феникс+ Кино" tvg-id="feniks-plus-kino" tvg-anyquality=1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино.png",Феникс плюс Кино
 #EXTGRP:Фильмы 📽
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
@@ -2003,6 +2007,10 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/2336/index.m3u8
 #EXTINF:-1 tvg-name="Retrovision Motor" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Motor
 #EXTGRP:Познавательные;Документальные
 http://162.212.179.43/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/star_media.png",Star Media
+#EXTGRP:Документально-познавательный
+http://ua.online24.pm/play/15053/37C481E09158DA0/video.m3u8
 
 #EXTINF:-1 tvg-name="TV BRICS" tvg-id="tv-brics" url-scrlogo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/TV_BRICS_logo.png",TV BRICS
 #EXTGRP:Познавательные;Общественные;Хобби
