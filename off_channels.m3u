@@ -37,10 +37,6 @@ http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTGRP:Фильмы 📽;VHS 📼
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 
-#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/uzhas-tv.png",УЖАС ТВ
-#EXTGRP:Фильмы 📽
-http://ottlinks.club/hls/z4pevuh5d9/1492.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",aleksey_24RUS [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/aleksey_24rus_live
@@ -112,10 +108,6 @@ http://tinyurl.com/TvZaTak20/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ратник" tvg-id="ratnik" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Ратник.png",Ратник ТВ [НЕ Исправен!]
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/13b0320238d7938a2deffb4065068986/index.m3u8?s=TCdbhHiRRuho2AtOrUauCA&e=2073279160&scheme=https
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/star_media.png",Star Media
-#EXTGRP:Документально-познавательный
-http://ua.online24.pm/play/15053/37C481E09158DA0/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал_16.png",Кинозалы 16 [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
