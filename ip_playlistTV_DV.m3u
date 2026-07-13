@@ -1067,10 +1067,6 @@ http://46.32.176.50/paramountchannel/index.m3u8
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/vampiro1965_live
 
-#EXTINF:-1 tvg-shift=0 tvg-name="PRO100" tvg-id="pro100" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/pro100_tv.png",Pro100 TV [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Retrovision Кинопанорама" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Кинопанорама
 #EXTGRP:Фильмы 📽
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
@@ -1158,10 +1154,6 @@ http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 tvg-shift=0 tvg-name="Ultra HD Cinema" tvg-id="ultra-hd-cinema" tvg-anyquality=1 tvg-logo="http://epg.one/img2/2743.png" tvg-rec="3",Ultra HD Cinema
 #EXTGRP:Фильмы 📽
 http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/4000/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/ZpRXL3jP/image-4.png",VB Всё в одном [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-rtmp://vkvsd211.okcdn.ru/playback/10851904072503?stkn=vuFWuALgx71Me_ImIyokT79ubnoxRPa5tX13N_kAoYvrXqqzlbVswhiDCtHEigaPYfKql22Cb_Ze&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:0 tvg-shift=0 tvg-name="VF Без цензуры" tvg-id="vf-bezcenzury" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/6160.png" tvg-rec="0",VF Без цензуры
 #EXTGRP:Фильмы 📽
@@ -1359,6 +1351,10 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/31931/index.m3u8
 #EXTGRP:Фильмы 📽;VHS 📼
 http://kinowalk.hopto.org/vhs-forever_live
 
+#EXTINF:0 tvg-name="Viasat Kino" tvg-id="tv1000-cee" tvg-logo="https://iptvx.one/picons/tv1000-cee.png",Viasat Kino
+#EXTGRP:Фильмы 📽
+http://bpl.online24.pm/play/488/75BA4FC1CA5013E/video.m3u8
+
 #EXTINF:0 tvg-name="Viasat Kino Action" tvg-id="tv1000-action-cee" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viasat_kino_action.png" tvg-rec="0",Viasat Kino Action
 #EXTGRP:Фильмы 📽
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/12024/index.m3u8
@@ -1367,13 +1363,13 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/12024/index.m3u8
 #EXTGRP:Фильмы 📽
 http://ukr2.ukrainske.tv/493/video.m3u8
 
+#EXTINF:0 tvg-name="Viasat Kino World" tvg-id="tv1000-worldkino" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png",Viasat Kino World
+#EXTGRP:Фильмы 📽
+http://bpl.online24.pm/play/9987/75BA4FC1CA5013E/video.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/video_arsenal.png",Video Arsenal
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/videoarsenal_live
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",Video Channel [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://kinowalk.hopto.org/video_channel_live
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",Video_Prokat
 #EXTGRP:Фильмы 📽
@@ -1484,10 +1480,6 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/20009/index.m3u8
 #EXTGRP:Мультфильмы
 http://tinyurl.com/%74%76%7A%61%74%61%6B05/1244/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Мамонтенок ТВ" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мамонтенок_тв.png",Мамонтенок ТВ [НЕ Исправен!]
-#EXTGRP:Детские
-https://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Маша и Медведь (Eng)" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/маша_и_медведь.png",Маша и Медведь (Eng)
 #EXTGRP:Мультфильмы
 https://live20.bozztv.com/giatvplayout7/ushba78/tracks-v1a1/mono.ts.m3u8
@@ -1512,7 +1504,7 @@ http://api.peers.tv/timeshift/multimania/126/playlist.m3u8?token=eyJhbGciOiJIUzI
 #EXTGRP:Детские
 http://31.148.48.15:80/Multimuzika/index.m3u8
 
-#EXTINF:-1 tvg-name="Пингвин Лоло" tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин [НЕ Исправен!]
+#EXTINF:-1 tvg-name="Пингвин Лоло" tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин
 #EXTGRP:Мультфильмы
 http://85.192.10.131/hls/pingvinru/playlist.m3u8
 
@@ -2639,9 +2631,6 @@ http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nntv.tv/_data/objects/0005/4417/icon.png",ННТВ
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/соловьёв_live.png",Соловьёв Live [НЕ Исправен!]
-http://195.26.83.96:7029/play/a003
 
 #EXTINF:-1 tvg-logo="https://optim.tildacdn.com/tild3032-3563-4361-b130-393766626562/-/resize/120x/-/format/webp/logo_galaxy_invert.png",Тайны галактики
 #EXTGRP:Познавательные
