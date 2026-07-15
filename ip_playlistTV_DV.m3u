@@ -635,6 +635,10 @@ http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/11045/index.m3u8
 #EXTGRP:Фильмы 📽;VHS 📼
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/11042/index.m3u8
 
+#EXTINF:-1 tvg-name="Blockbusters Time" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://kinowalk.hopto.org/web/image/126/128x128?unique=2026-02-20%2001:57:49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa",Blockbusters Time
+#EXTGRP:Фильмы 📽
+https://kinowalk.hopto.org/blockbusterstime_live
+
 #EXTINF:-1 tvg-shift=0 tvg-name="Bollywood" tvg-id="bollywood-hd" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bollywood.png",Bollywood
 #EXTGRP:Фильмы 📽
 http://176.118.197.101/Bollywood_HD/index.m3u8
@@ -770,6 +774,10 @@ https://tinyurl.com/aleks-u-romki-47/16051/index.m3u8
 #EXTINF:-1 tvg-name="DetectiveJam" tvg-id="detectivejam" tvg-logo="http://tv.kubtel.ru/tv_icon/detective-jam.png",DetectiveJam
 #EXTGRP:Фильмы 📽
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/20209/index.m3u8
+
+#EXTINF:-1 tvg-name="DimponHD" tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/128/128x128?unique=2026-02-20%2001:57:49.533570&access_token=e9fa9465-b97c-4a84-ae98-6ae20f110833",DimponHD [No 24/7]
+#EXTGRP:Фильмы 📽
+https://kinowalk.hopto.org/dimpon_live
 
 #EXTINF:-1 tvg-name="Dunyo boylab" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/dunyo_boylab.png",Dunyo boylab
 #EXTGRP:Фильмы 📽
@@ -919,7 +927,11 @@ http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/7261/index.m3u8
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/yurich_kinomix_live
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Kino Walk" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino_walk.png",Kino Walk
+#EXTINF:-1 tvg-name="kinolampa" tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/129/128x128?unique=2026-02-20%2001:57:49.533570&access_token=0064eb47-e70b-4d33-81b1-84bd304fb41b",kinolampa
+#EXTGRP:Фильмы 📽
+https://kinowalk.hopto.org/kinolampa_live
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Kino Walk" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino_walk.png",Kinowalk_tv
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/kinowalk_live
 
