@@ -85,10 +85,6 @@ https://tinyurl.com/TvZaTak09/ushba-films-p/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы 📽
 https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="KinoBar" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kinobar.png",KinoBar
-#EXTGRP:Фильмы 📽
-rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
 #EXTINF:-1 tvg-name="KINO FILE" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino-file.png",KINO FILE [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba99/tracks-v1a1/mono.ts.m3u8
@@ -205,10 +201,6 @@ http://89.218.32.179:18000/play/a02m
 #EXTGRP:Фильмы 📽
 http://woobl.ru/op/YTJWdWRESXlOalkyTWpKQWJXRnBiQzV5ZFE9PQ/974.m3u8
 
-#EXTINF:-1 tvg-name="FMC" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fantasticmistyc.jpg",FMC
-#EXTGRP:Фильмы 📽
-rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/соловьёв_live.png",Соловьёв Live [НЕ Исправен!]
 http://195.26.83.96:7029/play/a003
 
@@ -220,10 +212,26 @@ http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 #EXTGRP:Фильмы 📽
 rtmp://vkvsd211.okcdn.ru/playback/10851904072503?stkn=vuFWuALgx71Me_ImIyokT79ubnoxRPa5tX13N_kAoYvrXqqzlbVswhiDCtHEigaPYfKql22Cb_Ze&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",Video Channel
-#EXTGRP:Фильмы 📽
-http://kinowalk.hopto.org/video_channel_live
-
 #EXTINF:-1 tvg-name="Мамонтенок ТВ" tvg-id="no_epg_mult" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мамонтенок_тв.png",Мамонтенок ТВ [НЕ Исправен!]
 #EXTGRP:Детские
 https://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="312 Кино" tvg-id="312-kino" tvg-logo="http://312tv.kg/pic/thumb.png",312 Kino [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Пингвин Лоло" tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин [НЕ Исправен!]
+#EXTGRP:Мультфильмы
+http://85.192.10.131/hls/pingvinru/playlist.m3u8
+
+#EXTINF:-1 tvg-name="8 канал Международный" tvg-id="8kanal-eu" tvg-logo="http://8tv.ru/images/logo.png",8 Канал Европа [НЕ Исправен!]
+#EXTGRP:Развлекательные
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+
+#EXTINF:-1 tvg-name="312" tvg-id="312" tvg-logo="http://312tv.kg/pic/thumb.png",312 [НЕ Исправен!]
+#EXTGRP:Развлекательные
+http://176.126.166.43:1935/live/312musik/chunklist_w1718714939.m3u8
+
+#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/uzhas-tv.png",УЖАС ТВ [НЕ Исправен!]
+#EXTGRP:Фильмы 📽
+http://ottlinks.club/hls/z4pevuh5d9/1492.m3u8
