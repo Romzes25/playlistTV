@@ -488,10 +488,6 @@ http://kinowalk.hopto.org/kinomania_stream_live
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/toxa_stream_live
 
-#EXTINF:-1 tvg-id="horrortv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/uzhas-tv.png",УЖАС ТВ [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://ottlinks.club/hls/z4pevuh5d9/1492.m3u8
-
 #EXTINF:-1 tvg-shift=0 tvg-name="Феникс+ Кино" tvg-id="feniks-plus-kino" tvg-anyquality=1 logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино_logo.png" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/феникс_плюс_кино.png",Феникс плюс Кино
 #EXTGRP:Фильмы 📽
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
@@ -775,7 +771,7 @@ https://tinyurl.com/aleks-u-romki-47/16051/index.m3u8
 #EXTGRP:Фильмы 📽
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/20209/index.m3u8
 
-#EXTINF:-1 tvg-name="DimponHD" tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/128/128x128?unique=2026-02-20%2001:57:49.533570&access_token=e9fa9465-b97c-4a84-ae98-6ae20f110833",DimponHD [No 24/7] [НЕ Исправен!]
+#EXTINF:-1 tvg-name="DimponHD" tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/128/128x128?unique=2026-02-20%2001:57:49.533570&access_token=e9fa9465-b97c-4a84-ae98-6ae20f110833",DimponHD [No 24/7]
 #EXTGRP:Фильмы 📽
 https://kinowalk.hopto.org/dimpon_live
 
@@ -826,6 +822,10 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTINF:0 tvg-name="FlixSnip" tvg-id="flixsnip" tvg-logo="http://epg.one/img2/774.png",FlixSnip
 #EXTGRP:Фильмы 📽
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/10060/index.m3u8
+
+#EXTINF:-1 tvg-name="FMC" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fantasticmistyc.jpg",FMC
+#EXTGRP:Фильмы 📽
+rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1  tvg-name="Fresh Adventure" tvg-id="fresh-adventure" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/fresh_adventure.png",Fresh Adventure
 #EXTGRP:Фильмы 📽
@@ -910,6 +910,10 @@ http://kinowalk.hopto.org/boh_music_live
 #EXTINF:-1 tvg-shift=0 tvg-name="KINO зал" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/кинозал.png",KINO зал
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="KinoBar" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kinobar.png",KinoBar
+#EXTGRP:Фильмы 📽
+rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Kino24" tvg-id="kino-24" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/kino_24.png" tvg-scrlogo="https://i.imgur.com/QAdDARF.png",Kino24
 #EXTGRP:Фильмы 📽
@@ -1383,6 +1387,10 @@ http://bpl.online24.pm/play/9987/75BA4FC1CA5013E/video.m3u8
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/videoarsenal_live
 
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",Video Channel
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/video_channel_live
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/film-logo.png",Video_Prokat
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/video_prokat_live
@@ -1459,10 +1467,6 @@ http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/2062/index.m3u8
 #EXTGRP:Фильмы 📽
 http://193.25.8.59:8000/axn
 
-#EXTINF:-1 tvg-name="312 Кино" tvg-id="312-kino" tvg-logo="http://312tv.kg/pic/thumb.png",312 Kino [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-
 
 
 
@@ -1515,10 +1519,6 @@ http://api.peers.tv/timeshift/multimania/126/playlist.m3u8?token=eyJhbGciOiJIUzI
 #EXTINF:0 tvg-name="Мульт и Музыка" tvg-id="multimuzyka" tvg-logo="http://epg.one/img2/284.png" tvg-rec="7",Мульт и музыка
 #EXTGRP:Детские
 http://31.148.48.15:80/Multimuzika/index.m3u8
-
-#EXTINF:-1 tvg-name="Пингвин Лоло" tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин [НЕ Исправен!]
-#EXTGRP:Мультфильмы
-http://85.192.10.131/hls/pingvinru/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Рик и Морти" tvg-id="no_epg_mult" tvg-logo="https://avatars.mds.yandex.net/i?id=f381e43bcbc6d1c5b1f2cab6eee502c2_l-5889060-images-thumbs&n=13",Рик и Морти
 #EXTGRP:Мультstream
@@ -1839,14 +1839,6 @@ http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/17010/index.m3u8
 #EXTINF:0 tvg-name="VF Однажды в России" tvg-id="vf-odnazhdyvr" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/6706.png" tvg-rec="0",VF Однажды в России
 #EXTGRP:Развлекательные;Юмор;Шоу
 http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/19286/index.m3u8
-
-#EXTINF:-1 tvg-name="8 канал Международный" tvg-id="8kanal-eu" tvg-logo="http://8tv.ru/images/logo.png",8 Канал Европа [НЕ Исправен!]
-#EXTGRP:Развлекательные
-http://v4.proofix.ru:80/8tv-europe/index.m3u8
-
-#EXTINF:-1 tvg-name="312" tvg-id="312" tvg-logo="http://312tv.kg/pic/thumb.png",312 [НЕ Исправен!]
-#EXTGRP:Развлекательные
-http://176.126.166.43:1935/live/312musik/chunklist_w1718714939.m3u8
 
 
 
