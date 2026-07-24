@@ -304,6 +304,10 @@ http://162.212.179.43/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTGRP:Фильмы 📽
 https://live20.bozztv.com/giatvplayout7/ushba64/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/311/128x128?unique=2026-06-15%2009:58:34.066788&access_token=86955f71-9d69-4085-80ab-d9f331afbaca",Кладовая Фильмов
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/skladfilm_live
+
 #EXTINF:0 tvg-shift=0 tvg-name="Любимое HD" tvg-id="nashe-lubimoe-hd" tvg-anyquality=0 tvg-logo="http://epg.one/img2/2509.png",Любимое HD
 #EXTGRP:Фильмы 📽
 http://apdn2s9z.tvclub.xyz/iptv/NPCQ4SE794WFSU/915/index.m3u8
@@ -511,6 +515,10 @@ http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-name="ФИЛЬМЫ&СЕРИАЛЫ_24/7_LIVE" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/films_serials.png",ФИЛЬМЫ & СЕРИАЛЫ 24/7 LIVE
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/films_serials_24_7_live_live
+
+#EXTINF:-1 tvg-name="Фильмоскоп" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/фильмоскоп.png",Фильмоскоп
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/filmscope_live
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Хит HD" tvg-id="khit-hd" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD
 #EXTGRP:Фильмы 📽
@@ -815,6 +823,10 @@ https://kinowalk.hopto.org/dimpon_live
 #EXTGRP:Фильмы 📽
 https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="DVD online" tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/333/128x128?unique=2026-07-23%2016:57:08.393206&access_token=6cdc8c7c-09e4-4aaa-a6bf-e0bf95e43703",DVD online
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/kinostream_rezerv_live
+
 #EXTINF:-1 tvg-name="Epic Drama" tvg-id="epik-drama" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/epic_drama.png",Epic Drama
 #EXTGRP:Фильмы 📽
 http://195.189.60.253/118/index.m3u8
@@ -1074,6 +1086,10 @@ https://tinyurl.com/aleks-u-romki-47/19408/index.m3u8
 #EXTINF:-1 tvg-name="MyTV 3 HD" tvg-id="mytv3" tvg-logo="http://epg.one/img2/106.png",MyTV 3
 #EXTGRP:Фильмы 📽
 http://apdn2s9z.tvclub.xyz/iptv/NPCQ4SE794WFSU/19411/index.m3u8
+
+#EXTINF:-1 tvg-name="NeoVision TV" tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/312/128x128?unique=2026-06-15%2010:11:36.264054&access_token=effa622b-b844-48ae-9516-9528a9f1410c",NeoVision TV
+#EXTGRP:Фильмы 📽
+http://kinowalk.hopto.org/neovisiontv_live
 
 #EXTINF:0 tvg-shift=0 tvg-name="РуКино HD" tvg-id="rukino-hd" tvg-anyquality=0 tvg-logo="http://epg.one/img2/4721.png",PG РуКино HD
 #EXTGRP:Фильмы 📽
