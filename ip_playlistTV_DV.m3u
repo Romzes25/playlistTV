@@ -17,7 +17,7 @@ http://ce97dd7a.amazzin.pw/iptv/8Q77ZPL94T3MA32EADN9V35E/15335/index.m3u8
 #EXTGRP:Федеральный
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 
-#EXTINF:-1 tvg-shift=0 channel-number=5 tvg-name="Пятый Канал +7" tvg-id="5kanal-ru-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятый_канал.png" url-scrlogo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg",Пятый канал (+7)
+#EXTINF:-1 tvg-shift=0 channel-number=5 tvg-name="Пятый Канал +7" tvg-id="5kanal-ru-pl7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/пятый_канал.png" url-scrlogo="https://img5tv.cdnvideo.ru/shared/img/logo_2023.svg",Пятый канал (+7) [Проф. Работы]
 #EXTGRP:Федеральный
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 
