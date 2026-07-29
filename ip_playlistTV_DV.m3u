@@ -520,6 +520,10 @@ http://kinowalk.hopto.org/films_serials_24_7_live_live
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/filmscope_live
 
+#EXTINF:-1 tvg-shift=0 tvg-name="Хит" tvg-id="khit" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит
+#EXTGRP:Фильмы 📽
+http://stream.mcquack.net/363/index.m3u8
+
 #EXTINF:-1 tvg-shift=0 tvg-name="Хит HD" tvg-id="khit-hd" tvg-anyquality=0 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ХитHD.png",Хит HD
 #EXTGRP:Фильмы 📽
 http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/2438/index.m3u8
@@ -1143,6 +1147,10 @@ http://46.32.176.50/paramountchannel/index.m3u8
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/vampiro1965_live
 
+#EXTINF:-1 tvg-shift=0 tvg-name="PRO100" tvg-id="pro100" tvg-anyquality=1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/pro100_tv.png",Pro100 TV
+#EXTGRP:Фильмы 📽
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Retrovision Кинопанорама" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/retrovision.png",Retrovision Кинопанорама
 #EXTGRP:Фильмы 📽
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
@@ -1162,6 +1170,10 @@ http://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name="Romance" tvg-id="romance" tvg-anyquality=1 url-scrlogo="https://i.postimg.cc/668Y5TYH/492dbd640d045188879ae5949798c21d.png" tvg-logo="https://i.postimg.cc/XYb88L3h/e64efc8dfee42c8756db5c2f9a736e5f.png",Romance
 #EXTGRP:Фильмы 📽
 http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/2037/index.m3u8
+
+#EXTINF:-1 tvg-id="saga-tv" tvg-name="Saga TV" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/saga_tv_logo.png" url-scrlogo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/saga_tv.png",Saga TV
+#EXTGRP:Фильмы 📽
+http://ce97dd7a.amazzin.pw/iptv/8Q77ZPL94T3MA32EADN9V35E/32103/index.m3u8
 
 #EXTINF:-1 tvg-name="ScripachTV" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/scripach.png",ScripachTV
 #EXTGRP:Фильмы 📽
@@ -1599,6 +1611,10 @@ http://api.peers.tv/timeshift/multimania/126/playlist.m3u8?token=eyJhbGciOiJIUzI
 #EXTINF:0 tvg-name="Мульт и Музыка" tvg-id="multimuzyka" tvg-logo="http://epg.one/img2/284.png" tvg-rec="7",Мульт и музыка
 #EXTGRP:Детские
 http://31.148.48.15:80/Multimuzika/index.m3u8
+
+#EXTINF:-1 tvg-name="Пингвин Лоло" tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин
+#EXTGRP:Мультфильмы
+http://85.192.10.131/hls/pingvinru/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Рик и Морти" tvg-id="no_epg_mult" tvg-logo="https://avatars.mds.yandex.net/i?id=f381e43bcbc6d1c5b1f2cab6eee502c2_l-5889060-images-thumbs&n=13",Рик и Морти
 #EXTGRP:Мультstream
@@ -2336,6 +2352,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N9YR4DUN2M68Q8LLNBQSZBW3
 #EXTINF:-1 tvg-name="ЛДПР ТВ" tvg-id="ldpr-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/лдпр_тв.png",ЛДПР ТВ
 #EXTGRP:Политические;Новостные
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV PRO" tvg-id="no_epg_news" tvg-logo="http://tvpro-online.ru/images/logo.png",TV PRO
+#EXTGRP:Региональные;Просветительские
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 #EXTINF:-1 catchup-days="7" tvg-name="Липецкое время" tvg-id="lipeckoe-vremia" tvg-logo="https://lipetsk.rosstv.ru/site/files/channels/FfgGzeqw4HHMe0n29REvg7f2BZT8kG.png",Липецкое время
 #EXTGRP:Региональные;Новости
