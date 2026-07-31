@@ -2429,9 +2429,9 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTGRP:Региональные
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" tvg-name="Рифей-ТВ" tvg-id="rifey-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рифей_тв.png",Рифей-ТВ [Проф. Работы]
+#EXTINF:-1 catchup="append" catchup-days="3" tvg-name="Рифей-ТВ" tvg-id="rifey-tv" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/рифей_тв.png",Рифей-ТВ
 #EXTGRP:Познавательные;Региональные;Информационный;Развлекательные;Эфир
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
 
 #EXTINF:-1 catchup-days="7" tvg-name="РТС - Абакан" tvg-id="rts-abakan" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ртс.png",РТС-Абакан
 #EXTGRP:Региональные
@@ -2483,11 +2483,11 @@ http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 
 #EXTINF:-1 catchup-days="7" tvg-name="ТНВ-Планета" tvg-id="tnv-planeta" tvg-logo="https://tnv.ru/local/static/images/logo.svg" tvg-id="tnv-planeta",ТНВ-Планета
 #EXTGRP:Региональные
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
+http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Толк" tvg-id="tolk" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Толк_ТВ.png",Толк ТВ
 #EXTGRP:Региональные;Информационный;Развлекательные
-https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8
 
 #EXTINF:-1 tvg-name="Три Ангела" tvg-id="tri-angela" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/три_ангела_logo.png" url-scrlogo="https://www.3angels.ru/assets/logo-b4c.svg",Три Ангела
 #EXTGRP:Религия
@@ -2513,7 +2513,7 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Своё_ТВ.png",Своё ТВ (Ставрополь)
-http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+http://apdn2s9z.tvclub.xyz/iptv/NPCQ4SE794WFSU/15425/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/мтв_logo.png" url-scrlogo="https://xn--b1ats.xn--80asehdb/img/logo.png",МТВ (Волгоград)
 #EXTGRP:Региональные
@@ -2604,7 +2604,7 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Москва Доверие" url-scrlogo="https://www.doverie-tv.ru/img/logo.svg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/москва_доверие.png",Москва Доверие
 #EXTGRP:Развлекательные
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:-1 tvg-name="Ники ТВ" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/никитв.png",Ники ТВ
 #EXTGRP:Развлекательные
@@ -2628,7 +2628,7 @@ http://tv.tuva.ru/ovaa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/волга.png",Волга
 #EXTGRP:Региональные
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8?version=2
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1024x576@1272/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/4канал.png",4 канал
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
@@ -2648,7 +2648,7 @@ https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio.almaz-media.tv/logo.svg",Алмазный край
 https://stream.almaz-media.tv/hls/720.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тпр.png",Тверской Проспект Регион
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/тпр.png",Тверской Проспект Регион [Проф. Работы]
 http://stream.fastlnk.ru:88/Tverskojj_prospekt_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/наш_дом.png",Наш Дом
@@ -2677,7 +2677,7 @@ https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 
 #EXTINF:-1 catchup-days="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Кубань24.png",Кубань 24
 #EXTGRP:Региональные
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8?version=2
 
 #EXTINF:-1 catchup-days="7" tvg-id="ДОН 24" tvg-logo="https://don24.tv/img/tv/logo-header.png",ДОН 24
 #EXTGRP:Региональные
@@ -2695,9 +2695,9 @@ http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant
 #EXTGRP:Информационный
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8?source:iptvmate.net
 
-#EXTINF:-1 catchup-days="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ЯмалРегион.png" tvg-id="Ямал Регион",Ямал Регион
+#EXTINF:-1 catchup-days="7" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/ЯмалРегион.png" tvg-id="Ямал Регион",Ямал Регион [Проф. Работы]
 #EXTGRP:Региональные
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=YjuR3Gx4AHkOXmN4fnd0HA&e=2085438967&scheme=https
 
 #EXTINF:-1 catchup-days="7" tvg-logo="https://ugra-tv.ru/local/templates/ugra-tv/img/ico/logo.jpg" tvg-id="Югра",Югра
 #EXTGRP:Региональные
@@ -2709,7 +2709,7 @@ https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlis
 
 #EXTINF:-1 catchup-days="7" tvg-id="Девятка" tvg-logo="https://optim.tildacdn.com/tild3432-3937-4561-b434-653338643430/-/resize/96x/-/format/webp/--9-.png",Девятка ТВ
 #EXTGRP:Региональные
-http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8?version=2
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 
 #EXTINF:-1 catchup-days="7" tvg-logo="https://ort-tv.ru/wp-content/themes/ort-theme/assets/img/icons/logo.svg" tvg-id="ОРТ",ОРТ-Планета (Оренбург)
 #EXTGRP:Региональные
@@ -2766,7 +2766,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvspb.ru/images/logo/logo-80.svg",Санкт-Петербург
 #EXTGRP:Региональные
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/715/index.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/viju_history_logo.png",Viju History
 #EXTGRP:История;Документально-познавательный
@@ -2774,7 +2774,7 @@ http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/победа.png",Победа
 #EXTGRP:Познавательные
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/5052/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/43.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/звезда_плюс.png",Звезда плюс
 #EXTGRP:Документально-познавательный
@@ -2839,7 +2839,7 @@ http://31148.rafail1982.uz/Europa_Plus_HD/index.m3u8
 
 #EXTINF:0 tvg-name="FRESH Hits HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6272.png" tvg-rec="0",FRESH Hits HD
 #EXTGRP:Музыка 🔊
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/18084/index.m3u8
+http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/18084/index.m3u8
 
 #EXTINF:0 tvg-name="FRESH Dance HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6275.png" tvg-rec="0",FRESH Dance HD
 #EXTGRP:Музыка 🔊
@@ -2859,11 +2859,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KE3KFU2M4B95FE/18088/ind
 
 #EXTINF:0 tvg-name="FRESH Rock Covers HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6277.png" tvg-rec="0",FRESH Rock Covers HD
 #EXTGRP:Музыка 🔊
-http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/18089/index.m3u8
+http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/18089/index.m3u8
 
 #EXTINF:0 tvg-name="FRESH Russian Hits HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6273.png" tvg-rec="0",FRESH Russian Hits HD
 #EXTGRP:Музыка 🔊
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/18085/index.m3u8
+http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/18085/index.m3u8
 
 #EXTINF:0 tvg-name="FRESH Russian Rap HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6278.png" tvg-rec="0",FRESH Russian Rap HD
 #EXTGRP:Музыка 🔊
@@ -2943,7 +2943,7 @@ http://eptop128.streamr.ru/
 #EXTGRP:Радио
 http://mp3128.light.streamr.ru/
 
-#EXTINF:-1 tvg-name="Europa Plus New" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlusNew.png",Europa Plus New [Проф. Работы]
+#EXTINF:-1 tvg-name="Europa Plus New" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlusNew.png",Europa Plus New
 #EXTGRP:Радио
 http://mp3128.new.streamr.ru/
 
@@ -2955,7 +2955,7 @@ https://hls-01-europaplus-party.emgsound.ru/22/112/playlist.m3u8
 #EXTGRP:Радио
 https://hls-01-europaplus-urban.emgsound.ru/28/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Europa Plus Свежее" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlusResiDANCE.png",Europa Plus Свежее
+#EXTINF:-1 tvg-name="Europa Plus Свежее" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/EuropaPlusResiDANCE.png",Europa Plus Свежее [Проф. Работы]
 #EXTGRP:Радио
 https://hls-01-fresh.emgsound.ru/9/playlist.m3u8
 
