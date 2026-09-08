@@ -7,7 +7,7 @@ http://dmi3y-tv.online/hls/DVB-T2/CH_1TV_7.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=2 tvg-id="rossia1-pl7" tvg-name="Россия 1 (+7)" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/россия1.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-one.svg",Россия 1 (+7)
 #EXTGRP:Федеральный
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15334/index.m3u8
+http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/15334/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=3  tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7)
 #EXTGRP:Спорт ⚽️
@@ -35,7 +35,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=9 tvg-name="ОТР (+8)" tvg-id="otr-pl8" tvg-logo="https://cdn.otr-online.ru/public/icons/logo_new.svg",ОТР (+7)
 #EXTGRP:Федеральный
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/15341/index.m3u8
+http://6g5f8g9d.ucomist.net/iptv/RCY5BALHTUERP7TGCU8ZWFDG/15341/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=10 tvg-name="ТВ Центр +7" tvg-id="tvcentr-pl7" tvg-logo="https://www.tvc.ru/build/assets/logo-mobile-CW6O-EuZ.svg",ТВ Центр (+7)
 #EXTGRP:Федеральный
@@ -130,7 +130,7 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Блокбастер HD" tvg-id="blokbaster-hd" tvg-anyquality=0 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/блокбастер_logo.png" tvg-id="blokbaster-hd",Блокбастер HD
 #EXTGRP:Фильмы 📽
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/2436/index.m3u8
+http://6g5f8g9d.ucomist.net/iptv/RCY5BALHTUERP7TGCU8ZWFDG/2436/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Время" tvg-id="vremia" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/время_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/время.png",Время
 #EXTGRP:Фильмы 📽
@@ -142,7 +142,7 @@ http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/154/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Дом кино Премиум" tvg-id="domkino-premium" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/дом_кино_премиум_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/дом_кино_премиум.png",Дом кино Премиум
 #EXTGRP:Фильмы 📽
-http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
+http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/911/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Дорама" tvg-id="dorama" tvg-anyquality=1 tvg-logo="https://i.imgur.com/ZH5LuXU.png",Дорама
 #EXTGRP:Фильмы 📽
