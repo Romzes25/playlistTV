@@ -1968,7 +1968,7 @@ http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/19286/index.m3u8
 #EXTGRP:Развлекательные
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
 
-#EXTINF:-1 tvg-name="312" tvg-id="312" tvg-logo="http://312tv.kg/pic/thumb.png",312 [Проф. Работы]
+#EXTINF:-1 tvg-name="312" tvg-id="312" tvg-logo="http://312tv.kg/pic/thumb.png",312 [НЕ Исправен!]
 #EXTGRP:Развлекательные
 http://176.126.166.43:1935/live/312musik/chunklist_w1718714939.m3u8
 
@@ -2100,7 +2100,7 @@ https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Сити Эдем - МедЗдрав" tvg-id="no_epg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/сити_эдем_медздрав_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/сити_эдем_медздрав.png",Сити Эдем - МедЗдрав
+#EXTINF:-1 tvg-name="Сити Эдем - МедЗдрав" tvg-id="no_epg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/сити_эдем_медздрав_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/сити_эдем_медздрав.png",Сити Эдем - МедЗдрав [Проф. Работы]
 #EXTGRP:Познавательные;Здоровье
 http://cityeden.catcast.tv/content/47519/index.m3u8
 
@@ -2489,9 +2489,9 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTGRP:Информационный;Аналетический
 rtmp://vkvsd54.okcdn.ru/playback/7334915353564?stkn=xjEbdnErgCJf8IsliRWaYbSGn3nBxcnAmEKoz4bMR9vrzA5wkhiA_w31RD4nMSAk5sZsfNNxuPE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:-1 tvg-name="Смотрим 100% Факты" tvg-id="smotrim-100-fakty" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/смотрим_факты.png",Смотрим 100% Факты [НЕ Исправен!]
+#EXTINF:-1 tvg-name="Смотрим 100% Факты" tvg-id="smotrim-100-fakty" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/смотрим_факты.png",Смотрим 100% Факты
 #EXTGRP:Документально-познавательный
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 
 #EXTINF:-1  tvg-name="ТАСС" tvg-id="no_epg_news"  tvg-logo="https://i.postimg.cc/cC0PtfML/image.png",ТАСС
 #EXTGRP:Новости 🌐
@@ -2547,7 +2547,7 @@ http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/Своё_ТВ.png",Своё ТВ (Ставрополь)
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/соловьёв_live.png",Соловьёв Live
+#EXTINF:-1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/соловьёв_live.png",Соловьёв Live [Проф. Работы]
 http://195.26.83.96:7029/play/a003
 
 #EXTINF:-1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/мтв_logo.png" url-scrlogo="https://xn--b1ats.xn--80asehdb/img/logo.png",МТВ (Волгоград)
@@ -2595,7 +2595,7 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.leomax.ru/new/img/logo/LEOMAX-GREEN.svg",Leomax 24
 #EXTGRP:Магазин
-http://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/index.m3u8
+http://dmi3y-tv.online/hls/CH_LEOMAX24HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/магнат.png",Магнат
 #EXTGRP:Магазин
@@ -2864,7 +2864,7 @@ http://5.188.221.43:8080/play/bridge-tv
 #EXTGRP:Музыка 🔊
 http://5.188.159.128:8070/Bridge_TV_Classic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Bridge TV Шлягер" tvg-id="bridge-tv-shlager" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bridge_шлягер.png",Bridge TV Шлягер [ПТ 🖐]
+#EXTINF:-1 tvg-name="Bridge TV Шлягер" tvg-id="bridge-tv-shlager" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bridge_шлягер.png",Bridge TV Шлягер [Проф. Работы]
 #EXTGRP:Музыка 🔊
 http://stream-tv-prostar.hf.space/ch/9228?key=AB001829BB
 
