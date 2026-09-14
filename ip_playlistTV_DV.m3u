@@ -172,7 +172,7 @@ http://31.210.208.171:8080/indiya/index.m3u8?token=+W2MSER
 #EXTGRP:Фильмы 📽
 http://vbxvnxfr.megatv.fun/iptv/D75X5Q6FURMZYZ/2441/index.m3u8
 
-#EXTINF:-1 tvg-name="KACCETA" tvg-id="no_epg_cinema"  tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",𝕂𝔸ℂℂ𝔼𝕋𝔸
+#EXTINF:-1 tvg-name="KACCETA" tvg-id="no_epg_cinema"  tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",КАССЕТА
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/kasseta_live
 
@@ -190,7 +190,7 @@ http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
 
 #EXTINF:0 tvg-rec="0" tvg-name="КиноКульт" tvg-id="kinokult" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/kinokult.png",КиноКульт
 #EXTGRP:Фильмы 📽
-http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/31914/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/31914/index.m3u8
 
 #EXTINF:-1  tvg-id="no_epg"  tvg-logo="https://streaming-elbrus.su/img/logos/films/kinomenu.png" ,КиноМеню
 #EXTGRP:Фильмы 📽
@@ -198,7 +198,7 @@ http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8?wmsAuthSign=c2VydmVyX3Rp
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Киномикс" tvg-id="kinomiks" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/киномикс.png",Киномикс
 #EXTGRP:Фильмы 📽
-http://93.170.254.17/Kinomiks/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/509/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Кинопоказ" tvg-id="kinopokaz" tvg-anyquality=0 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/кинопоказ.png",Кинопоказ
 #EXTGRP:Фильмы 📽
