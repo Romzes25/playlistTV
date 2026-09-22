@@ -7,7 +7,7 @@ http://dmi3y-tv.online/hls/DVB-T2/CH_1TV_7.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=2 tvg-id="rossia1-pl7" tvg-name="Россия 1 (+7)" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/россия1.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-one.svg",Россия 1 (+7)
 #EXTGRP:Федеральный
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/15334/index.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=3  tvg-name="Матч!" tvg-id="match-tv" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/0c38/1c08/0c381c0829f5f8d034edc08955310c45.png",Матч! ТВ (+7)
 #EXTGRP:Спорт ⚽️
@@ -27,7 +27,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=-7 channel-number=7 tvg-name="Россия 24" tvg-id="rossia-24" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/россия24_logo.png" url-scrlogo="https://vgtrk.ru/i/logo-russia-24.svg",Россия 24 (+7)
 #EXTGRP:Федеральный
-http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/15339/index.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA24_DV_VLD.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=8 tvg-name="Карусель (+7)" tvg-id="karusel-pl7" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/карусель.png",Карусель (+7)
 #EXTGRP:Детские
@@ -47,7 +47,7 @@ http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/6042/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=12 tvg-name="Спас (+7)" tvg-id="spas-pl7" tvg-logo="https://spastv.ru/wp-content/themes/spastv/images/spas_logo.svg",Спас (+7)
 #EXTGRP:Федеральный
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_SPAS_7.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=13 tvg-name="СТС (+7)" tvg-id="sts-pl7" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/стс_плюс7.gif",СТС (+7)
 #EXTGRP:Федеральный
