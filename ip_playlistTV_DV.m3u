@@ -55,7 +55,7 @@ http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/6043/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=14 tvg-name="Домашний (+7)" tvg-id="domashny-pl7" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/домашний_плюс7.png",Домашний (+7)
 #EXTGRP:Федеральный
-http://dmi3y-tv.online/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=15 tvg-name="ТВ-3 (+7)" tvg-id="tv3-ru-pl7" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/тв3_плюс7.png",ТВ 3 (+7)
 #EXTGRP:Федеральный
