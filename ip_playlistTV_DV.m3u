@@ -132,7 +132,7 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTGRP:Фильмы 📽
 http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/9087/index.m3u8
 
-#EXTINF:-1 tvg-name="Видеокассета" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",Видеокассета [Проф. Работы]
+#EXTINF:-1 tvg-name="Видеокассета" tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/Видеокассета.gif",Видеокассета
 #EXTGRP:Фильмы 📽;VHS 📼
 http://kinowalk.hopto.org/vhs90e_live
 
@@ -176,7 +176,7 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031886&e
 #EXTGRP:Фильмы 📽
 http://9ynqmie5.velstraso.top/iptv/69MMWMTC4WNS7Y/2441/index.m3u8
 
-#EXTINF:-1 tvg-name="KACCETA" tvg-id="no_epg_cinema"  tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",КАССЕТА [Проф. Работы]
+#EXTINF:-1 tvg-name="KACCETA" tvg-id="no_epg_cinema"  tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",КАССЕТА
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/kasseta_live
 
@@ -244,7 +244,7 @@ http://kinowalk.hopto.org/nonestopmovie_live
 #EXTGRP:Фильмы 📽
 http://stream.mcquack.net/126/index.m3u8
 
-#EXTINF:0 tvg-shift=0 tvg-name="Кино UHD" tvg-id="kino-ultra-hd" tvg-anyquality=0 tvg-logo="http://epg.one/img2/2804.png" tvg-rec="3",Кино UHD [Проф. Работы]
+#EXTINF:0 tvg-shift=0 tvg-name="Кино UHD" tvg-id="kino-ultra-hd" tvg-anyquality=0 tvg-logo="http://epg.one/img2/2804.png" tvg-rec="3",Кино UHD
 #EXTGRP:Фильмы 📽
 http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/5004/index.m3u8
 
@@ -1650,7 +1650,7 @@ http://66.90.110.10:8080/KUn3pXOEKB/index.m3u8?token=CNVkbIWpdNQAUXGC
 
 #EXTINF:-1 tvg-name="Рик и Морти" tvg-id="no_epg_mult" tvg-logo="https://avatars.mds.yandex.net/i?id=f381e43bcbc6d1c5b1f2cab6eee502c2_l-5889060-images-thumbs&n=13",Рик и Морти
 #EXTGRP:Мультstream
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/30171/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/30171/index.m3u8
 
 #EXTINF:-1 tvg-name="Рыжий" tvg-id="ryzhy" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/рыжий.png",Рыжий
 #EXTGRP:Мультфильмы
