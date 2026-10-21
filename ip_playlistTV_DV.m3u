@@ -1645,7 +1645,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/20005/index.m3u8
 
-#EXTINF:-1 tvg-name="Гриффины" tvg-id="no_epg_mult" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/гриффины.png",Гриффины
+#EXTINF:-1 adult="1" tvg-name="Гриффины" tvg-id="no_epg_mult" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/гриффины.png",Гриффины
 #EXTGRP:Мультstream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/30187/index.m3u8
@@ -1712,8 +1712,10 @@ rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 http://66.90.110.10:8080/KUn3pXOEKB/index.m3u8?token=CNVkbIWpdNQAUXGC
 
-#EXTINF:-1 tvg-name="Рик и Морти" tvg-id="no_epg_mult" tvg-logo="https://avatars.mds.yandex.net/i?id=f381e43bcbc6d1c5b1f2cab6eee502c2_l-5889060-images-thumbs&n=13",Рик и Морти
+#EXTINF:-1 adult="1" tvg-name="Рик и Морти" tvg-id="no_epg_mult" tvg-logo="https://avatars.mds.yandex.net/i?id=f381e43bcbc6d1c5b1f2cab6eee502c2_l-5889060-images-thumbs&n=13",Рик и Морти
 #EXTGRP:Мультstream
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/30171/index.m3u8
 
@@ -3063,7 +3065,7 @@ https://hls-01-europaplus-urban.emgsound.ru/28/playlist.m3u8
 #EXTGRP:Радио
 https://hls-01-fresh.emgsound.ru/9/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Europa Plus K-Pop" tvg-id="no_epg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/EuropaPlusResiDANCE.png",Europa Plus K-Pop
+#EXTINF:-1 radio="true" tvg-name="Europa Plus K-Pop" tvg-id="no_epg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/EuropaPlusResiDANCE.png",Europa Plus K-Pop
 #EXTGRP:Радио
 https://hls-01-europaplus-kpop.emgsound.ru/europaplus-kpop/playlist.m3u8
 
