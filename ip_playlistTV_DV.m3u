@@ -2149,7 +2149,7 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Конгресс ТВ" tvg-id="kongresstv" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/конгресс_тв.png",Конгресс ТВ
 #EXTGRP:Познавательные
-http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/2176/index.m3u8
+https://live-4.otcnet.ru/504/135/480p/index.m3u8
 
 #EXTINF:-1 channelId="53" tvg-name="Моя Планета" tvg-id="moya-planeta" tvg-logo="https://s.glaz.tv/images/logos/tv/big/moya-planeta.jpg",Моя Планета
 #EXTGRP:Познавательные
@@ -2165,11 +2165,11 @@ http://vod.tuva.ru/nauka2/index.m3u8
 
 #EXTINF:-1 tvg-name="Наша Тема" tvg-id="nasha-tema" tvg-logo="https://iptvx.one/picons/nasha-tema.png",Наша Тема
 #EXTGRP:Познавательные;Хобби
-http://31.210.208.171:8080/nasha_tema/index.m3u8?token=+W2MSER
+http://195.64.140.147:10172/172
 
 #EXTINF:-1 tvg-name="Оружие" channelId="223" tvg-id="oruzhie" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/1d97b0e8800ae1e840fae7b3fa1c3be1.png",Оружие
 #EXTGRP:Хобби;Увлечения
-http://31.210.208.171:8080/oruzhie/index.m3u8?token=+W2MSER
+http://194.158.222.36:6093/
 
 #EXTINF:-1 tvg-name="Открытый мир" tvg-id="otkryty-mir" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/открытый_мир.png",Открытый мир
 #EXTGRP:Познавательные
@@ -2179,7 +2179,7 @@ http://v4.proofix.ru/0mir/tracks-v1a1/mono.m3u8
 #EXTGRP:Познавательные;Хобби
 http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
 
-#EXTINF:-1 tvg-name="Паранормальный Архив" tvg-id="no_epg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/paranormal-archive.gif",Паранормальный Архив [Проф. Работы]
+#EXTINF:-1 tvg-name="Паранормальный Архив" tvg-id="no_epg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/paranormal-archive.gif",Паранормальный Архив
 #EXTGRP:Познавательные;Хобби
 http://kinowalk.hopto.org/paranormal404_live
 
@@ -2201,11 +2201,11 @@ http://stitch.teletarget.ru/vintera/terra/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-id="animal-planet-eu" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/Animal_Planet_HD.png",Animal Planet
 #EXTGRP:Познавательные
-http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/218/index.m3u8
+http://stream.mcquack.net/114/index.m3u8
 
 #EXTINF:-1 tvg-name="Viju Explore" tvg-id="viasat-explore" logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/viju_explorer_logo.png" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/viju_explorer.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/viju_explorer_scrlogo.png",Viju Explore
 #EXTGRP:Познавательные
-http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/163/index.m3u8
+http://stream.mcquack.net/239/index.m3u8
 
 #EXTINF:-1 tvg-name="Viju History" tvg-id="viasat-history" logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/viju_history_logo.png" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/viju_history.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/viju_history_scrlogo.png",Viju History
 #EXTGRP:Познавательные
@@ -2227,7 +2227,7 @@ http://stream.mcquack.net/116/index.m3u8
 #EXTGRP:Познавательные;Документальные
 https://rpn3.bozztv.com/dvrfl07/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="TV BRICS" tvg-id="tv-brics" url-scrlogo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/TV_BRICS_logo.png",TV BRICS
+#EXTINF:-1 tvg-name="TV BRICS" tvg-id="tv-brics" url-scrlogo="https://tvbrics.com/local/templates/tvbrics/dest/img/logo-ny.svg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/TV_BRICS_logo.png",TV BRICS [Проф. Работы]
 #EXTGRP:Познавательные;Общественные;Хобби
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 
