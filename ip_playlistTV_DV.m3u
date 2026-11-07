@@ -69,7 +69,7 @@ http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/15341/index.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/15342/index.m3u8
+http://03eed059.ottolok.net/iptv/8APCR5PZS8WVK4/15342/index.m3u8
 
 #EXTINF:-1 tvg-shift=0 channel-number=11 tvg-name="Рен ТВ (+7)" tvg-id="rentv-pl7" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/РЕНТВ_плюс7.png",РЕН ТВ (+7)
 #EXTGRP:Федеральный
@@ -139,6 +139,13 @@ http://9ynqmie5.velstraso.top/iptv/69MMWMTC4WNS7Y/6049/index.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 http://cdntv.online/high/wkb8rh2jd6/586.mpeg
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Перец" tvg-id="perec-int" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/перец.png",Перец +7
+#EXTGRP:Развлекательные
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+http://213.91.179.28:8000/play/a0ay
 
 #EXTINF:-1 tvg-shift=0 tvg-name="СТС Love (+4)" tvg-id="sts-love-pl4" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/стсlove.gif",СТС Love (+7)
 #EXTGRP:Развлекательные
@@ -1088,18 +1095,6 @@ http://9ynqmie5.velstraso.top/iptv/69MMWMTC4WNS7Y/209/index.m3u8
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/igrocomp_live
 
-#EXTINF:-1 tvg-name="IPTVPLAY ВЕДЬМАК" tvg-id="no_epg_cinema" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/iptvplay_ведьмак.png",IPTVPLAY ВЕДЬМАК [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 tvg-name="IPTVPLAY Великая Отечественная" tvg-id="no_epg_cinema" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/iptvplay.png",IPTVPLAY Великая Отечественная [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 tvg-name="IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО" tvg-id="no_epg_cinema" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/iptvplay_10.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО [НЕ Исправен!]
-#EXTGRP:Фильмы 📽
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://imgfy.ru/ib/vIKWCTzeu6cdtwQ_1771812627.png",Kino онлайн [no 24/7]
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/boh_music_live
@@ -1107,6 +1102,10 @@ http://kinowalk.hopto.org/boh_music_live
 #EXTINF:-1 tvg-shift=0 tvg-name="KINO зал" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/кинозал.png",KINO зал
 #EXTGRP:Фильмы 📽
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="KinoBar" tvg-id="no_epg_cinema" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/kinobar.png",KinoBar
+#EXTGRP:Фильмы 📽
+rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Kino24" tvg-id="kino-24" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/kino_24.png" tvg-scrlogo="https://i.imgur.com/QAdDARF.png",Kino24
 #EXTGRP:Фильмы 📽
@@ -1724,6 +1723,8 @@ http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 adult="1" tvg-name="Гриффины" tvg-id="no_epg_mult" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/гриффины.png",Гриффины
 #EXTGRP:Мультstream
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
@@ -1766,6 +1767,10 @@ https://live20.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
 #EXTGRP:Мультфильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 http://185.46.16.239:8000/Mir_24
+
+#EXTINF:-1 tvg-name="Мультимания LV" tvg-id="multimania-lv" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/multimaniya_logo.png",Мультимания
+#EXTGRP:Мультфильмы
+https://venera.movify.tv/Multimania_16_9/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Мультиландия" tvg-id="multimania" tvg-logo="https://i.imgur.com/ccwijY0.png",Мультиландия
 #EXTGRP:Мультфильмы
@@ -1928,6 +1933,10 @@ http://stream.mcquack.net/238/index.m3u8
 #EXTGRP:Мультфильмы
 http://9ynqmie5.velstraso.top/iptv/69MMWMTC4WNS7Y/20210/index.m3u8
 
+#EXTINF:-1 tvg-name="FoxKids-Remastered" tvg-id="no_epg_mult" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/foxkids-remastered.png",FoxKids Remastered [no 24/7]
+#EXTGRP:Мультфильмы
+http://kinowalk.hopto.org/foxkids_remastered_live
+
 #EXTINF:-1  tvg-name="Fresh Kids" tvg-id="fresh-kids" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/fresh_kids.png",Fresh Kids
 #EXTGRP:Мультфильмы
 http://stream.mcquack.net/425/index.m3u8
@@ -1935,10 +1944,6 @@ http://stream.mcquack.net/425/index.m3u8
 #EXTINF:-1 tvg-name="Gulli Girl" tvg-id="gulli-girl" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/gulli-girl.png",Gulli girl
 #EXTGRP:Мультфильмы
 http://stream1.cinerama.uz/1445/index.m3u8
-
-#EXTINF:-1 tvg-name="IPTVPLAY МУЛЬТСКАЗКИ" tvg-id="no_epg_mult" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/iptvplay_disney.png",IPTVPLAY МУЛЬТСКАЗКИ [НЕ Исправен!]
-#EXTGRP:Мультфильмы
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/jetix.png",JETIX [no 24/7]
 #EXTGRP:Мультфильмы
@@ -2548,6 +2553,10 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-name="Мир 24" tvg-id="mir-24" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/мир24.png",Мир 24
 #EXTGRP:Новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/ZpRXL3jP/image-4.png",VB Всё в одном
+#EXTGRP:Разное
+http://kinowalk.hopto.org/vb-all-in-one_live
 
 #EXTINF:-1 tvg-name="Надежда" tvg-id="nadezhda" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/надежда_logo.png" url-scrlogo="https://static.tildacdn.com/tild6538-3532-4131-b630-376536636664/HOPE_LOGO.svg",Надежда
 #EXTGRP:Религия
