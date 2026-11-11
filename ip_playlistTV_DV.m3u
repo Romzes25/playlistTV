@@ -719,7 +719,7 @@ http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
 #EXTGRP:Фильмы 📽
 http://kinowalk.hopto.org/apricus_live
 
-#EXTINF:-1 tvg-shift=0 tvg-name="ATV Kinoman" tvg-id="atv-kinoman" tvg-anyquality=1 tvg-logo="http://ex.iptvin.ru/pic/2/ATV-Kinoman-HD-vert-220x220.png" logo="http://ex.iptvin.ru/pic/2/ATV-Kinoman-HD-vert-220x132-tr.png",ATV Kinoman [Проф. Работы]
+#EXTINF:-1 tvg-shift=0 tvg-name="ATV Kinoman" tvg-id="atv-kinoman" tvg-anyquality=1 tvg-logo="http://ex.iptvin.ru/pic/2/ATV-Kinoman-HD-vert-220x220.png" logo="http://ex.iptvin.ru/pic/2/ATV-Kinoman-HD-vert-220x132-tr.png",ATV Kinoman
 #EXTGRP:Фильмы 📽
 http://185.57.68.33/237/mpegts
 
@@ -729,7 +729,7 @@ http://kinowalk.hopto.org/baragozz_tv_live
 
 #EXTINF:0 tvg-shift=0 tvg-name="BCU Сваты" tvg-id="bcu-svaty" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_сваты_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_сваты.png",BCU Сваты
 #EXTGRP:Фильмы 📽
-http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11047/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11047/index.m3u8
 
 #EXTINF:0 tvg-shift=0 tvg-name="BCU СССР" tvg-id="bcu-sssr" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_ссср_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_ссср.png",BCU СССР
 #EXTGRP:Фильмы 📽
@@ -741,13 +741,13 @@ http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/11027/index.m3u8
 
 #EXTINF:0 tvg-shift=0 tvg-name="BCU Catastrophe HD" tvg-id="bcu-catastrophe" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_catastrophe_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_catastrophe.png",BCU Catastrophe
 #EXTGRP:Фильмы 📽
-http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11028/index.m3u8
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/11028/index.m3u8
 
 #EXTINF:0 tvg-shift=0 tvg-name="BCU Charm HD" tvg-id="bcu-charm" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_charm_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_charm.png" tvg-rec="0",BCU Charm
 #EXTGRP:Фильмы 📽
 http://66.90.110.10:8080/V8q5e5C0iJ/index.m3u8?token=CNVkbIWpdNQAUXGC
 
-#EXTINF:0 tvg-shift=0 tvg-name="BCU Cinema HD" tvg-id="bcu-cinema" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_cinema_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_cinema.png",BCU Cinema [Проф. Работы]
+#EXTINF:0 tvg-shift=0 tvg-name="BCU Cinema HD" tvg-id="bcu-cinema" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_cinema_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_cinema.png",BCU Cinema [НЕ Исправен!]
 #EXTGRP:Фильмы 📽
 http://66.90.110.10:8080/ZO9H855SKw/index.m3u8?token=CNVkbIWpdNQAUXGC
 
@@ -803,7 +803,7 @@ http://14.hls.gd/ch784/mono.m3u8?token=adilgold.v2_c6ueUiofntY_KzYCMIqr6EtFlSGa5
 #EXTGRP:Фильмы 📽
 http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11040/index.m3u8
 
-#EXTINF:0 tvg-shift=0 tvg-name="BCU RUSerial HD" tvg-id="bcu-ruserial" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_ruserial_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_ruserial.png",BCU RuSerial HD
+#EXTINF:0 tvg-shift=0 tvg-name="BCU RUSerial HD" tvg-id="bcu-ruserial" tvg-anyquality=1 tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_ruserial_logo.png" url-scrlogo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bcu_ruserial.png",BCU RuSerial HD [Проф. Работы]
 #EXTGRP:Фильмы 📽
 http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/11046/index.m3u8
 
