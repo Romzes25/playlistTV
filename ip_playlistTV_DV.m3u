@@ -1795,7 +1795,7 @@ https://venera.movify.tv/PingvinRu/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-https://s5.mvzd.ru/content/ww/tj/Rick_and_Morty_S08E01_Summer_of_All_Fears_1080p.m3u8
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/30171/index.m3u8
 
 #EXTINF:-1 tvg-name="Рыжий" tvg-id="ryzhy" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/рыжий.png",Рыжий
 #EXTGRP:Мультфильмы
@@ -2327,7 +2327,7 @@ http://uhugktfh.megogo.xyz/iptv/BV4SSQ9PRKF2CW/15513/index.m3u8
 
 #EXTINF:0 tvg-name="VF Путешествия" tvg-id="no_epg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/5994.png" tvg-rec="0",VF Путешествия
 #EXTGRP:Познавательные;Хобби
-http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/15515/index.m3u8
+http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/15515/index.m3u8
 
 #EXTINF:0 tvg-name="VF Рыбалка" tvg-id="no_epg" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/vf_logo.png" url-scrlogo="http://epg.one/img2/6124.png" tvg-rec="0",VF Рыбалка
 #EXTGRP:Познавательные;Хобби
@@ -2361,7 +2361,7 @@ https://stream1.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Матч! Арена" tvg-id="match-arena" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/матч_арена.png",Матч! Арена
 #EXTGRP:Спорт ⚽️
-http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/207/index.m3u8
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 
 #EXTINF:-1 tvg-name="Матч! Боец" tvg-id="match-boets" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/боец.png",Матч! Боец
 #EXTGRP:Спорт ⚽️
