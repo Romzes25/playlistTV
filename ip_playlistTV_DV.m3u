@@ -2999,29 +2999,29 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-name="BOX RU.RAP" tvg-id="box-ru-rap" tvg-logo="http://epg.one/img2/7887.png" tvg-rec="0",BOX RU.RAP
 #EXTGRP:Музыка 🔊
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/20171/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/20171/index.m3u8
 
 #EXTINF:-1 tvg-name="Bridge TV" tvg-id="bridge-tv" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bridge_tv.png",Bridge TV
 #EXTGRP:Музыка 🔊
 http://5.188.221.43:8080/play/bridge-tv
 
-#EXTINF:-1 tvg-name="Bridge TV Deluxe" tvg-id="bridge-hd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_deluxe.png",Bridge TV Deluxe [Проф. Работы]
+#EXTINF:-1 tvg-name="Bridge TV Deluxe" tvg-id="bridge-hd" tvg-logo="https://raw.githubusercontent.com/Romzes25/playlistTV/master/imgtv/bridge_deluxe.png",Bridge TV Deluxe [НЕ Исправен!]
 #EXTGRP:Музыка 🔊
 http://14.hls.gd/ch491/mono.m3u8?token=adilgold.v2_cXY_VBCLiE_Ku_HWUUxI9G1GrYLZ16Nzoq0GQG0V_I-JyqWFSyO_P3Eyi21wLpXHfFjdZeXePMIA
 
 #EXTINF:-1 tvg-name="Bridge TV Classic" tvg-id="bridge-tv-classic" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bridge_classic.png",Bridge TV Classic
 #EXTGRP:Музыка 🔊
-http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv2
 
 #EXTINF:-1 tvg-name="Bridge TV Шлягер" tvg-id="bridge-tv-shlager" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/bridge_шлягер.png",Bridge TV Шлягер
 #EXTGRP:Музыка 🔊
-http://cdntv.online/high/s8uahjxmiw/1152.m3u8
+http://ottlinks.club/hls/kz9fw4s2jx/1152.m3u8
 
 #EXTINF:-1 tvg-name="Europa Plus TV" tvg-id="europa-plus-tv" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/Europa_Plus_TV.gif",Europa Plus TV
 #EXTGRP:Музыка 🔊
-http://stream.mcquack.net/184/index.m3u8
+https://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:0 tvg-name="FRESH Hits HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6272.png" tvg-rec="0",FRESH Hits HD [НЕ Исправен!]
+#EXTINF:0 tvg-name="FRESH Hits HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6272.png" tvg-rec="0",FRESH Hits HD
 #EXTGRP:Музыка 🔊
 http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOmntdwfNJBV92dmBxF-giQfMx8cIOed7SggzaFK1fyO0
 
@@ -3051,7 +3051,7 @@ http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/18085/index.m3u8
 
 #EXTINF:0 tvg-name="FRESH Russian Rap HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6278.png" tvg-rec="0",FRESH Russian Rap HD
 #EXTGRP:Музыка 🔊
-http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/18090/index.m3u8
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/18090/index.m3u8
 
 #EXTINF:0 ttvg-name="FRESH Lyrics HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6281.png" tvg-rec="0",FRESH Lyrics HD
 #EXTGRP:Музыка 🔊
