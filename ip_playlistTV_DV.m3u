@@ -131,7 +131,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
-http://9ynqmie5.velstraso.top/iptv/69MMWMTC4WNS7Y/15350/index.m3u8
+http://cdntv.online/high/wkb8rh2jd6/681.mpeg
 
 #EXTINF:-1 tvg-shift=0 channel-number=20 tvg-name="Муз ТВ (+7)" tvg-id="muztv-pl7" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/МузТВ_плюс7.png",Муз ТВ (+7)
 #EXTGRP:Музыка
@@ -2879,9 +2879,9 @@ http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTGRP:Информационный
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 
-#EXTINF:-1 catchup-days="7" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/ЯмалРегион.png" tvg-id="Ямал Регион",Ямал Регион
+#EXTINF:-1 catchup-days="7" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/ЯмалРегион.png" tvg-id="Ямал Регион",Ямал Регион [Проф. Работы]
 #EXTGRP:Региональные
-https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=mmQu5kAHVmgWio5W9V8EZg&e=2095679011&scheme=https
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=B5LjOo-WoUh-0QaUra31Hw&e=2095766001&scheme=https
 
 #EXTINF:-1 catchup-days="7" tvg-logo="https://ugra-tv.ru/local/templates/ugra-tv/img/ico/logo.jpg" tvg-id="Югра",Югра
 #EXTGRP:Региональные
@@ -2987,7 +2987,7 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="О2ТВ" tvg-id="o2tv" tvg-logo="https://iptvx.one/picons/o2tv.png",О!2
 #EXTGRP:Музыка 🔊
-http://66.90.110.10:8080/2Gpp40Pt19/index.m3u8?token=CNVkbIWpdNQAUXGC
+http://s.only4.tv/6876/video.m3u8?token=JrLZMb4oeo
 
 #EXTINF:-1 tvg-name="ТНТ Music" tvg-id="tnt-music" tvg-logo="https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=imgtv/тнт_music.png",ТНТ Music
 #EXTGRP:Музыка 🔊
@@ -3051,7 +3051,7 @@ http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/18085/index.m3u8
 
 #EXTINF:0 tvg-name="FRESH Russian Rap HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6278.png" tvg-rec="0",FRESH Russian Rap HD
 #EXTGRP:Музыка 🔊
-http://apdn2s9z.tvclub.xyz/iptv/NPCQ4SE794WFSU/18090/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/18090/index.m3u8
 
 #EXTINF:0 ttvg-name="FRESH Lyrics HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/6281.png" tvg-rec="0",FRESH Lyrics HD
 #EXTGRP:Музыка 🔊
@@ -3075,7 +3075,7 @@ http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/31645/index.m3u8
 
 #EXTINF:0 tvg-name="Z!Music HD" tvg-id="no_epg_music" tvg-logo="http://epg.one/img2/5290.png" tvg-rec="0",Z!Music HD
 #EXTGRP:Музыка 🔊
-http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/14138/index.m3u8
+http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/14138/index.m3u8
 
 #EXTINF:-1 tvg-name="1HD Music" tvg-id="1hd" tvg-logo="https://1hd.ru/img/logo.svg",1HD
 #EXTGRP:Музыка 🔊
